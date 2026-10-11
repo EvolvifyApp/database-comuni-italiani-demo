@@ -1,0 +1,3477 @@
+[
+    {
+        "istat": 49001,
+        "zona_istat": 3,
+        "regione_istat": 9,
+        "provincia_istat": 49,
+        "istat_testo": "049001",
+        "nome": "Bibbona",
+        "email": "info@comune.bibbona.li.it",
+        "pec": "comune.bibbona@pec.it",
+        "telefono": "+39 0586 672111",
+        "prefisso": "0586",
+        "fax": "+39 0586 670363",
+        "wikipedia": "https://it.wikipedia.org/wiki/Bibbona",
+        "sito_web": "https://www.comune.bibbona.li.it/",
+        "belfiore": "A852",
+        "santo_patrono": "san Bartolomeo",
+        "festa_patronale": "13 gennaio",
+        "regione_capoluogo": 0,
+        "provincia_capoluogo": 0,
+        "istat_1995_2005": "049001",
+        "istat_2006_2009": "049001",
+        "istat_2010_2016": "049001",
+        "istat_2017_2025": "049001",
+        "nome_abitanti": "bibbonese, bibbonesi",
+        "cap": [
+            "57020"
+        ],
+        "confinanti": [
+            49007,
+            49006
+        ],
+        "frazioni": [
+            {
+                "istat": 4900110001,
+                "nome": "Bibbona",
+                "tipo": "centro_abitato",
+                "popolazione": 1131,
+                "altitudine": 80,
+                "latitudine": 43.265553,
+                "longitudine": 10.593968
+            },
+            {
+                "istat": 4900110002,
+                "nome": "La California",
+                "tipo": "centro_abitato",
+                "popolazione": 968,
+                "altitudine": 9,
+                "latitudine": 43.27068,
+                "longitudine": 10.545267
+            },
+            {
+                "istat": 4900110003,
+                "nome": "Marina di Bibbona",
+                "tipo": "centro_abitato",
+                "popolazione": 201,
+                "altitudine": 1,
+                "latitudine": 43.24243,
+                "longitudine": 10.53298
+            },
+            {
+                "istat": 4900120001,
+                "nome": "Stazione Bibbona",
+                "tipo": "nucleo_abitato",
+                "popolazione": 78,
+                "altitudine": 9,
+                "latitudine": 43.266167,
+                "longitudine": 10.54071
+            },
+            {
+                "istat": 4900120002,
+                "nome": "Stazione Bolgheri",
+                "tipo": "nucleo_abitato",
+                "popolazione": 54,
+                "altitudine": 9,
+                "latitudine": 43.245426,
+                "longitudine": 10.551135
+            },
+            {
+                "istat": 4900130001,
+                "nome": "Mannaione",
+                "tipo": "localita_produttiva",
+                "popolazione": 10,
+                "altitudine": 17,
+                "latitudine": 43.2738,
+                "longitudine": 10.562401
+            },
+            {
+                "istat": 4900140000,
+                "nome": "Case sparse",
+                "tipo": "case_sparse",
+                "popolazione": 730,
+                "altitudine": null,
+                "latitudine": 43.25547,
+                "longitudine": 10.604073
+            }
+        ],
+        "popolazione": {
+            "comune_istat": 49001,
+            "popolazione_maschile": 1602,
+            "popolazione_femminile": 1572,
+            "popolazione_totale": 3174,
+            "densita_abitativa": 48.38,
+            "grado_urbanizzazione": 3
+        },
+        "geo": {
+            "comune_istat": 49001,
+            "latitudine": 43.269402,
+            "longitudine": 10.598584,
+            "altitudine_slm": 80,
+            "superficie_kmq": 65.61
+        },
+        "ambiente": {
+            "comune_istat": 49001,
+            "zona_climatica": "D",
+            "zona_sismica": "3",
+            "zona_altimetrica": "4",
+            "gradi_giorno": 1417,
+            "comune_litoraneo": 1,
+            "comune_isolano": 0,
+            "zone_costiere": 1,
+            "zone_montane": 1,
+            "zone_vincoli_naturali": 0,
+            "zone_vincoli_specifici": 0
+        }
+    },
+    {
+        "istat": 49002,
+        "zona_istat": 3,
+        "regione_istat": 9,
+        "provincia_istat": 49,
+        "istat_testo": "049002",
+        "nome": "Campiglia Marittima",
+        "email": "segreteria@comune.campigliamarittima.li.it",
+        "pec": "comune.campigliamarittima@postacert.toscana.it",
+        "telefono": "+39 0565 839223",
+        "prefisso": "0565",
+        "fax": "+39 0565 839259",
+        "wikipedia": "https://it.wikipedia.org/wiki/Campiglia_Marittima",
+        "sito_web": "http://www.comune.campigliamarittima.li.it/",
+        "belfiore": "B509",
+        "santo_patrono": "san Fiorenzo di Populonia",
+        "festa_patronale": "15 maggio",
+        "regione_capoluogo": 0,
+        "provincia_capoluogo": 0,
+        "istat_1995_2005": "049002",
+        "istat_2006_2009": "049002",
+        "istat_2010_2016": "049002",
+        "istat_2017_2025": "049002",
+        "nome_abitanti": "campigliese, campigliesi",
+        "cap": [
+            "57021"
+        ],
+        "confinanti": [
+            49018,
+            49020,
+            49012
+        ],
+        "frazioni": [
+            {
+                "istat": 4900210001,
+                "nome": "Cafaggio",
+                "tipo": "centro_abitato",
+                "popolazione": 394,
+                "altitudine": 26,
+                "latitudine": 43.042693,
+                "longitudine": 10.637757
+            },
+            {
+                "istat": 4900210002,
+                "nome": "Campiglia Marittima",
+                "tipo": "centro_abitato",
+                "popolazione": 1222,
+                "altitudine": 231,
+                "latitudine": 43.059931,
+                "longitudine": 10.615788
+            },
+            {
+                "istat": 4900210003,
+                "nome": "Venturina Terme",
+                "tipo": "centro_abitato",
+                "popolazione": 8588,
+                "altitudine": 11,
+                "latitudine": 43.029191,
+                "longitudine": 10.601072
+            },
+            {
+                "istat": 4900220001,
+                "nome": "Bandita",
+                "tipo": "nucleo_abitato",
+                "popolazione": 33,
+                "altitudine": 16,
+                "latitudine": 43.028905,
+                "longitudine": 10.635719
+            },
+            {
+                "istat": 4900220002,
+                "nome": "Banditelle",
+                "tipo": "nucleo_abitato",
+                "popolazione": 37,
+                "altitudine": 11,
+                "latitudine": 43.004199,
+                "longitudine": 10.631816
+            },
+            {
+                "istat": 4900220004,
+                "nome": "Lumiere",
+                "tipo": "nucleo_abitato",
+                "popolazione": 162,
+                "altitudine": 42,
+                "latitudine": 43.045611,
+                "longitudine": 10.581417
+            },
+            {
+                "istat": 4900220005,
+                "nome": "Montioncello",
+                "tipo": "nucleo_abitato",
+                "popolazione": 53,
+                "altitudine": 14,
+                "latitudine": 43.034034,
+                "longitudine": 10.623634
+            },
+            {
+                "istat": 4900220006,
+                "nome": "Rovinato",
+                "tipo": "nucleo_abitato",
+                "popolazione": 47,
+                "altitudine": 181,
+                "latitudine": 43.054323,
+                "longitudine": 10.612721
+            },
+            {
+                "istat": 4900220007,
+                "nome": "Stazione di Campiglia Marittima",
+                "tipo": "nucleo_abitato",
+                "popolazione": 106,
+                "altitudine": 10,
+                "latitudine": 43.016438,
+                "longitudine": 10.58985
+            },
+            {
+                "istat": 4900220008,
+                "nome": "Campalto",
+                "tipo": "nucleo_abitato",
+                "popolazione": 44,
+                "altitudine": 90,
+                "latitudine": 43.063212,
+                "longitudine": 10.581996
+            },
+            {
+                "istat": 4900220012,
+                "nome": "Mulino Barani",
+                "tipo": "nucleo_abitato",
+                "popolazione": 64,
+                "altitudine": 11,
+                "latitudine": 43.036448,
+                "longitudine": 10.590252
+            },
+            {
+                "istat": 4900224912,
+                "nome": "Dieci vecchi",
+                "tipo": "nucleo_abitato",
+                "popolazione": 4,
+                "altitudine": 5,
+                "latitudine": 43.022733,
+                "longitudine": 10.551982
+            },
+            {
+                "istat": 4900226609,
+                "nome": "Casalappi",
+                "tipo": "nucleo_abitato",
+                "popolazione": 2,
+                "altitudine": 89,
+                "latitudine": 43.024392,
+                "longitudine": 10.682425
+            },
+            {
+                "istat": 4900226611,
+                "nome": "Parco Termale",
+                "tipo": "nucleo_abitato",
+                "popolazione": 37,
+                "altitudine": 11,
+                "latitudine": 43.038646,
+                "longitudine": 10.592294
+            },
+            {
+                "istat": 4900226710,
+                "nome": "Granai",
+                "tipo": "nucleo_abitato",
+                "popolazione": 14,
+                "altitudine": 5,
+                "latitudine": 43.021098,
+                "longitudine": 10.563954
+            },
+            {
+                "istat": 4900230001,
+                "nome": "Campo alla Croce",
+                "tipo": "localita_produttiva",
+                "popolazione": 0,
+                "altitudine": 9,
+                "latitudine": 43.009848,
+                "longitudine": 10.587891
+            },
+            {
+                "istat": 4900230002,
+                "nome": "Località Produttiva Montevalerio",
+                "tipo": "localita_produttiva",
+                "popolazione": 0,
+                "altitudine": 119,
+                "latitudine": 43.050854,
+                "longitudine": 10.59346
+            },
+            {
+                "istat": 4900240000,
+                "nome": "Case sparse",
+                "tipo": "case_sparse",
+                "popolazione": 1731,
+                "altitudine": null,
+                "latitudine": 43.021092,
+                "longitudine": 10.6338
+            }
+        ],
+        "popolazione": {
+            "comune_istat": 49002,
+            "popolazione_maschile": 5941,
+            "popolazione_femminile": 6360,
+            "popolazione_totale": 12301,
+            "densita_abitativa": 147.71,
+            "grado_urbanizzazione": 2
+        },
+        "geo": {
+            "comune_istat": 49002,
+            "latitudine": 43.031015,
+            "longitudine": 10.603406,
+            "altitudine_slm": 231,
+            "superficie_kmq": 83.28
+        },
+        "ambiente": {
+            "comune_istat": 49002,
+            "zona_climatica": "D",
+            "zona_sismica": "4",
+            "zona_altimetrica": "4",
+            "gradi_giorno": 1865,
+            "comune_litoraneo": 0,
+            "comune_isolano": 0,
+            "zone_costiere": 1,
+            "zone_montane": 1,
+            "zone_vincoli_naturali": 0,
+            "zone_vincoli_specifici": 0
+        }
+    },
+    {
+        "istat": 49003,
+        "zona_istat": 3,
+        "regione_istat": 9,
+        "provincia_istat": 49,
+        "istat_testo": "049003",
+        "nome": "Campo nell'Elba",
+        "email": "s.landi@comune.camponellelba.li.it",
+        "pec": "comune.camponellelba.li@postacert.toscana.it",
+        "telefono": "+39 0565 979311",
+        "prefisso": "0565",
+        "fax": "+39 0565 976044",
+        "wikipedia": "https://it.wikipedia.org/wiki/Campo_nell%27Elba",
+        "sito_web": "http://www.comune.campotures.bz.it/system/web/default.aspx?sprache=3",
+        "belfiore": "B553",
+        "santo_patrono": "san Gaetano Thiene",
+        "festa_patronale": "7 agosto",
+        "regione_capoluogo": 0,
+        "provincia_capoluogo": 0,
+        "istat_1995_2005": "049003",
+        "istat_2006_2009": "049003",
+        "istat_2010_2016": "049003",
+        "istat_2017_2025": "049003",
+        "nome_abitanti": "campese, campesi",
+        "cap": [
+            "57034"
+        ],
+        "confinanti": [
+            49004,
+            49010,
+            49014
+        ],
+        "frazioni": [
+            {
+                "istat": 4900310001,
+                "nome": "La Pila",
+                "tipo": "centro_abitato",
+                "popolazione": 472,
+                "altitudine": 15,
+                "latitudine": 42.76164,
+                "longitudine": 10.234903
+            },
+            {
+                "istat": 4900310002,
+                "nome": "Marina di Campo",
+                "tipo": "centro_abitato",
+                "popolazione": 2370,
+                "altitudine": 2,
+                "latitudine": 42.741472,
+                "longitudine": 10.229289
+            },
+            {
+                "istat": 4900310003,
+                "nome": "Pomonte",
+                "tipo": "centro_abitato",
+                "popolazione": 1,
+                "altitudine": 20,
+                "latitudine": 42.746665,
+                "longitudine": 10.119207
+            },
+            {
+                "istat": 4900310004,
+                "nome": "San Piero in Campo",
+                "tipo": "centro_abitato",
+                "popolazione": 566,
+                "altitudine": 227,
+                "latitudine": 42.75217,
+                "longitudine": 10.210211
+            },
+            {
+                "istat": 4900310005,
+                "nome": "Sant'Ilario",
+                "tipo": "centro_abitato",
+                "popolazione": 159,
+                "altitudine": 180,
+                "latitudine": 42.764047,
+                "longitudine": 10.213555
+            },
+            {
+                "istat": 4900310006,
+                "nome": "Secchetto",
+                "tipo": "centro_abitato",
+                "popolazione": 189,
+                "altitudine": 3,
+                "latitudine": 42.736909,
+                "longitudine": 10.176706
+            },
+            {
+                "istat": 4900320001,
+                "nome": "Bonalaccia-Filetto",
+                "tipo": "nucleo_abitato",
+                "popolazione": 229,
+                "altitudine": 7,
+                "latitudine": 42.758813,
+                "longitudine": 10.249164
+            },
+            {
+                "istat": 4900320004,
+                "nome": "Fetovaia",
+                "tipo": "nucleo_abitato",
+                "popolazione": 49,
+                "altitudine": 25,
+                "latitudine": 42.734415,
+                "longitudine": 10.15156
+            },
+            {
+                "istat": 4900320012,
+                "nome": "Capannili",
+                "tipo": "nucleo_abitato",
+                "popolazione": 35,
+                "altitudine": 3,
+                "latitudine": 42.770553,
+                "longitudine": 10.235108
+            },
+            {
+                "istat": 4900320013,
+                "nome": "Vallebuia",
+                "tipo": "nucleo_abitato",
+                "popolazione": 49,
+                "altitudine": 150,
+                "latitudine": 42.745352,
+                "longitudine": 10.171959
+            },
+            {
+                "istat": 4900320209,
+                "nome": "Pianosa",
+                "tipo": "nucleo_abitato",
+                "popolazione": 0,
+                "altitudine": 10,
+                "latitudine": 42.586945,
+                "longitudine": 10.097224
+            },
+            {
+                "istat": 4900326602,
+                "nome": "Cavoli",
+                "tipo": "nucleo_abitato",
+                "popolazione": 16,
+                "altitudine": 20,
+                "latitudine": 42.737866,
+                "longitudine": 10.187122
+            },
+            {
+                "istat": 4900326603,
+                "nome": "Colle di Palombaia",
+                "tipo": "nucleo_abitato",
+                "popolazione": 15,
+                "altitudine": 54,
+                "latitudine": 42.738384,
+                "longitudine": 10.205356
+            },
+            {
+                "istat": 4900326610,
+                "nome": "Literno",
+                "tipo": "nucleo_abitato",
+                "popolazione": 28,
+                "altitudine": 2,
+                "latitudine": 42.773746,
+                "longitudine": 10.255581
+            },
+            {
+                "istat": 4900326611,
+                "nome": "Vigne Giunche",
+                "tipo": "nucleo_abitato",
+                "popolazione": 19,
+                "altitudine": 2,
+                "latitudine": 42.772709,
+                "longitudine": 10.233191
+            },
+            {
+                "istat": 4900340000,
+                "nome": "Case sparse",
+                "tipo": "case_sparse",
+                "popolazione": 509,
+                "altitudine": null,
+                "latitudine": 42.747237,
+                "longitudine": 10.159825
+            }
+        ],
+        "popolazione": {
+            "comune_istat": 49003,
+            "popolazione_maschile": 2328,
+            "popolazione_femminile": 2323,
+            "popolazione_totale": 4651,
+            "densita_abitativa": 83.37,
+            "grado_urbanizzazione": 3
+        },
+        "geo": {
+            "comune_istat": 49003,
+            "latitudine": 42.74462,
+            "longitudine": 10.233456,
+            "altitudine_slm": 2,
+            "superficie_kmq": 55.79
+        },
+        "ambiente": {
+            "comune_istat": 49003,
+            "zona_climatica": "C",
+            "zona_sismica": "4",
+            "zona_altimetrica": "4",
+            "gradi_giorno": 1057,
+            "comune_litoraneo": 1,
+            "comune_isolano": 1,
+            "zone_costiere": 1,
+            "zone_montane": 0,
+            "zone_vincoli_naturali": 0,
+            "zone_vincoli_specifici": 1
+        }
+    },
+    {
+        "istat": 49004,
+        "zona_istat": 3,
+        "regione_istat": 9,
+        "provincia_istat": 49,
+        "istat_testo": "049004",
+        "nome": "Capoliveri",
+        "email": "a.baldoni@capoliveri.net",
+        "pec": "comunecapoliveri@pcert.it",
+        "telefono": "+39 0565 967611",
+        "prefisso": "0565",
+        "fax": "+39 0565 968060",
+        "wikipedia": "https://it.wikipedia.org/wiki/Capoliveri",
+        "sito_web": "http://www.comune.capoliveri.li.it",
+        "belfiore": "B669",
+        "santo_patrono": "Madonna dell'Assunta",
+        "festa_patronale": "15 agosto",
+        "regione_capoluogo": 0,
+        "provincia_capoluogo": 0,
+        "istat_1995_2005": "049004",
+        "istat_2006_2009": "049004",
+        "istat_2010_2016": "049004",
+        "istat_2017_2025": "049004",
+        "nome_abitanti": "capoliverese, capoliveresi",
+        "cap": [
+            "57031"
+        ],
+        "confinanti": [
+            49003,
+            49013,
+            49014
+        ],
+        "frazioni": [
+            {
+                "istat": 4900410001,
+                "nome": "Capoliveri",
+                "tipo": "centro_abitato",
+                "popolazione": 2086,
+                "altitudine": 167,
+                "latitudine": 42.745816,
+                "longitudine": 10.376329
+            },
+            {
+                "istat": 4900420007,
+                "nome": "Lacona",
+                "tipo": "nucleo_abitato",
+                "popolazione": 373,
+                "altitudine": 13,
+                "latitudine": 42.761977,
+                "longitudine": 10.303601
+            },
+            {
+                "istat": 4900420009,
+                "nome": "Lido",
+                "tipo": "nucleo_abitato",
+                "popolazione": 130,
+                "altitudine": 3,
+                "latitudine": 42.76086,
+                "longitudine": 10.358326
+            },
+            {
+                "istat": 4900420013,
+                "nome": "Morcone",
+                "tipo": "nucleo_abitato",
+                "popolazione": 48,
+                "altitudine": 17,
+                "latitudine": 42.732616,
+                "longitudine": 10.374281
+            },
+            {
+                "istat": 4900420014,
+                "nome": "Naregno",
+                "tipo": "nucleo_abitato",
+                "popolazione": 42,
+                "altitudine": 12,
+                "latitudine": 42.75421,
+                "longitudine": 10.40101
+            },
+            {
+                "istat": 4900420016,
+                "nome": "Pareti",
+                "tipo": "nucleo_abitato",
+                "popolazione": 32,
+                "altitudine": 13,
+                "latitudine": 42.727323,
+                "longitudine": 10.376345
+            },
+            {
+                "istat": 4900420021,
+                "nome": "Trappola-Peducelli",
+                "tipo": "nucleo_abitato",
+                "popolazione": 90,
+                "altitudine": 110,
+                "latitudine": 42.738034,
+                "longitudine": 10.373805
+            },
+            {
+                "istat": 4900420022,
+                "nome": "Vigne Vecchie",
+                "tipo": "nucleo_abitato",
+                "popolazione": 33,
+                "altitudine": 90,
+                "latitudine": 42.749225,
+                "longitudine": 10.38782
+            },
+            {
+                "istat": 4900420023,
+                "nome": "Valdana",
+                "tipo": "nucleo_abitato",
+                "popolazione": 27,
+                "altitudine": 45,
+                "latitudine": 42.767728,
+                "longitudine": 10.353547
+            },
+            {
+                "istat": 4900426606,
+                "nome": "Innamorata",
+                "tipo": "nucleo_abitato",
+                "popolazione": 20,
+                "altitudine": 10,
+                "latitudine": 42.722379,
+                "longitudine": 10.378881
+            },
+            {
+                "istat": 4900426610,
+                "nome": "Madonna delle Grazie",
+                "tipo": "nucleo_abitato",
+                "popolazione": 12,
+                "altitudine": 30,
+                "latitudine": 42.740145,
+                "longitudine": 10.369169
+            },
+            {
+                "istat": 4900426711,
+                "nome": "Mola",
+                "tipo": "nucleo_abitato",
+                "popolazione": 43,
+                "altitudine": 2,
+                "latitudine": 42.755995,
+                "longitudine": 10.376123
+            },
+            {
+                "istat": 4900440000,
+                "nome": "Case sparse",
+                "tipo": "case_sparse",
+                "popolazione": 942,
+                "altitudine": null,
+                "latitudine": 42.733891,
+                "longitudine": 10.398933
+            }
+        ],
+        "popolazione": {
+            "comune_istat": 49004,
+            "popolazione_maschile": 1966,
+            "popolazione_femminile": 1995,
+            "popolazione_totale": 3961,
+            "densita_abitativa": 100.13,
+            "grado_urbanizzazione": 3
+        },
+        "geo": {
+            "comune_istat": 49004,
+            "latitudine": 42.742549,
+            "longitudine": 10.382098,
+            "altitudine_slm": 167,
+            "superficie_kmq": 39.56
+        },
+        "ambiente": {
+            "comune_istat": 49004,
+            "zona_climatica": "C",
+            "zona_sismica": "4",
+            "zona_altimetrica": "4",
+            "gradi_giorno": 1204,
+            "comune_litoraneo": 1,
+            "comune_isolano": 1,
+            "zone_costiere": 1,
+            "zone_montane": 0,
+            "zone_vincoli_naturali": 0,
+            "zone_vincoli_specifici": 1
+        }
+    },
+    {
+        "istat": 49005,
+        "zona_istat": 3,
+        "regione_istat": 9,
+        "provincia_istat": 49,
+        "istat_testo": "049005",
+        "nome": "Capraia Isola",
+        "email": "comunecapraiaisola@tin.it",
+        "pec": "comunecapraiaisola@postacert.toscana.it",
+        "telefono": "+39 0586 905025",
+        "prefisso": "0586",
+        "fax": "+39 0586 905113",
+        "wikipedia": "https://it.wikipedia.org/wiki/Capraia_Isola",
+        "sito_web": "https://www.comune.capraiaisola.li.it/",
+        "belfiore": "B685",
+        "santo_patrono": "san Nicola",
+        "festa_patronale": "6 dicembre",
+        "regione_capoluogo": 0,
+        "provincia_capoluogo": 0,
+        "istat_1995_2005": "049005",
+        "istat_2006_2009": "049005",
+        "istat_2010_2016": "049005",
+        "istat_2017_2025": "049005",
+        "nome_abitanti": "capraiesi",
+        "cap": [
+            "57032"
+        ],
+        "confinanti": [],
+        "frazioni": [
+            {
+                "istat": 4900510001,
+                "nome": "Capraia Isola",
+                "tipo": "centro_abitato",
+                "popolazione": 290,
+                "altitudine": 52,
+                "latitudine": 43.048486,
+                "longitudine": 9.842637
+            },
+            {
+                "istat": 4900520001,
+                "nome": "Porto",
+                "tipo": "nucleo_abitato",
+                "popolazione": 85,
+                "altitudine": 3,
+                "latitudine": 43.049156,
+                "longitudine": 9.835695
+            },
+            {
+                "istat": 4900540000,
+                "nome": "Case sparse",
+                "tipo": "case_sparse",
+                "popolazione": 3,
+                "altitudine": null,
+                "latitudine": 43.037607,
+                "longitudine": 9.818662
+            }
+        ],
+        "popolazione": {
+            "comune_istat": 49005,
+            "popolazione_maschile": 197,
+            "popolazione_femminile": 161,
+            "popolazione_totale": 358,
+            "densita_abitativa": 18.49,
+            "grado_urbanizzazione": 3
+        },
+        "geo": {
+            "comune_istat": 49005,
+            "latitudine": 43.049867,
+            "longitudine": 9.842461,
+            "altitudine_slm": 52,
+            "superficie_kmq": 19.36
+        },
+        "ambiente": {
+            "comune_istat": 49005,
+            "zona_climatica": "C",
+            "zona_sismica": "4",
+            "zona_altimetrica": "4",
+            "gradi_giorno": 1260,
+            "comune_litoraneo": 1,
+            "comune_isolano": 1,
+            "zone_costiere": 1,
+            "zone_montane": 0,
+            "zone_vincoli_naturali": 0,
+            "zone_vincoli_specifici": 1
+        }
+    },
+    {
+        "istat": 49006,
+        "zona_istat": 3,
+        "regione_istat": 9,
+        "provincia_istat": 49,
+        "istat_testo": "049006",
+        "nome": "Castagneto Carducci",
+        "email": "urp@comune.castagneto-carducci.li.it",
+        "pec": "mail@comune.castagneto.legalmailpa.it",
+        "telefono": "+39 0565 778111",
+        "prefisso": "0565",
+        "fax": "+39 0565 763845",
+        "wikipedia": "https://it.wikipedia.org/wiki/Castagneto_Carducci",
+        "sito_web": "http://www.castagneto.comune.livorno.it/",
+        "belfiore": "C044",
+        "santo_patrono": "san Lorenzo",
+        "festa_patronale": "10 agosto",
+        "regione_capoluogo": 0,
+        "provincia_capoluogo": 0,
+        "istat_1995_2005": "049006",
+        "istat_2006_2009": "049006",
+        "istat_2010_2016": "049006",
+        "istat_2017_2025": "049006",
+        "nome_abitanti": "castagnetano, castagnetani",
+        "cap": [
+            "57022"
+        ],
+        "confinanti": [
+            49020,
+            49019,
+            49018,
+            49001
+        ],
+        "frazioni": [
+            {
+                "istat": 4900610001,
+                "nome": "Bolgheri",
+                "tipo": "centro_abitato",
+                "popolazione": 147,
+                "altitudine": 96,
+                "latitudine": 43.23381,
+                "longitudine": 10.617018
+            },
+            {
+                "istat": 4900610002,
+                "nome": "Castagneto Carducci",
+                "tipo": "centro_abitato",
+                "popolazione": 1154,
+                "altitudine": 194,
+                "latitudine": 43.160277,
+                "longitudine": 10.610578
+            },
+            {
+                "istat": 4900610003,
+                "nome": "Donoratico",
+                "tipo": "centro_abitato",
+                "popolazione": 5178,
+                "altitudine": 10,
+                "latitudine": 43.168265,
+                "longitudine": 10.567687
+            },
+            {
+                "istat": 4900610004,
+                "nome": "Marina di Castagneto Carducci",
+                "tipo": "centro_abitato",
+                "popolazione": 96,
+                "altitudine": 6,
+                "latitudine": 43.180613,
+                "longitudine": 10.540698
+            },
+            {
+                "istat": 4900610005,
+                "nome": "Il Seggio",
+                "tipo": "centro_abitato",
+                "popolazione": 202,
+                "altitudine": 7,
+                "latitudine": 43.185084,
+                "longitudine": 10.549123
+            },
+            {
+                "istat": 4900620001,
+                "nome": "Casone",
+                "tipo": "nucleo_abitato",
+                "popolazione": 69,
+                "altitudine": 7,
+                "latitudine": 43.186987,
+                "longitudine": 10.560697
+            },
+            {
+                "istat": 4900620004,
+                "nome": "San Giusto",
+                "tipo": "nucleo_abitato",
+                "popolazione": 46,
+                "altitudine": 75,
+                "latitudine": 43.164105,
+                "longitudine": 10.599592
+            },
+            {
+                "istat": 4900624906,
+                "nome": "Torinella",
+                "tipo": "nucleo_abitato",
+                "popolazione": 31,
+                "altitudine": 9,
+                "latitudine": 43.181764,
+                "longitudine": 10.557621
+            },
+            {
+                "istat": 4900626602,
+                "nome": "Fornaci",
+                "tipo": "nucleo_abitato",
+                "popolazione": 16,
+                "altitudine": 10,
+                "latitudine": 43.194968,
+                "longitudine": 10.567344
+            },
+            {
+                "istat": 4900626605,
+                "nome": "San Guido",
+                "tipo": "nucleo_abitato",
+                "popolazione": 21,
+                "altitudine": 10,
+                "latitudine": 43.227273,
+                "longitudine": 10.562154
+            },
+            {
+                "istat": 4900626608,
+                "nome": "Bolgheri I",
+                "tipo": "nucleo_abitato",
+                "popolazione": 8,
+                "altitudine": 10,
+                "latitudine": 43.221514,
+                "longitudine": 10.580736
+            },
+            {
+                "istat": 4900626609,
+                "nome": "Osteria Vecchia",
+                "tipo": "nucleo_abitato",
+                "popolazione": 14,
+                "altitudine": 10,
+                "latitudine": 43.215096,
+                "longitudine": 10.567647
+            },
+            {
+                "istat": 4900626610,
+                "nome": "Debbiacci",
+                "tipo": "nucleo_abitato",
+                "popolazione": 24,
+                "altitudine": 10,
+                "latitudine": 43.236623,
+                "longitudine": 10.567821
+            },
+            {
+                "istat": 4900626611,
+                "nome": "Sondraie",
+                "tipo": "nucleo_abitato",
+                "popolazione": 10,
+                "altitudine": 10,
+                "latitudine": 43.234855,
+                "longitudine": 10.55813
+            },
+            {
+                "istat": 4900640000,
+                "nome": "Case sparse",
+                "tipo": "case_sparse",
+                "popolazione": 1769,
+                "altitudine": null,
+                "latitudine": 43.179056,
+                "longitudine": 10.597934
+            }
+        ],
+        "popolazione": {
+            "comune_istat": 49006,
+            "popolazione_maschile": 4257,
+            "popolazione_femminile": 4376,
+            "popolazione_totale": 8633,
+            "densita_abitativa": 60.66,
+            "grado_urbanizzazione": 3
+        },
+        "geo": {
+            "comune_istat": 49006,
+            "latitudine": 43.160623,
+            "longitudine": 10.610131,
+            "altitudine_slm": 194,
+            "superficie_kmq": 142.32
+        },
+        "ambiente": {
+            "comune_istat": 49006,
+            "zona_climatica": "D",
+            "zona_sismica": "3",
+            "zona_altimetrica": "4",
+            "gradi_giorno": 1432,
+            "comune_litoraneo": 1,
+            "comune_isolano": 0,
+            "zone_costiere": 1,
+            "zone_montane": 0,
+            "zone_vincoli_naturali": 0,
+            "zone_vincoli_specifici": 0
+        }
+    },
+    {
+        "istat": 49007,
+        "zona_istat": 3,
+        "regione_istat": 9,
+        "provincia_istat": 49,
+        "istat_testo": "049007",
+        "nome": "Cecina",
+        "email": "g.bibbiani@comune.cecina.li.it",
+        "pec": "protocollo@cert.comune.cecina.li.it",
+        "telefono": "+39 0586611703",
+        "prefisso": "0586",
+        "fax": "+39 0586611208",
+        "wikipedia": "https://it.wikipedia.org/wiki/Cecina_(comune)",
+        "sito_web": "http://www.comune.cecina.li.it",
+        "belfiore": "C415",
+        "santo_patrono": "san Giuseppe",
+        "festa_patronale": "19 marzo",
+        "regione_capoluogo": 0,
+        "provincia_capoluogo": 0,
+        "istat_1995_2005": "049007",
+        "istat_2006_2009": "049007",
+        "istat_2010_2016": "049007",
+        "istat_2017_2025": "049007",
+        "nome_abitanti": "cecinese, cecinesi",
+        "cap": [
+            "57023"
+        ],
+        "confinanti": [
+            49001,
+            49017
+        ],
+        "frazioni": [
+            {
+                "istat": 4900710001,
+                "nome": "Cecina",
+                "tipo": "centro_abitato",
+                "popolazione": 21640,
+                "altitudine": 15,
+                "latitudine": 43.296789,
+                "longitudine": 10.50096
+            },
+            {
+                "istat": 4900710002,
+                "nome": "Mazzanta",
+                "tipo": "centro_abitato",
+                "popolazione": 28,
+                "altitudine": 2,
+                "latitudine": 43.319535,
+                "longitudine": 10.469202
+            },
+            {
+                "istat": 4900710003,
+                "nome": "Pacchione",
+                "tipo": "centro_abitato",
+                "popolazione": 112,
+                "altitudine": 43,
+                "latitudine": 43.355292,
+                "longitudine": 10.50833
+            },
+            {
+                "istat": 4900710004,
+                "nome": "SP in Palazzi",
+                "tipo": "centro_abitato",
+                "popolazione": 3166,
+                "altitudine": 10,
+                "latitudine": 43.325696,
+                "longitudine": 10.510105
+            },
+            {
+                "istat": 4900720002,
+                "nome": "La Cinquantina",
+                "tipo": "nucleo_abitato",
+                "popolazione": 234,
+                "altitudine": 10,
+                "latitudine": 43.319343,
+                "longitudine": 10.4993
+            },
+            {
+                "istat": 4900720003,
+                "nome": "Case sparse Via Pasubio",
+                "tipo": "nucleo_abitato",
+                "popolazione": 111,
+                "altitudine": 10,
+                "latitudine": 43.291932,
+                "longitudine": 10.536547
+            },
+            {
+                "istat": 4900724903,
+                "nome": "Villaggio turistico Le Gorette",
+                "tipo": "nucleo_abitato",
+                "popolazione": 0,
+                "altitudine": 1,
+                "latitudine": 43.312207,
+                "longitudine": 10.482766
+            },
+            {
+                "istat": 4900726701,
+                "nome": "Colle Mezzano",
+                "tipo": "nucleo_abitato",
+                "popolazione": 30,
+                "altitudine": 70,
+                "latitudine": 43.356306,
+                "longitudine": 10.5286
+            },
+            {
+                "istat": 4900730001,
+                "nome": "Zona Industriale Località Cedrino",
+                "tipo": "localita_produttiva",
+                "popolazione": 2,
+                "altitudine": 10,
+                "latitudine": 43.28809,
+                "longitudine": 10.537433
+            },
+            {
+                "istat": 4900740000,
+                "nome": "Case sparse",
+                "tipo": "case_sparse",
+                "popolazione": 2575,
+                "altitudine": null,
+                "latitudine": 43.294441,
+                "longitudine": 10.552067
+            }
+        ],
+        "popolazione": {
+            "comune_istat": 49007,
+            "popolazione_maschile": 13414,
+            "popolazione_femminile": 14648,
+            "popolazione_totale": 28062,
+            "densita_abitativa": 658.11,
+            "grado_urbanizzazione": 2
+        },
+        "geo": {
+            "comune_istat": 49007,
+            "latitudine": 43.312189,
+            "longitudine": 10.519378,
+            "altitudine_slm": 15,
+            "superficie_kmq": 42.64
+        },
+        "ambiente": {
+            "comune_istat": 49007,
+            "zona_climatica": "C",
+            "zona_sismica": "3",
+            "zona_altimetrica": "4",
+            "gradi_giorno": 1332,
+            "comune_litoraneo": 1,
+            "comune_isolano": 0,
+            "zone_costiere": 1,
+            "zone_montane": 0,
+            "zone_vincoli_naturali": 0,
+            "zone_vincoli_specifici": 0
+        }
+    },
+    {
+        "istat": 49008,
+        "zona_istat": 3,
+        "regione_istat": 9,
+        "provincia_istat": 49,
+        "istat_testo": "049008",
+        "nome": "Collesalvetti",
+        "email": "segreteriasindaco@comune.collesalvetti.li.it",
+        "pec": "comune.collesalvetti@postacert.toscana.it",
+        "telefono": "+39 0586 980253",
+        "prefisso": "0586",
+        "fax": "+39 0586 980254",
+        "wikipedia": "https://it.wikipedia.org/wiki/Collesalvetti",
+        "sito_web": "http://www.comune.collesalvetti.li.it/",
+        "belfiore": "C869",
+        "santo_patrono": "san Quirico e santa Giulitta",
+        "festa_patronale": "16 giugno",
+        "regione_capoluogo": 0,
+        "provincia_capoluogo": 0,
+        "istat_1995_2005": "049008",
+        "istat_2006_2009": "049008",
+        "istat_2010_2016": "049008",
+        "istat_2017_2025": "049008",
+        "nome_abitanti": "colligiano, colligiani",
+        "cap": [
+            "57014"
+        ],
+        "confinanti": [
+            49009,
+            49017
+        ],
+        "frazioni": [
+            {
+                "istat": 4900810001,
+                "nome": "Castell'Anselmo",
+                "tipo": "centro_abitato",
+                "popolazione": 212,
+                "altitudine": 132,
+                "latitudine": 43.554027,
+                "longitudine": 10.467779
+            },
+            {
+                "istat": 4900810002,
+                "nome": "Collesalvetti",
+                "tipo": "centro_abitato",
+                "popolazione": 3539,
+                "altitudine": 40,
+                "latitudine": 43.587849,
+                "longitudine": 10.477504
+            },
+            {
+                "istat": 4900810003,
+                "nome": "Colognole",
+                "tipo": "centro_abitato",
+                "popolazione": 163,
+                "altitudine": 210,
+                "latitudine": 43.509929,
+                "longitudine": 10.448058
+            },
+            {
+                "istat": 4900810004,
+                "nome": "Crocino",
+                "tipo": "centro_abitato",
+                "popolazione": 144,
+                "altitudine": 69,
+                "latitudine": 43.524497,
+                "longitudine": 10.459344
+            },
+            {
+                "istat": 4900810005,
+                "nome": "Guasticce",
+                "tipo": "centro_abitato",
+                "popolazione": 1263,
+                "altitudine": 4,
+                "latitudine": 43.59805,
+                "longitudine": 10.408627
+            },
+            {
+                "istat": 4900810008,
+                "nome": "Parrana San Giusto",
+                "tipo": "centro_abitato",
+                "popolazione": 65,
+                "altitudine": 144,
+                "latitudine": 43.524807,
+                "longitudine": 10.445114
+            },
+            {
+                "istat": 4900810009,
+                "nome": "Parrana San Martino",
+                "tipo": "centro_abitato",
+                "popolazione": 174,
+                "altitudine": 108,
+                "latitudine": 43.537083,
+                "longitudine": 10.441966
+            },
+            {
+                "istat": 4900810010,
+                "nome": "Stagno",
+                "tipo": "centro_abitato",
+                "popolazione": 4187,
+                "altitudine": 3,
+                "latitudine": 43.585144,
+                "longitudine": 10.343669
+            },
+            {
+                "istat": 4900810011,
+                "nome": "Vicarello",
+                "tipo": "centro_abitato",
+                "popolazione": 3150,
+                "altitudine": 9,
+                "latitudine": 43.612397,
+                "longitudine": 10.465134
+            },
+            {
+                "istat": 4900810012,
+                "nome": "Nugola",
+                "tipo": "centro_abitato",
+                "popolazione": 881,
+                "altitudine": 69,
+                "latitudine": 43.576557,
+                "longitudine": 10.436951
+            },
+            {
+                "istat": 4900820005,
+                "nome": "Le Buchette",
+                "tipo": "nucleo_abitato",
+                "popolazione": 40,
+                "altitudine": 10,
+                "latitudine": 43.603029,
+                "longitudine": 10.476721
+            },
+            {
+                "istat": 4900820007,
+                "nome": "Le Case II",
+                "tipo": "nucleo_abitato",
+                "popolazione": 55,
+                "altitudine": 140,
+                "latitudine": 43.50291,
+                "longitudine": 10.452878
+            },
+            {
+                "istat": 4900820009,
+                "nome": "Mortaiolo",
+                "tipo": "nucleo_abitato",
+                "popolazione": 190,
+                "altitudine": 16,
+                "latitudine": 43.607015,
+                "longitudine": 10.437374
+            },
+            {
+                "istat": 4900820010,
+                "nome": "Pietreto",
+                "tipo": "nucleo_abitato",
+                "popolazione": 161,
+                "altitudine": 133,
+                "latitudine": 43.541995,
+                "longitudine": 10.438457
+            },
+            {
+                "istat": 4900820013,
+                "nome": "Tanna Alta",
+                "tipo": "nucleo_abitato",
+                "popolazione": 111,
+                "altitudine": 30,
+                "latitudine": 43.592391,
+                "longitudine": 10.462681
+            },
+            {
+                "istat": 4900820015,
+                "nome": "Torretta Vecchia",
+                "tipo": "nucleo_abitato",
+                "popolazione": 61,
+                "altitudine": 27,
+                "latitudine": 43.557628,
+                "longitudine": 10.477506
+            },
+            {
+                "istat": 4900820016,
+                "nome": "Pandoiano",
+                "tipo": "nucleo_abitato",
+                "popolazione": 39,
+                "altitudine": 220,
+                "latitudine": 43.517059,
+                "longitudine": 10.44503
+            },
+            {
+                "istat": 4900820018,
+                "nome": "Poggio Ai Grilli",
+                "tipo": "nucleo_abitato",
+                "popolazione": 40,
+                "altitudine": 38,
+                "latitudine": 43.569853,
+                "longitudine": 10.433325
+            },
+            {
+                "istat": 4900820020,
+                "nome": "Guinceri",
+                "tipo": "nucleo_abitato",
+                "popolazione": 44,
+                "altitudine": 19,
+                "latitudine": 43.610704,
+                "longitudine": 10.477705
+            },
+            {
+                "istat": 4900820023,
+                "nome": "Badia II",
+                "tipo": "nucleo_abitato",
+                "popolazione": 44,
+                "altitudine": 17,
+                "latitudine": 43.58463,
+                "longitudine": 10.462133
+            },
+            {
+                "istat": 4900826602,
+                "nome": "Colliromboli",
+                "tipo": "nucleo_abitato",
+                "popolazione": 32,
+                "altitudine": 13,
+                "latitudine": 43.588413,
+                "longitudine": 10.466643
+            },
+            {
+                "istat": 4900826604,
+                "nome": "La Casa",
+                "tipo": "nucleo_abitato",
+                "popolazione": 20,
+                "altitudine": 126,
+                "latitudine": 43.544897,
+                "longitudine": 10.4372
+            },
+            {
+                "istat": 4900826608,
+                "nome": "Le Murelle",
+                "tipo": "nucleo_abitato",
+                "popolazione": 21,
+                "altitudine": 10,
+                "latitudine": 43.603798,
+                "longitudine": 10.454627
+            },
+            {
+                "istat": 4900826612,
+                "nome": "Ponte Biscottino",
+                "tipo": "nucleo_abitato",
+                "popolazione": 37,
+                "altitudine": 4,
+                "latitudine": 43.618649,
+                "longitudine": 10.406886
+            },
+            {
+                "istat": 4900826614,
+                "nome": "Tanna Bassa",
+                "tipo": "nucleo_abitato",
+                "popolazione": 23,
+                "altitudine": 20,
+                "latitudine": 43.594189,
+                "longitudine": 10.457893
+            },
+            {
+                "istat": 4900826701,
+                "nome": "Aiaccia",
+                "tipo": "nucleo_abitato",
+                "popolazione": 41,
+                "altitudine": 22,
+                "latitudine": 43.578059,
+                "longitudine": 10.369311
+            },
+            {
+                "istat": 4900826706,
+                "nome": "Le Case I",
+                "tipo": "nucleo_abitato",
+                "popolazione": 9,
+                "altitudine": 4,
+                "latitudine": 43.615891,
+                "longitudine": 10.398722
+            },
+            {
+                "istat": 4900826711,
+                "nome": "Poggio Badia",
+                "tipo": "nucleo_abitato",
+                "popolazione": 19,
+                "altitudine": 34,
+                "latitudine": 43.588945,
+                "longitudine": 10.4619
+            },
+            {
+                "istat": 4900826717,
+                "nome": "Loti",
+                "tipo": "nucleo_abitato",
+                "popolazione": 11,
+                "altitudine": 241,
+                "latitudine": 43.514808,
+                "longitudine": 10.440337
+            },
+            {
+                "istat": 4900826721,
+                "nome": "Punta degli Alessandrini",
+                "tipo": "nucleo_abitato",
+                "popolazione": 22,
+                "altitudine": 2,
+                "latitudine": 43.630139,
+                "longitudine": 10.4575
+            },
+            {
+                "istat": 4900826725,
+                "nome": "Villa Marcacci",
+                "tipo": "nucleo_abitato",
+                "popolazione": 0,
+                "altitudine": 6,
+                "latitudine": 43.620976,
+                "longitudine": 10.465534
+            },
+            {
+                "istat": 4900830001,
+                "nome": "C.M.F.",
+                "tipo": "localita_produttiva",
+                "popolazione": 13,
+                "altitudine": 11,
+                "latitudine": 43.593428,
+                "longitudine": 10.39549
+            },
+            {
+                "istat": 4900830002,
+                "nome": "La Chiusa",
+                "tipo": "localita_produttiva",
+                "popolazione": 198,
+                "altitudine": 8,
+                "latitudine": 43.599326,
+                "longitudine": 10.470207
+            },
+            {
+                "istat": 4900830004,
+                "nome": "Interporto Amerigo Vespucci",
+                "tipo": "localita_produttiva",
+                "popolazione": 11,
+                "altitudine": 6,
+                "latitudine": 43.602388,
+                "longitudine": 10.391711
+            },
+            {
+                "istat": 4900840000,
+                "nome": "Case sparse",
+                "tipo": "case_sparse",
+                "popolazione": 1350,
+                "altitudine": null,
+                "latitudine": 43.581019,
+                "longitudine": 10.388553
+            }
+        ],
+        "popolazione": {
+            "comune_istat": 49008,
+            "popolazione_maschile": 8049,
+            "popolazione_femminile": 8369,
+            "popolazione_totale": 16418,
+            "densita_abitativa": 152.03,
+            "grado_urbanizzazione": 3
+        },
+        "geo": {
+            "comune_istat": 49008,
+            "latitudine": 43.589129,
+            "longitudine": 10.476095,
+            "altitudine_slm": 40,
+            "superficie_kmq": 107.99
+        },
+        "ambiente": {
+            "comune_istat": 49008,
+            "zona_climatica": "D",
+            "zona_sismica": "3",
+            "zona_altimetrica": "4",
+            "gradi_giorno": 1500,
+            "comune_litoraneo": 0,
+            "comune_isolano": 0,
+            "zone_costiere": 1,
+            "zone_montane": 0,
+            "zone_vincoli_naturali": 0,
+            "zone_vincoli_specifici": 0
+        }
+    },
+    {
+        "istat": 49009,
+        "zona_istat": 3,
+        "regione_istat": 9,
+        "provincia_istat": 49,
+        "istat_testo": "049009",
+        "nome": "Livorno",
+        "email": "urp@comune.livorno.it",
+        "pec": "comune.livorno@postacert.toscana.it",
+        "telefono": "+39 0586 820111",
+        "prefisso": "0586",
+        "fax": "+39 0586 820444",
+        "wikipedia": "https://it.wikipedia.org/wiki/Livorno",
+        "sito_web": "https://www.visit-livorno.it/",
+        "belfiore": "E625",
+        "santo_patrono": "Giulia di Corsica",
+        "festa_patronale": "22 maggio",
+        "regione_capoluogo": 0,
+        "provincia_capoluogo": 1,
+        "istat_1995_2005": "049009",
+        "istat_2006_2009": "049009",
+        "istat_2010_2016": "049009",
+        "istat_2017_2025": "049009",
+        "nome_abitanti": "livornese, livornesi; labronico, labronici",
+        "cap": [
+            "57126",
+            "57128",
+            "57127",
+            "57125",
+            "57124",
+            "57123",
+            "57122",
+            "57121"
+        ],
+        "confinanti": [
+            49008,
+            49017
+        ],
+        "frazioni": [
+            {
+                "istat": 4900910004,
+                "nome": "Livorno",
+                "tipo": "centro_abitato",
+                "popolazione": 150968,
+                "altitudine": 3,
+                "latitudine": 43.544371,
+                "longitudine": 10.325975
+            },
+            {
+                "istat": 4900910006,
+                "nome": "Quercianella",
+                "tipo": "centro_abitato",
+                "popolazione": 1174,
+                "altitudine": 22,
+                "latitudine": 43.458234,
+                "longitudine": 10.36939
+            },
+            {
+                "istat": 4900910008,
+                "nome": "Gorgona Scalo",
+                "tipo": "centro_abitato",
+                "popolazione": 31,
+                "altitudine": 31,
+                "latitudine": 43.431159,
+                "longitudine": 9.90492
+            },
+            {
+                "istat": 4900920004,
+                "nome": "Campo Al Melo",
+                "tipo": "nucleo_abitato",
+                "popolazione": 60,
+                "altitudine": 22,
+                "latitudine": 43.573723,
+                "longitudine": 10.374519
+            },
+            {
+                "istat": 4900920007,
+                "nome": "Ghiandaie",
+                "tipo": "nucleo_abitato",
+                "popolazione": 39,
+                "altitudine": 100,
+                "latitudine": 43.524569,
+                "longitudine": 10.366391
+            },
+            {
+                "istat": 4900920014,
+                "nome": "Padula",
+                "tipo": "nucleo_abitato",
+                "popolazione": 75,
+                "altitudine": 50,
+                "latitudine": 43.545321,
+                "longitudine": 10.35644
+            },
+            {
+                "istat": 4900920022,
+                "nome": "Villa Maria",
+                "tipo": "nucleo_abitato",
+                "popolazione": 45,
+                "altitudine": 61,
+                "latitudine": 43.507203,
+                "longitudine": 10.346594
+            },
+            {
+                "istat": 4900920023,
+                "nome": "Valle Benedetta",
+                "tipo": "nucleo_abitato",
+                "popolazione": 113,
+                "altitudine": 340,
+                "latitudine": 43.521913,
+                "longitudine": 10.408948
+            },
+            {
+                "istat": 4900920024,
+                "nome": "Pian di Rota",
+                "tipo": "nucleo_abitato",
+                "popolazione": 63,
+                "altitudine": 21,
+                "latitudine": 43.569306,
+                "longitudine": 10.366363
+            },
+            {
+                "istat": 4900920025,
+                "nome": "Limoncino",
+                "tipo": "nucleo_abitato",
+                "popolazione": 142,
+                "altitudine": 75,
+                "latitudine": 43.527569,
+                "longitudine": 10.374962
+            },
+            {
+                "istat": 4900920026,
+                "nome": "Condotti Vecchi",
+                "tipo": "nucleo_abitato",
+                "popolazione": 96,
+                "altitudine": 19,
+                "latitudine": 43.554521,
+                "longitudine": 10.347802
+            },
+            {
+                "istat": 4900920027,
+                "nome": "Castellaccio",
+                "tipo": "nucleo_abitato",
+                "popolazione": 340,
+                "altitudine": 313,
+                "latitudine": 43.486248,
+                "longitudine": 10.365579
+            },
+            {
+                "istat": 4900926603,
+                "nome": "Burchietto",
+                "tipo": "nucleo_abitato",
+                "popolazione": 22,
+                "altitudine": 149,
+                "latitudine": 43.523598,
+                "longitudine": 10.380196
+            },
+            {
+                "istat": 4900926606,
+                "nome": "Evangelisti",
+                "tipo": "nucleo_abitato",
+                "popolazione": 22,
+                "altitudine": 201,
+                "latitudine": 43.481795,
+                "longitudine": 10.372069
+            },
+            {
+                "istat": 4900926608,
+                "nome": "Lazzaretto",
+                "tipo": "nucleo_abitato",
+                "popolazione": 20,
+                "altitudine": 75,
+                "latitudine": 43.524215,
+                "longitudine": 10.357239
+            },
+            {
+                "istat": 4900926618,
+                "nome": "San Michele",
+                "tipo": "nucleo_abitato",
+                "popolazione": 37,
+                "altitudine": 122,
+                "latitudine": 43.529904,
+                "longitudine": 10.38091
+            },
+            {
+                "istat": 4900926621,
+                "nome": "Vecchio Dazio",
+                "tipo": "nucleo_abitato",
+                "popolazione": 23,
+                "altitudine": 30,
+                "latitudine": 43.516102,
+                "longitudine": 10.359624
+            },
+            {
+                "istat": 4900926702,
+                "nome": "Bellosguardo",
+                "tipo": "nucleo_abitato",
+                "popolazione": 9,
+                "altitudine": 200,
+                "latitudine": 43.52029,
+                "longitudine": 10.378937
+            },
+            {
+                "istat": 4900930001,
+                "nome": "Vallin Buio",
+                "tipo": "localita_produttiva",
+                "popolazione": 4,
+                "altitudine": 9,
+                "latitudine": 43.574826,
+                "longitudine": 10.352614
+            },
+            {
+                "istat": 4900940000,
+                "nome": "Case sparse",
+                "tipo": "case_sparse",
+                "popolazione": 1200,
+                "altitudine": null,
+                "latitudine": 43.477743,
+                "longitudine": 10.350405
+            }
+        ],
+        "popolazione": {
+            "comune_istat": 49009,
+            "popolazione_maschile": 73921,
+            "popolazione_femminile": 79233,
+            "popolazione_totale": 153154,
+            "densita_abitativa": 1457.64,
+            "grado_urbanizzazione": 1
+        },
+        "geo": {
+            "comune_istat": 49009,
+            "latitudine": 43.552232,
+            "longitudine": 10.308057,
+            "altitudine_slm": 3,
+            "superficie_kmq": 105.07
+        },
+        "ambiente": {
+            "comune_istat": 49009,
+            "zona_climatica": "D",
+            "zona_sismica": "3",
+            "zona_altimetrica": "4",
+            "gradi_giorno": 1408,
+            "comune_litoraneo": 1,
+            "comune_isolano": 0,
+            "zone_costiere": 1,
+            "zone_montane": 0,
+            "zone_vincoli_naturali": 0,
+            "zone_vincoli_specifici": 0
+        }
+    },
+    {
+        "istat": 49010,
+        "zona_istat": 3,
+        "regione_istat": 9,
+        "provincia_istat": 49,
+        "istat_testo": "049010",
+        "nome": "Marciana",
+        "email": "info@comune.marciana.li.it",
+        "pec": "protocollo@pec.comune.marciana.li.it",
+        "telefono": "+39 0565 901215",
+        "prefisso": "0565",
+        "fax": "+39 0565 901076",
+        "wikipedia": "https://it.wikipedia.org/wiki/Marciana_(Italia)",
+        "sito_web": "http://www.comune.marciana.li.it",
+        "belfiore": "E930",
+        "santo_patrono": "santa Caterina d'Alessandria",
+        "festa_patronale": "25 novembre",
+        "regione_capoluogo": 0,
+        "provincia_capoluogo": 0,
+        "istat_1995_2005": "049010",
+        "istat_2006_2009": "049010",
+        "istat_2010_2016": "049010",
+        "istat_2017_2025": "049010",
+        "nome_abitanti": "marcianese, marcianesi",
+        "cap": [
+            "57030"
+        ],
+        "confinanti": [
+            49003,
+            49011,
+            49014
+        ],
+        "frazioni": [
+            {
+                "istat": 4901010001,
+                "nome": "Chiessi",
+                "tipo": "centro_abitato",
+                "popolazione": 124,
+                "altitudine": 22,
+                "latitudine": 42.759419,
+                "longitudine": 10.112575
+            },
+            {
+                "istat": 4901010002,
+                "nome": "Colle d'Orano",
+                "tipo": "centro_abitato",
+                "popolazione": 75,
+                "altitudine": 140,
+                "latitudine": 42.787306,
+                "longitudine": 10.112147
+            },
+            {
+                "istat": 4901010003,
+                "nome": "La Guardia",
+                "tipo": "centro_abitato",
+                "popolazione": 61,
+                "altitudine": 127,
+                "latitudine": 42.793354,
+                "longitudine": 10.116951
+            },
+            {
+                "istat": 4901010004,
+                "nome": "Marciana",
+                "tipo": "centro_abitato",
+                "popolazione": 276,
+                "altitudine": 375,
+                "latitudine": 42.789205,
+                "longitudine": 10.167754
+            },
+            {
+                "istat": 4901010005,
+                "nome": "Poggio",
+                "tipo": "centro_abitato",
+                "popolazione": 154,
+                "altitudine": 330,
+                "latitudine": 42.787253,
+                "longitudine": 10.183968
+            },
+            {
+                "istat": 4901010006,
+                "nome": "Pomonte",
+                "tipo": "centro_abitato",
+                "popolazione": 281,
+                "altitudine": 20,
+                "latitudine": 42.74864,
+                "longitudine": 10.121634
+            },
+            {
+                "istat": 4901010007,
+                "nome": "Procchio",
+                "tipo": "centro_abitato",
+                "popolazione": 389,
+                "altitudine": 6,
+                "latitudine": 42.78747,
+                "longitudine": 10.24645
+            },
+            {
+                "istat": 4901010008,
+                "nome": "Zanca-Sant'Andrea",
+                "tipo": "centro_abitato",
+                "popolazione": 184,
+                "altitudine": 148,
+                "latitudine": 42.804338,
+                "longitudine": 10.141134
+            },
+            {
+                "istat": 4901020003,
+                "nome": "Colle di Procchio",
+                "tipo": "nucleo_abitato",
+                "popolazione": 279,
+                "altitudine": 45,
+                "latitudine": 42.776158,
+                "longitudine": 10.245798
+            },
+            {
+                "istat": 4901026601,
+                "nome": "Aia",
+                "tipo": "nucleo_abitato",
+                "popolazione": 7,
+                "altitudine": 125,
+                "latitudine": 42.805589,
+                "longitudine": 10.157087
+            },
+            {
+                "istat": 4901040000,
+                "nome": "Case sparse",
+                "tipo": "case_sparse",
+                "popolazione": 200,
+                "altitudine": null,
+                "latitudine": 42.781195,
+                "longitudine": 10.146478
+            }
+        ],
+        "popolazione": {
+            "comune_istat": 49010,
+            "popolazione_maschile": 999,
+            "popolazione_femminile": 1059,
+            "popolazione_totale": 2058,
+            "densita_abitativa": 45.28,
+            "grado_urbanizzazione": 3
+        },
+        "geo": {
+            "comune_istat": 49010,
+            "latitudine": 42.789829,
+            "longitudine": 10.168007,
+            "altitudine_slm": 375,
+            "superficie_kmq": 45.45
+        },
+        "ambiente": {
+            "comune_istat": 49010,
+            "zona_climatica": "D",
+            "zona_sismica": "4",
+            "zona_altimetrica": "4",
+            "gradi_giorno": 1546,
+            "comune_litoraneo": 1,
+            "comune_isolano": 1,
+            "zone_costiere": 1,
+            "zone_montane": 0,
+            "zone_vincoli_naturali": 0,
+            "zone_vincoli_specifici": 1
+        }
+    },
+    {
+        "istat": 49011,
+        "zona_istat": 3,
+        "regione_istat": 9,
+        "provincia_istat": 49,
+        "istat_testo": "049011",
+        "nome": "Marciana Marina",
+        "email": "l.lupi@comune.marcianamarina.li.it",
+        "pec": "comune.marcianamarina@postacert.toscana.it",
+        "telefono": "+39 0565 99368",
+        "prefisso": "0565",
+        "fax": "+39 0565 904321",
+        "wikipedia": "https://it.wikipedia.org/wiki/Marciana_Marina",
+        "sito_web": "https://www.comune.marcianamarina.li.it/",
+        "belfiore": "E931",
+        "santo_patrono": "santa Chiara",
+        "festa_patronale": "11 agosto",
+        "regione_capoluogo": 0,
+        "provincia_capoluogo": 0,
+        "istat_1995_2005": "049011",
+        "istat_2006_2009": "049011",
+        "istat_2010_2016": "049011",
+        "istat_2017_2025": "049011",
+        "nome_abitanti": "marinesi",
+        "cap": [
+            "57033"
+        ],
+        "confinanti": [
+            49010
+        ],
+        "frazioni": [
+            {
+                "istat": 4901110001,
+                "nome": "Marciana Marina",
+                "tipo": "centro_abitato",
+                "popolazione": 1703,
+                "altitudine": 3,
+                "latitudine": 42.801884,
+                "longitudine": 10.194143
+            },
+            {
+                "istat": 4901120001,
+                "nome": "Bagno-Sprizze",
+                "tipo": "nucleo_abitato",
+                "popolazione": 55,
+                "altitudine": 33,
+                "latitudine": 42.79185,
+                "longitudine": 10.220142
+            },
+            {
+                "istat": 4901126602,
+                "nome": "Camola",
+                "tipo": "nucleo_abitato",
+                "popolazione": 8,
+                "altitudine": 125,
+                "latitudine": 42.798615,
+                "longitudine": 10.183555
+            },
+            {
+                "istat": 4901140000,
+                "nome": "Case sparse",
+                "tipo": "case_sparse",
+                "popolazione": 110,
+                "altitudine": null,
+                "latitudine": 42.796161,
+                "longitudine": 10.206741
+            }
+        ],
+        "popolazione": {
+            "comune_istat": 49011,
+            "popolazione_maschile": 919,
+            "popolazione_femminile": 953,
+            "popolazione_totale": 1872,
+            "densita_abitativa": 319.45,
+            "grado_urbanizzazione": 3
+        },
+        "geo": {
+            "comune_istat": 49011,
+            "latitudine": 42.804299,
+            "longitudine": 10.199898,
+            "altitudine_slm": 3,
+            "superficie_kmq": 5.86
+        },
+        "ambiente": {
+            "comune_istat": 49011,
+            "zona_climatica": "C",
+            "zona_sismica": "4",
+            "zona_altimetrica": "4",
+            "gradi_giorno": 989,
+            "comune_litoraneo": 1,
+            "comune_isolano": 1,
+            "zone_costiere": 1,
+            "zone_montane": 0,
+            "zone_vincoli_naturali": 0,
+            "zone_vincoli_specifici": 1
+        }
+    },
+    {
+        "istat": 49012,
+        "zona_istat": 3,
+        "regione_istat": 9,
+        "provincia_istat": 49,
+        "istat_testo": "049012",
+        "nome": "Piombino",
+        "email": "sindaco@comune.piombino.li.it",
+        "pec": "comunepiombino@postacert.toscana.it",
+        "telefono": "+39 0565 63111",
+        "prefisso": "0565",
+        "fax": "+39 0565 63290",
+        "wikipedia": "https://it.wikipedia.org/wiki/Piombino",
+        "sito_web": "https://www.comune.piombino.li.it/",
+        "belfiore": "G687",
+        "santo_patrono": "santa Anastasia",
+        "festa_patronale": "8 maggio",
+        "regione_capoluogo": 0,
+        "provincia_capoluogo": 0,
+        "istat_1995_2005": "049012",
+        "istat_2006_2009": "049012",
+        "istat_2010_2016": "049012",
+        "istat_2017_2025": "049012",
+        "nome_abitanti": "piombinese, piombinesi; piombinate, piombinati (aulico)",
+        "cap": [
+            "57025"
+        ],
+        "confinanti": [
+            49020,
+            49018,
+            49002
+        ],
+        "frazioni": [
+            {
+                "istat": 4901210001,
+                "nome": "Fiorentina",
+                "tipo": "centro_abitato",
+                "popolazione": 176,
+                "altitudine": 12,
+                "latitudine": 42.963905,
+                "longitudine": 10.535706
+            },
+            {
+                "istat": 4901210002,
+                "nome": "Piombino",
+                "tipo": "centro_abitato",
+                "popolazione": 28208,
+                "altitudine": 21,
+                "latitudine": 42.929113,
+                "longitudine": 10.528975
+            },
+            {
+                "istat": 4901210003,
+                "nome": "Riotorto",
+                "tipo": "centro_abitato",
+                "popolazione": 1358,
+                "altitudine": 52,
+                "latitudine": 42.979918,
+                "longitudine": 10.684744
+            },
+            {
+                "istat": 4901210004,
+                "nome": "Stazione di Populonia",
+                "tipo": "centro_abitato",
+                "popolazione": 182,
+                "altitudine": 10,
+                "latitudine": 42.995656,
+                "longitudine": 10.539947
+            },
+            {
+                "istat": 4901220002,
+                "nome": "Colmata",
+                "tipo": "nucleo_abitato",
+                "popolazione": 79,
+                "altitudine": 2,
+                "latitudine": 42.964876,
+                "longitudine": 10.550716
+            },
+            {
+                "istat": 4901220003,
+                "nome": "Gagno",
+                "tipo": "nucleo_abitato",
+                "popolazione": 63,
+                "altitudine": 23,
+                "latitudine": 42.948094,
+                "longitudine": 10.540787
+            },
+            {
+                "istat": 4901220004,
+                "nome": "La Sdriscia",
+                "tipo": "nucleo_abitato",
+                "popolazione": 38,
+                "altitudine": 6,
+                "latitudine": 42.984663,
+                "longitudine": 10.589287
+            },
+            {
+                "istat": 4901220206,
+                "nome": "Pescinone",
+                "tipo": "nucleo_abitato",
+                "popolazione": 7,
+                "altitudine": 10,
+                "latitudine": 42.997335,
+                "longitudine": 10.642128
+            },
+            {
+                "istat": 4901226601,
+                "nome": "Baratti",
+                "tipo": "nucleo_abitato",
+                "popolazione": 18,
+                "altitudine": 8,
+                "latitudine": 42.998859,
+                "longitudine": 10.51709
+            },
+            {
+                "istat": 4901226605,
+                "nome": "Populonia",
+                "tipo": "nucleo_abitato",
+                "popolazione": 13,
+                "altitudine": 170,
+                "latitudine": 42.988795,
+                "longitudine": 10.490862
+            },
+            {
+                "istat": 4901226607,
+                "nome": "Casalvolpi",
+                "tipo": "nucleo_abitato",
+                "popolazione": 25,
+                "altitudine": 12,
+                "latitudine": 42.995247,
+                "longitudine": 10.661443
+            },
+            {
+                "istat": 4901226608,
+                "nome": "Franciana",
+                "tipo": "nucleo_abitato",
+                "popolazione": 13,
+                "altitudine": 5,
+                "latitudine": 42.984672,
+                "longitudine": 10.630927
+            },
+            {
+                "istat": 4901226611,
+                "nome": "Le Guinzane",
+                "tipo": "nucleo_abitato",
+                "popolazione": 7,
+                "altitudine": 5,
+                "latitudine": 42.981867,
+                "longitudine": 10.60007
+            },
+            {
+                "istat": 4901226617,
+                "nome": "Le Scope",
+                "tipo": "nucleo_abitato",
+                "popolazione": 26,
+                "altitudine": 10,
+                "latitudine": 43.012972,
+                "longitudine": 10.525077
+            },
+            {
+                "istat": 4901230001,
+                "nome": "Vignale",
+                "tipo": "localita_produttiva",
+                "popolazione": 2,
+                "altitudine": 14,
+                "latitudine": 42.96932,
+                "longitudine": 10.678513
+            },
+            {
+                "istat": 4901230002,
+                "nome": "Montegemoli",
+                "tipo": "localita_produttiva",
+                "popolazione": 98,
+                "altitudine": 3,
+                "latitudine": 42.969549,
+                "longitudine": 10.546909
+            },
+            {
+                "istat": 4901230003,
+                "nome": "Ischia di Crociano",
+                "tipo": "localita_produttiva",
+                "popolazione": 0,
+                "altitudine": 2,
+                "latitudine": 42.958034,
+                "longitudine": 10.555351
+            },
+            {
+                "istat": 4901230004,
+                "nome": "Torre del sale",
+                "tipo": "localita_produttiva",
+                "popolazione": 0,
+                "altitudine": 2,
+                "latitudine": 42.958842,
+                "longitudine": 10.602136
+            },
+            {
+                "istat": 4901240000,
+                "nome": "Case sparse",
+                "tipo": "case_sparse",
+                "popolazione": 1991,
+                "altitudine": null,
+                "latitudine": 42.972605,
+                "longitudine": 10.61684
+            }
+        ],
+        "popolazione": {
+            "comune_istat": 49012,
+            "popolazione_maschile": 15836,
+            "popolazione_femminile": 16531,
+            "popolazione_totale": 32367,
+            "densita_abitativa": 247.57,
+            "grado_urbanizzazione": 2
+        },
+        "geo": {
+            "comune_istat": 49012,
+            "latitudine": 42.921967,
+            "longitudine": 10.526852,
+            "altitudine_slm": 21,
+            "superficie_kmq": 130.74
+        },
+        "ambiente": {
+            "comune_istat": 49012,
+            "zona_climatica": "C",
+            "zona_sismica": "4",
+            "zona_altimetrica": "4",
+            "gradi_giorno": 1245,
+            "comune_litoraneo": 1,
+            "comune_isolano": 0,
+            "zone_costiere": 1,
+            "zone_montane": 0,
+            "zone_vincoli_naturali": 1,
+            "zone_vincoli_specifici": 0
+        }
+    },
+    {
+        "istat": 49013,
+        "zona_istat": 3,
+        "regione_istat": 9,
+        "provincia_istat": 49,
+        "istat_testo": "049013",
+        "nome": "Porto Azzurro",
+        "email": "anagrafe@comuneportoazzurro.li.it",
+        "pec": "comuneportoazzurro@pcert.it",
+        "telefono": "+39 0565 921634",
+        "prefisso": "0565",
+        "fax": "",
+        "wikipedia": "https://it.wikipedia.org/wiki/Porto_Azzurro",
+        "sito_web": "http://www.comune.portoazzurro.li.it/",
+        "belfiore": "E680",
+        "santo_patrono": "san Giacomo",
+        "festa_patronale": "25 luglio",
+        "regione_capoluogo": 0,
+        "provincia_capoluogo": 0,
+        "istat_1995_2005": "049013",
+        "istat_2006_2009": "049013",
+        "istat_2010_2016": "049013",
+        "istat_2017_2025": "049013",
+        "nome_abitanti": "portazzurrini, longonesi, vaporini",
+        "cap": [
+            "57036"
+        ],
+        "confinanti": [
+            49004,
+            49014,
+            49021
+        ],
+        "frazioni": [
+            {
+                "istat": 4901310001,
+                "nome": "Porto Azzurro",
+                "tipo": "centro_abitato",
+                "popolazione": 2730,
+                "altitudine": 2,
+                "latitudine": 42.768296,
+                "longitudine": 10.398774
+            },
+            {
+                "istat": 4901326601,
+                "nome": "Mola",
+                "tipo": "nucleo_abitato",
+                "popolazione": 19,
+                "altitudine": 10,
+                "latitudine": 42.761784,
+                "longitudine": 10.386747
+            },
+            {
+                "istat": 4901340000,
+                "nome": "Case sparse",
+                "tipo": "case_sparse",
+                "popolazione": 891,
+                "altitudine": null,
+                "latitudine": 42.771274,
+                "longitudine": 10.37027
+            }
+        ],
+        "popolazione": {
+            "comune_istat": 49013,
+            "popolazione_maschile": 1894,
+            "popolazione_femminile": 1779,
+            "popolazione_totale": 3673,
+            "densita_abitativa": 275.34,
+            "grado_urbanizzazione": 3
+        },
+        "geo": {
+            "comune_istat": 49013,
+            "latitudine": 42.764569,
+            "longitudine": 10.398705,
+            "altitudine_slm": 2,
+            "superficie_kmq": 13.34
+        },
+        "ambiente": {
+            "comune_istat": 49013,
+            "zona_climatica": "C",
+            "zona_sismica": "4",
+            "zona_altimetrica": "4",
+            "gradi_giorno": 1023,
+            "comune_litoraneo": 1,
+            "comune_isolano": 1,
+            "zone_costiere": 1,
+            "zone_montane": 0,
+            "zone_vincoli_naturali": 0,
+            "zone_vincoli_specifici": 1
+        }
+    },
+    {
+        "istat": 49014,
+        "zona_istat": 3,
+        "regione_istat": 9,
+        "provincia_istat": 49,
+        "istat_testo": "049014",
+        "nome": "Portoferraio",
+        "email": "anagrafe@comune.portoferraio.li.it",
+        "pec": "comune.portoferraio@postacert.toscana.it",
+        "telefono": "+39 0565 937111",
+        "prefisso": "0565",
+        "fax": "+39 0565 916391",
+        "wikipedia": "https://it.wikipedia.org/wiki/Portoferraio",
+        "sito_web": "https://www.comune.portoferraio.li.it/",
+        "belfiore": "G912",
+        "santo_patrono": "san Cristino",
+        "festa_patronale": "29 aprile",
+        "regione_capoluogo": 0,
+        "provincia_capoluogo": 0,
+        "istat_1995_2005": "049014",
+        "istat_2006_2009": "049014",
+        "istat_2010_2016": "049014",
+        "istat_2017_2025": "049014",
+        "nome_abitanti": "portoferraiesi",
+        "cap": [
+            "57037"
+        ],
+        "confinanti": [
+            49003,
+            49004,
+            49010,
+            49013,
+            49021
+        ],
+        "frazioni": [
+            {
+                "istat": 4901410001,
+                "nome": "Bagnaia",
+                "tipo": "centro_abitato",
+                "popolazione": 56,
+                "altitudine": 3,
+                "latitudine": 42.808768,
+                "longitudine": 10.369385
+            },
+            {
+                "istat": 4901410002,
+                "nome": "Magazzini",
+                "tipo": "centro_abitato",
+                "popolazione": 188,
+                "altitudine": 1,
+                "latitudine": 42.797225,
+                "longitudine": 10.361279
+            },
+            {
+                "istat": 4901410003,
+                "nome": "Portoferraio",
+                "tipo": "centro_abitato",
+                "popolazione": 8135,
+                "altitudine": 4,
+                "latitudine": 42.81221,
+                "longitudine": 10.312591
+            },
+            {
+                "istat": 4901410004,
+                "nome": "San Giovanni",
+                "tipo": "centro_abitato",
+                "popolazione": 583,
+                "altitudine": 2,
+                "latitudine": 42.795879,
+                "longitudine": 10.31887
+            },
+            {
+                "istat": 4901410005,
+                "nome": "Scaglieri",
+                "tipo": "centro_abitato",
+                "popolazione": 90,
+                "altitudine": 10,
+                "latitudine": 42.80056,
+                "longitudine": 10.270738
+            },
+            {
+                "istat": 4901410006,
+                "nome": "Viticcio",
+                "tipo": "centro_abitato",
+                "popolazione": 62,
+                "altitudine": 20,
+                "latitudine": 42.817787,
+                "longitudine": 10.276514
+            },
+            {
+                "istat": 4901420002,
+                "nome": "Acquaviva",
+                "tipo": "nucleo_abitato",
+                "popolazione": 53,
+                "altitudine": 36,
+                "latitudine": 42.820275,
+                "longitudine": 10.284676
+            },
+            {
+                "istat": 4901420004,
+                "nome": "Campitelle",
+                "tipo": "nucleo_abitato",
+                "popolazione": 46,
+                "altitudine": 25,
+                "latitudine": 42.795438,
+                "longitudine": 10.293472
+            },
+            {
+                "istat": 4901420005,
+                "nome": "Casa del Duca",
+                "tipo": "nucleo_abitato",
+                "popolazione": 74,
+                "altitudine": 30,
+                "latitudine": 42.79615,
+                "longitudine": 10.313805
+            },
+            {
+                "istat": 4901420006,
+                "nome": "Le Foci",
+                "tipo": "nucleo_abitato",
+                "popolazione": 137,
+                "altitudine": 15,
+                "latitudine": 42.795573,
+                "longitudine": 10.304519
+            },
+            {
+                "istat": 4901420009,
+                "nome": "Santo Stefano",
+                "tipo": "nucleo_abitato",
+                "popolazione": 48,
+                "altitudine": 58,
+                "latitudine": 42.791535,
+                "longitudine": 10.367921
+            },
+            {
+                "istat": 4901420015,
+                "nome": "Scotto",
+                "tipo": "nucleo_abitato",
+                "popolazione": 66,
+                "altitudine": 19,
+                "latitudine": 42.793242,
+                "longitudine": 10.294054
+            },
+            {
+                "istat": 4901420018,
+                "nome": "Valle di Lazzaro",
+                "tipo": "nucleo_abitato",
+                "popolazione": 145,
+                "altitudine": 25,
+                "latitudine": 42.799857,
+                "longitudine": 10.297958
+            },
+            {
+                "istat": 4901420023,
+                "nome": "Norsi",
+                "tipo": "nucleo_abitato",
+                "popolazione": 28,
+                "altitudine": 75,
+                "latitudine": 42.767112,
+                "longitudine": 10.345724
+            },
+            {
+                "istat": 4901420026,
+                "nome": "Valdana",
+                "tipo": "nucleo_abitato",
+                "popolazione": 14,
+                "altitudine": 45,
+                "latitudine": 42.767784,
+                "longitudine": 10.350458
+            },
+            {
+                "istat": 4901420201,
+                "nome": "Acquabona",
+                "tipo": "nucleo_abitato",
+                "popolazione": 4,
+                "altitudine": 65,
+                "latitudine": 42.783591,
+                "longitudine": 10.340582
+            },
+            {
+                "istat": 4901420214,
+                "nome": "Schiopparello V",
+                "tipo": "nucleo_abitato",
+                "popolazione": 12,
+                "altitudine": 25,
+                "latitudine": 42.787476,
+                "longitudine": 10.34464
+            },
+            {
+                "istat": 4901426610,
+                "nome": "Schiopparello I",
+                "tipo": "nucleo_abitato",
+                "popolazione": 38,
+                "altitudine": 25,
+                "latitudine": 42.793539,
+                "longitudine": 10.339942
+            },
+            {
+                "istat": 4901426616,
+                "nome": "Valcarene",
+                "tipo": "nucleo_abitato",
+                "popolazione": 13,
+                "altitudine": 59,
+                "latitudine": 42.785827,
+                "longitudine": 10.302405
+            },
+            {
+                "istat": 4901426620,
+                "nome": "Schiopparello Vi",
+                "tipo": "nucleo_abitato",
+                "popolazione": 7,
+                "altitudine": 15,
+                "latitudine": 42.795806,
+                "longitudine": 10.346629
+            },
+            {
+                "istat": 4901426621,
+                "nome": "Campo Ai Peri",
+                "tipo": "nucleo_abitato",
+                "popolazione": 30,
+                "altitudine": 35,
+                "latitudine": 42.777343,
+                "longitudine": 10.345718
+            },
+            {
+                "istat": 4901426624,
+                "nome": "Norsi II",
+                "tipo": "nucleo_abitato",
+                "popolazione": 15,
+                "altitudine": 75,
+                "latitudine": 42.77025,
+                "longitudine": 10.34479
+            },
+            {
+                "istat": 4901426712,
+                "nome": "Schiopparello III",
+                "tipo": "nucleo_abitato",
+                "popolazione": 69,
+                "altitudine": 13,
+                "latitudine": 42.790467,
+                "longitudine": 10.346398
+            },
+            {
+                "istat": 4901426725,
+                "nome": "Enfola",
+                "tipo": "nucleo_abitato",
+                "popolazione": 36,
+                "altitudine": 20,
+                "latitudine": 42.824591,
+                "longitudine": 10.270282
+            },
+            {
+                "istat": 4901440000,
+                "nome": "Case sparse",
+                "tipo": "case_sparse",
+                "popolazione": 1915,
+                "altitudine": null,
+                "latitudine": 42.785491,
+                "longitudine": 10.292748
+            }
+        ],
+        "popolazione": {
+            "comune_istat": 49014,
+            "popolazione_maschile": 5724,
+            "popolazione_femminile": 6055,
+            "popolazione_totale": 11779,
+            "densita_abitativa": 243.97,
+            "grado_urbanizzazione": 2
+        },
+        "geo": {
+            "comune_istat": 49014,
+            "latitudine": 42.815123,
+            "longitudine": 10.330924,
+            "altitudine_slm": 4,
+            "superficie_kmq": 48.28
+        },
+        "ambiente": {
+            "comune_istat": 49014,
+            "zona_climatica": "C",
+            "zona_sismica": "4",
+            "zona_altimetrica": "4",
+            "gradi_giorno": 1025,
+            "comune_litoraneo": 1,
+            "comune_isolano": 1,
+            "zone_costiere": 1,
+            "zone_montane": 0,
+            "zone_vincoli_naturali": 0,
+            "zone_vincoli_specifici": 1
+        }
+    },
+    {
+        "istat": 49017,
+        "zona_istat": 3,
+        "regione_istat": 9,
+        "provincia_istat": 49,
+        "istat_testo": "049017",
+        "nome": "Rosignano Marittimo",
+        "email": "a.gabriellini@comune.rosignano.li.it",
+        "pec": "protocollo.generale@cert.comune.rosignano.li.it",
+        "telefono": "+39 0586 724263",
+        "prefisso": "0586",
+        "fax": "+39 0586 724276",
+        "wikipedia": "https://it.wikipedia.org/wiki/Rosignano_Marittimo",
+        "sito_web": "https://visitrosignano.it/",
+        "belfiore": "H570",
+        "santo_patrono": "san Nicola da Tolentino",
+        "festa_patronale": "10 settembre",
+        "regione_capoluogo": 0,
+        "provincia_capoluogo": 0,
+        "istat_1995_2005": "049017",
+        "istat_2006_2009": "049017",
+        "istat_2010_2016": "049017",
+        "istat_2017_2025": "049017",
+        "nome_abitanti": "rosignanese, rosignanesi; rosignanino, rosignanini (locale)",
+        "cap": [
+            "57016"
+        ],
+        "confinanti": [
+            49007,
+            49008,
+            49009
+        ],
+        "frazioni": [
+            {
+                "istat": 4901710001,
+                "nome": "Castelnuovo Misericordia",
+                "tipo": "centro_abitato",
+                "popolazione": 740,
+                "altitudine": 165,
+                "latitudine": 43.4419,
+                "longitudine": 10.450663
+            },
+            {
+                "istat": 4901710002,
+                "nome": "Chioma",
+                "tipo": "centro_abitato",
+                "popolazione": 130,
+                "altitudine": 25,
+                "latitudine": 43.447876,
+                "longitudine": 10.381498
+            },
+            {
+                "istat": 4901710003,
+                "nome": "Gabbro",
+                "tipo": "centro_abitato",
+                "popolazione": 870,
+                "altitudine": 204,
+                "latitudine": 43.482332,
+                "longitudine": 10.442139
+            },
+            {
+                "istat": 4901710004,
+                "nome": "Mazzanta",
+                "tipo": "centro_abitato",
+                "popolazione": 148,
+                "altitudine": 2,
+                "latitudine": 43.324486,
+                "longitudine": 10.463177
+            },
+            {
+                "istat": 4901710005,
+                "nome": "Nibbiaia",
+                "tipo": "centro_abitato",
+                "popolazione": 668,
+                "altitudine": 275,
+                "latitudine": 43.46452,
+                "longitudine": 10.415792
+            },
+            {
+                "istat": 4901710006,
+                "nome": "Rosignano Marittimo",
+                "tipo": "centro_abitato",
+                "popolazione": 2206,
+                "altitudine": 147,
+                "latitudine": 43.406833,
+                "longitudine": 10.472192
+            },
+            {
+                "istat": 4901710007,
+                "nome": "Rosignano Solvay-Castiglioncello",
+                "tipo": "centro_abitato",
+                "popolazione": 18903,
+                "altitudine": 10,
+                "latitudine": 43.393783,
+                "longitudine": 10.439568
+            },
+            {
+                "istat": 4901710008,
+                "nome": "Vada",
+                "tipo": "centro_abitato",
+                "popolazione": 3135,
+                "altitudine": 3,
+                "latitudine": 43.35223,
+                "longitudine": 10.457276
+            },
+            {
+                "istat": 4901720001,
+                "nome": "Acquabona",
+                "tipo": "nucleo_abitato",
+                "popolazione": 38,
+                "altitudine": 40,
+                "latitudine": 43.417967,
+                "longitudine": 10.482549
+            },
+            {
+                "istat": 4901720004,
+                "nome": "Il Giardino",
+                "tipo": "nucleo_abitato",
+                "popolazione": 68,
+                "altitudine": 48,
+                "latitudine": 43.397008,
+                "longitudine": 10.468201
+            },
+            {
+                "istat": 4901720005,
+                "nome": "Malavolta",
+                "tipo": "nucleo_abitato",
+                "popolazione": 34,
+                "altitudine": 284,
+                "latitudine": 43.495378,
+                "longitudine": 10.431811
+            },
+            {
+                "istat": 4901720006,
+                "nome": "Polveroni",
+                "tipo": "nucleo_abitato",
+                "popolazione": 259,
+                "altitudine": 12,
+                "latitudine": 43.371293,
+                "longitudine": 10.458479
+            },
+            {
+                "istat": 4901720011,
+                "nome": "Stregonie",
+                "tipo": "nucleo_abitato",
+                "popolazione": 91,
+                "altitudine": 250,
+                "latitudine": 43.483181,
+                "longitudine": 10.433871
+            },
+            {
+                "istat": 4901726607,
+                "nome": "Sovita",
+                "tipo": "nucleo_abitato",
+                "popolazione": 18,
+                "altitudine": 160,
+                "latitudine": 43.434056,
+                "longitudine": 10.456181
+            },
+            {
+                "istat": 4901726703,
+                "nome": "Cafaggio",
+                "tipo": "nucleo_abitato",
+                "popolazione": 43,
+                "altitudine": 139,
+                "latitudine": 43.446735,
+                "longitudine": 10.448969
+            },
+            {
+                "istat": 4901726708,
+                "nome": "I Due Casoni",
+                "tipo": "nucleo_abitato",
+                "popolazione": 13,
+                "altitudine": 8,
+                "latitudine": 43.342516,
+                "longitudine": 10.477693
+            },
+            {
+                "istat": 4901726710,
+                "nome": "Fiammetta",
+                "tipo": "nucleo_abitato",
+                "popolazione": 30,
+                "altitudine": 40,
+                "latitudine": 43.396307,
+                "longitudine": 10.461671
+            },
+            {
+                "istat": 4901730001,
+                "nome": "Fornace Serredi",
+                "tipo": "localita_produttiva",
+                "popolazione": 8,
+                "altitudine": 204,
+                "latitudine": 43.483693,
+                "longitudine": 10.456476
+            },
+            {
+                "istat": 4901740000,
+                "nome": "Case sparse",
+                "tipo": "case_sparse",
+                "popolazione": 2670,
+                "altitudine": null,
+                "latitudine": 43.437021,
+                "longitudine": 10.413393
+            }
+        ],
+        "popolazione": {
+            "comune_istat": 49017,
+            "popolazione_maschile": 14607,
+            "popolazione_femminile": 15488,
+            "popolazione_totale": 30095,
+            "densita_abitativa": 249.07,
+            "grado_urbanizzazione": 2
+        },
+        "geo": {
+            "comune_istat": 49017,
+            "latitudine": 43.350648,
+            "longitudine": 10.45661,
+            "altitudine_slm": 147,
+            "superficie_kmq": 120.83
+        },
+        "ambiente": {
+            "comune_istat": 49017,
+            "zona_climatica": "D",
+            "zona_sismica": "3",
+            "zona_altimetrica": "4",
+            "gradi_giorno": 1640,
+            "comune_litoraneo": 1,
+            "comune_isolano": 0,
+            "zone_costiere": 1,
+            "zone_montane": 0,
+            "zone_vincoli_naturali": 0,
+            "zone_vincoli_specifici": 0
+        }
+    },
+    {
+        "istat": 49018,
+        "zona_istat": 3,
+        "regione_istat": 9,
+        "provincia_istat": 49,
+        "istat_testo": "049018",
+        "nome": "San Vincenzo",
+        "email": "webmail@comune.sanvincenzo.li.it",
+        "pec": "comunesanvincenzo@postacert.toscana.it",
+        "telefono": "+39 0565 707111",
+        "prefisso": "0565",
+        "fax": "+39 0565 707299",
+        "wikipedia": "https://it.wikipedia.org/wiki/San_Vincenzo_(Italia)",
+        "sito_web": "https://www.comune.sanvincenzo.li.it",
+        "belfiore": "I390",
+        "santo_patrono": "san Vincenzo Ferreri",
+        "festa_patronale": "5 aprile",
+        "regione_capoluogo": 0,
+        "provincia_capoluogo": 0,
+        "istat_1995_2005": "049018",
+        "istat_2006_2009": "049018",
+        "istat_2010_2016": "049018",
+        "istat_2017_2025": "049018",
+        "nome_abitanti": "sanvincenzino, sanvincenzini",
+        "cap": [
+            "57027"
+        ],
+        "confinanti": [
+            49002,
+            49020,
+            49012,
+            49006
+        ],
+        "frazioni": [
+            {
+                "istat": 4901810001,
+                "nome": "San Carlo",
+                "tipo": "centro_abitato",
+                "popolazione": 255,
+                "altitudine": 174,
+                "latitudine": 43.0982,
+                "longitudine": 10.588212
+            },
+            {
+                "istat": 4901810002,
+                "nome": "San Vincenzo",
+                "tipo": "centro_abitato",
+                "popolazione": 5611,
+                "altitudine": 5,
+                "latitudine": 43.09074,
+                "longitudine": 10.542292
+            },
+            {
+                "istat": 4901820001,
+                "nome": "Zona Industriale",
+                "tipo": "nucleo_abitato",
+                "popolazione": 81,
+                "altitudine": 28,
+                "latitudine": 43.082903,
+                "longitudine": 10.552452
+            },
+            {
+                "istat": 4901820005,
+                "nome": "Zona Intermedia San Bartolo",
+                "tipo": "nucleo_abitato",
+                "popolazione": 124,
+                "altitudine": 31,
+                "latitudine": 43.085738,
+                "longitudine": 10.548593
+            },
+            {
+                "istat": 4901820209,
+                "nome": "Zona Cason di Tavole",
+                "tipo": "nucleo_abitato",
+                "popolazione": 1,
+                "altitudine": 5,
+                "latitudine": 43.049217,
+                "longitudine": 10.545642
+            },
+            {
+                "istat": 4901826607,
+                "nome": "Zona San Filippo",
+                "tipo": "nucleo_abitato",
+                "popolazione": 17,
+                "altitudine": 26,
+                "latitudine": 43.059486,
+                "longitudine": 10.559938
+            },
+            {
+                "istat": 4901826703,
+                "nome": "Zona Coscia",
+                "tipo": "nucleo_abitato",
+                "popolazione": 21,
+                "altitudine": 100,
+                "latitudine": 43.090802,
+                "longitudine": 10.566758
+            },
+            {
+                "istat": 4901826704,
+                "nome": "Zona San Gregorio",
+                "tipo": "nucleo_abitato",
+                "popolazione": 16,
+                "altitudine": 28,
+                "latitudine": 43.087546,
+                "longitudine": 10.555914
+            },
+            {
+                "istat": 4901826708,
+                "nome": "Zona Aviosuperficie",
+                "tipo": "nucleo_abitato",
+                "popolazione": 9,
+                "altitudine": 14,
+                "latitudine": 43.055328,
+                "longitudine": 10.553032
+            },
+            {
+                "istat": 4901840000,
+                "nome": "Case sparse",
+                "tipo": "case_sparse",
+                "popolazione": 363,
+                "altitudine": null,
+                "latitudine": 43.072242,
+                "longitudine": 10.560969
+            }
+        ],
+        "popolazione": {
+            "comune_istat": 49018,
+            "popolazione_maschile": 3012,
+            "popolazione_femminile": 3360,
+            "popolazione_totale": 6372,
+            "densita_abitativa": 191.47,
+            "grado_urbanizzazione": 2
+        },
+        "geo": {
+            "comune_istat": 49018,
+            "latitudine": 43.100735,
+            "longitudine": 10.538029,
+            "altitudine_slm": 5,
+            "superficie_kmq": 33.28
+        },
+        "ambiente": {
+            "comune_istat": 49018,
+            "zona_climatica": "C",
+            "zona_sismica": "4",
+            "zona_altimetrica": "4",
+            "gradi_giorno": 1051,
+            "comune_litoraneo": 1,
+            "comune_isolano": 0,
+            "zone_costiere": 1,
+            "zone_montane": 0,
+            "zone_vincoli_naturali": 1,
+            "zone_vincoli_specifici": 0
+        }
+    },
+    {
+        "istat": 49019,
+        "zona_istat": 3,
+        "regione_istat": 9,
+        "provincia_istat": 49,
+        "istat_testo": "049019",
+        "nome": "Sassetta",
+        "email": "l.dagostino@comune.sanvincenzo.it",
+        "pec": "comunesassetta@postacert.toscana.it",
+        "telefono": "+39 0565 794223",
+        "prefisso": "0565",
+        "fax": "+39 0565 794203",
+        "wikipedia": "https://it.wikipedia.org/wiki/Sassetta_(Italia)",
+        "sito_web": "https://www.comune.sassetta.li.it",
+        "belfiore": "I454",
+        "santo_patrono": "San Rocco",
+        "festa_patronale": "16 agosto",
+        "regione_capoluogo": 0,
+        "provincia_capoluogo": 0,
+        "istat_1995_2005": "049019",
+        "istat_2006_2009": "049019",
+        "istat_2010_2016": "049019",
+        "istat_2017_2025": "049019",
+        "nome_abitanti": "sassetano, sassetani",
+        "cap": [
+            "57020"
+        ],
+        "confinanti": [
+            49006,
+            49020
+        ],
+        "frazioni": [
+            {
+                "istat": 4901910001,
+                "nome": "Sassetta",
+                "tipo": "centro_abitato",
+                "popolazione": 302,
+                "altitudine": 330,
+                "latitudine": 43.126673,
+                "longitudine": 10.64153
+            },
+            {
+                "istat": 4901920001,
+                "nome": "Fornaci",
+                "tipo": "nucleo_abitato",
+                "popolazione": 33,
+                "altitudine": 333,
+                "latitudine": 43.134108,
+                "longitudine": 10.644038
+            },
+            {
+                "istat": 4901920002,
+                "nome": "Valcanina",
+                "tipo": "nucleo_abitato",
+                "popolazione": 65,
+                "altitudine": 400,
+                "latitudine": 43.125009,
+                "longitudine": 10.640801
+            },
+            {
+                "istat": 4901940000,
+                "nome": "Case sparse",
+                "tipo": "case_sparse",
+                "popolazione": 75,
+                "altitudine": null,
+                "latitudine": 43.131155,
+                "longitudine": 10.666423
+            }
+        ],
+        "popolazione": {
+            "comune_istat": 49019,
+            "popolazione_maschile": 246,
+            "popolazione_femminile": 268,
+            "popolazione_totale": 514,
+            "densita_abitativa": 19.21,
+            "grado_urbanizzazione": 3
+        },
+        "geo": {
+            "comune_istat": 49019,
+            "latitudine": 43.128366,
+            "longitudine": 10.644286,
+            "altitudine_slm": 330,
+            "superficie_kmq": 26.75
+        },
+        "ambiente": {
+            "comune_istat": 49019,
+            "zona_climatica": "D",
+            "zona_sismica": "4",
+            "zona_altimetrica": "4",
+            "gradi_giorno": 1897,
+            "comune_litoraneo": 0,
+            "comune_isolano": 0,
+            "zone_costiere": 1,
+            "zone_montane": 0,
+            "zone_vincoli_naturali": 1,
+            "zone_vincoli_specifici": 0
+        }
+    },
+    {
+        "istat": 49020,
+        "zona_istat": 3,
+        "regione_istat": 9,
+        "provincia_istat": 49,
+        "istat_testo": "049020",
+        "nome": "Suvereto",
+        "email": "suvereto@comune.suvereto.li.it",
+        "pec": "comune.suvereto@postacert.toscana.it",
+        "telefono": "+39 0565 829923",
+        "prefisso": "0565",
+        "fax": "+39 0565 828201",
+        "wikipedia": "https://it.wikipedia.org/wiki/Suvereto",
+        "sito_web": "https://www.comune.suvereto.li.it/",
+        "belfiore": "L019",
+        "santo_patrono": "santa Croce",
+        "festa_patronale": "3 maggio",
+        "regione_capoluogo": 0,
+        "provincia_capoluogo": 0,
+        "istat_1995_2005": "049020",
+        "istat_2006_2009": "049020",
+        "istat_2010_2016": "049020",
+        "istat_2017_2025": "049020",
+        "nome_abitanti": "suveretani",
+        "cap": [
+            "57028"
+        ],
+        "confinanti": [
+            49002,
+            49006,
+            49012,
+            49018,
+            49019
+        ],
+        "frazioni": [
+            {
+                "istat": 4902010001,
+                "nome": "San Lorenzo",
+                "tipo": "centro_abitato",
+                "popolazione": 69,
+                "altitudine": 32,
+                "latitudine": 43.043378,
+                "longitudine": 10.710012
+            },
+            {
+                "istat": 4902010002,
+                "nome": "Suvereto",
+                "tipo": "centro_abitato",
+                "popolazione": 1983,
+                "altitudine": 90,
+                "latitudine": 43.076644,
+                "longitudine": 10.676924
+            },
+            {
+                "istat": 4902020003,
+                "nome": "Forni",
+                "tipo": "nucleo_abitato",
+                "popolazione": 86,
+                "altitudine": 37,
+                "latitudine": 43.052295,
+                "longitudine": 10.696134
+            },
+            {
+                "istat": 4902020005,
+                "nome": "Prata",
+                "tipo": "nucleo_abitato",
+                "popolazione": 56,
+                "altitudine": 205,
+                "latitudine": 43.094306,
+                "longitudine": 10.659701
+            },
+            {
+                "istat": 4902026611,
+                "nome": "San Lorenzo Due",
+                "tipo": "nucleo_abitato",
+                "popolazione": 19,
+                "altitudine": 37,
+                "latitudine": 43.046921,
+                "longitudine": 10.711053
+            },
+            {
+                "istat": 4902030001,
+                "nome": "Poggetto",
+                "tipo": "localita_produttiva",
+                "popolazione": 0,
+                "altitudine": 37,
+                "latitudine": 43.06594,
+                "longitudine": 10.669029
+            },
+            {
+                "istat": 4902040000,
+                "nome": "Case sparse",
+                "tipo": "case_sparse",
+                "popolazione": 767,
+                "altitudine": null,
+                "latitudine": 43.048192,
+                "longitudine": 10.668286
+            }
+        ],
+        "popolazione": {
+            "comune_istat": 49020,
+            "popolazione_maschile": 1440,
+            "popolazione_femminile": 1458,
+            "popolazione_totale": 2898,
+            "densita_abitativa": 31.37,
+            "grado_urbanizzazione": 3
+        },
+        "geo": {
+            "comune_istat": 49020,
+            "latitudine": 43.079066,
+            "longitudine": 10.679174,
+            "altitudine_slm": 90,
+            "superficie_kmq": 92.38
+        },
+        "ambiente": {
+            "comune_istat": 49020,
+            "zona_climatica": "C",
+            "zona_sismica": "4",
+            "zona_altimetrica": "4",
+            "gradi_giorno": 1162,
+            "comune_litoraneo": 0,
+            "comune_isolano": 0,
+            "zone_costiere": 0,
+            "zone_montane": 1,
+            "zone_vincoli_naturali": 0,
+            "zone_vincoli_specifici": 0
+        }
+    },
+    {
+        "istat": 49021,
+        "zona_istat": 3,
+        "regione_istat": 9,
+        "provincia_istat": 49,
+        "istat_testo": "049021",
+        "nome": "Rio",
+        "email": "info@comunie.rio.li.it",
+        "pec": "protocollo@pec.comune.rio.li.it",
+        "telefono": "0565925511",
+        "prefisso": "0565",
+        "fax": "",
+        "wikipedia": "https://it.wikipedia.org/wiki/Rio_(Italia)",
+        "sito_web": "https://comune.rio.li.it",
+        "belfiore": "M391",
+        "santo_patrono": "Santa Barbara e San Giacomo il Maggiore",
+        "festa_patronale": "4 dicembre, 25 luglio",
+        "regione_capoluogo": 0,
+        "provincia_capoluogo": 0,
+        "istat_1995_2005": "049021",
+        "istat_2006_2009": "049021",
+        "istat_2010_2016": "049021",
+        "istat_2017_2025": "049021",
+        "nome_abitanti": "riese, riesi",
+        "cap": [
+            "57038"
+        ],
+        "confinanti": [
+            49013,
+            49014
+        ],
+        "frazioni": [
+            {
+                "istat": 4902110001,
+                "nome": "Capo d'Arco",
+                "tipo": "centro_abitato",
+                "popolazione": 2,
+                "altitudine": 25,
+                "latitudine": 42.77886,
+                "longitudine": 10.432729
+            },
+            {
+                "istat": 4902110002,
+                "nome": "Cavo",
+                "tipo": "centro_abitato",
+                "popolazione": 567,
+                "altitudine": 2,
+                "latitudine": 42.861057,
+                "longitudine": 10.419391
+            },
+            {
+                "istat": 4902110003,
+                "nome": "Ortano",
+                "tipo": "centro_abitato",
+                "popolazione": 16,
+                "altitudine": 25,
+                "latitudine": 42.794786,
+                "longitudine": 10.42662
+            },
+            {
+                "istat": 4902110004,
+                "nome": "Rio Marina",
+                "tipo": "centro_abitato",
+                "popolazione": 1103,
+                "altitudine": 51,
+                "latitudine": 42.813365,
+                "longitudine": 10.425152
+            },
+            {
+                "istat": 4902110005,
+                "nome": "Bagnaia",
+                "tipo": "centro_abitato",
+                "popolazione": 148,
+                "altitudine": 3,
+                "latitudine": 42.811142,
+                "longitudine": 10.366105
+            },
+            {
+                "istat": 4902110006,
+                "nome": "Rio nell'Elba",
+                "tipo": "centro_abitato",
+                "popolazione": 711,
+                "altitudine": 165,
+                "latitudine": 42.811608,
+                "longitudine": 10.400793
+            },
+            {
+                "istat": 4902120002,
+                "nome": "Vigneria",
+                "tipo": "nucleo_abitato",
+                "popolazione": 67,
+                "altitudine": 50,
+                "latitudine": 42.822366,
+                "longitudine": 10.428905
+            },
+            {
+                "istat": 4902120004,
+                "nome": "La Chiusa di Rio Marina",
+                "tipo": "nucleo_abitato",
+                "popolazione": 24,
+                "altitudine": 100,
+                "latitudine": 42.816702,
+                "longitudine": 10.41322
+            },
+            {
+                "istat": 4902126601,
+                "nome": "Villaggio Togliatti",
+                "tipo": "nucleo_abitato",
+                "popolazione": 28,
+                "altitudine": 25,
+                "latitudine": 42.811929,
+                "longitudine": 10.415139
+            },
+            {
+                "istat": 4902126603,
+                "nome": "Il Piano-San Francesco",
+                "tipo": "nucleo_abitato",
+                "popolazione": 25,
+                "altitudine": 50,
+                "latitudine": 42.811788,
+                "longitudine": 10.413464
+            },
+            {
+                "istat": 4902126605,
+                "nome": "La Chiusa di Rio nell'Elba",
+                "tipo": "nucleo_abitato",
+                "popolazione": 21,
+                "altitudine": 159,
+                "latitudine": 42.822116,
+                "longitudine": 10.412889
+            },
+            {
+                "istat": 4902126701,
+                "nome": "Nisporto",
+                "tipo": "nucleo_abitato",
+                "popolazione": 49,
+                "altitudine": 50,
+                "latitudine": 42.825517,
+                "longitudine": 10.380349
+            },
+            {
+                "istat": 4902126702,
+                "nome": "Nisportino",
+                "tipo": "nucleo_abitato",
+                "popolazione": 10,
+                "altitudine": 85,
+                "latitudine": 42.831058,
+                "longitudine": 10.390565
+            },
+            {
+                "istat": 4902140000,
+                "nome": "Case sparse",
+                "tipo": "case_sparse",
+                "popolazione": 544,
+                "altitudine": null,
+                "latitudine": 42.814553,
+                "longitudine": 10.379665
+            }
+        ],
+        "popolazione": {
+            "comune_istat": 49021,
+            "popolazione_maschile": 1718,
+            "popolazione_femminile": 1691,
+            "popolazione_totale": 3409,
+            "densita_abitativa": 93.32,
+            "grado_urbanizzazione": 3
+        },
+        "geo": {
+            "comune_istat": 49021,
+            "latitudine": 42.813499,
+            "longitudine": 10.399687,
+            "altitudine_slm": 165,
+            "superficie_kmq": 36.53
+        },
+        "ambiente": {
+            "comune_istat": 49021,
+            "zona_climatica": "C",
+            "zona_sismica": "4",
+            "zona_altimetrica": "4",
+            "gradi_giorno": 1033,
+            "comune_litoraneo": 1,
+            "comune_isolano": 1,
+            "zone_costiere": 1,
+            "zone_montane": 0,
+            "zone_vincoli_naturali": 0,
+            "zone_vincoli_specifici": 1
+        }
+    }
+]

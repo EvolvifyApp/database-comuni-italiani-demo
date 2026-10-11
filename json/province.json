@@ -1,0 +1,36 @@
+[
+    {
+        "istat": 49,
+        "zona_istat": 3,
+        "regione_istat": 9,
+        "istat_testo": "049",
+        "nome": "Livorno",
+        "sigla": "LI",
+        "regione_capoluogo": 0,
+        "wikipedia": "https://it.wikipedia.org/wiki/Provincia_di_Livorno",
+        "numero_comuni": 19,
+        "popolazione": {
+            "provincia_istat": 49,
+            "popolazione_maschile": 158070,
+            "popolazione_femminile": 167679,
+            "popolazione_totale": 325749,
+            "densita_abitativa": 268.09
+        },
+        "geo": {
+            "provincia_istat": 49,
+            "superficie_kmq": 1215.06,
+            "altitudine_min": 2,
+            "altitudine_media": 101,
+            "altitudine_max": 375
+        },
+        "ambiente": {
+            "provincia_istat": 49,
+            "zona_climatica_min": "C",
+            "zona_climatica_media": "C",
+            "zona_climatica_max": "D",
+            "gradi_giorno_min": 989,
+            "gradi_giorno_media": 1320,
+            "gradi_giorno_max": 1897
+        }
+    }
+]

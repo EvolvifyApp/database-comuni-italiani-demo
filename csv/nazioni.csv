@@ -1,0 +1,255 @@
+"Codice ISTAT",Tipo,"Codice continente",Continente,"Codice area subcontinentale","Area subcontinentale",Denominazione,"Denominazione (EN)","Altra denominazione","Codice AT","Codice ISO numerico","Codice ISO alpha-2","Codice ISO alpha-3","Codice M49","Codice ISTAT stato padre","Codice ISO alpha-3 stato padre"
+100,Stato,1,Europa,11,"Unione europea",Italia,Italy,,,380,IT,ITA,380,,
+201,Stato,1,Europa,12,"Europa centro orientale",Albania,Albania,,Z100,008,AL,ALB,8,,
+202,Stato,1,Europa,13,"Altri paesi europei",Andorra,Andorra,,Z101,020,AD,AND,20,,
+203,Stato,1,Europa,11,"Unione europea",Austria,Austria,,Z102,040,AT,AUT,40,,
+206,Stato,1,Europa,11,"Unione europea",Belgio,Belgium,,Z103,056,BE,BEL,56,,
+209,Stato,1,Europa,11,"Unione europea",Bulgaria,Bulgaria,,Z104,100,BG,BGR,100,,
+212,Stato,1,Europa,11,"Unione europea",Danimarca,Denmark,,Z107,208,DK,DNK,208,,
+214,Stato,1,Europa,11,"Unione europea",Finlandia,Finland,,Z109,246,FI,FIN,246,,
+215,Stato,1,Europa,11,"Unione europea",Francia,France,,Z110,250,FR,FRA,250,,
+216,Stato,1,Europa,11,"Unione europea",Germania,Germany,,Z112,276,DE,DEU,276,,
+219,Stato,1,Europa,13,"Altri paesi europei","Regno Unito","United Kingdom",,Z114,826,GB,GBR,826,,
+220,Stato,1,Europa,11,"Unione europea",Grecia,Greece,,Z115,300,GR,GRC,300,,
+221,Stato,1,Europa,11,"Unione europea",Irlanda,Ireland,,Z116,372,IE,IRL,372,,
+223,Stato,1,Europa,13,"Altri paesi europei",Islanda,Iceland,,Z117,352,IS,ISL,352,,
+225,Stato,1,Europa,13,"Altri paesi europei",Liechtenstein,Liechtenstein,,Z119,438,LI,LIE,438,,
+226,Stato,1,Europa,11,"Unione europea",Lussemburgo,Luxembourg,,Z120,442,LU,LUX,442,,
+227,Stato,1,Europa,11,"Unione europea",Malta,Malta,,Z121,470,MT,MLT,470,,
+229,Stato,1,Europa,13,"Altri paesi europei",Monaco,Monaco,,Z123,492,MC,MCO,492,,
+231,Stato,1,Europa,13,"Altri paesi europei",Norvegia,Norway,,Z125,578,NO,NOR,578,,
+232,Stato,1,Europa,11,"Unione europea","Paesi Bassi",Netherlands,,Z126,528,NL,NLD,528,,
+233,Stato,1,Europa,11,"Unione europea",Polonia,Poland,,Z127,616,PL,POL,616,,
+234,Stato,1,Europa,11,"Unione europea",Portogallo,Portugal,,Z128,620,PT,PRT,620,,
+235,Stato,1,Europa,11,"Unione europea",Romania,Romania,,Z129,642,RO,ROU,642,,
+236,Stato,1,Europa,13,"Altri paesi europei","San Marino","San Marino",,Z130,674,SM,SMR,674,,
+239,Stato,1,Europa,11,"Unione europea",Spagna,Spain,,Z131,724,ES,ESP,724,,
+240,Stato,1,Europa,11,"Unione europea",Svezia,Sweden,,Z132,752,SE,SWE,752,,
+241,Stato,1,Europa,13,"Altri paesi europei",Svizzera,Switzerland,,Z133,756,CH,CHE,756,,
+243,Stato,1,Europa,12,"Europa centro orientale",Ucraina,Ukraine,,Z138,804,UA,UKR,804,,
+244,Stato,1,Europa,11,"Unione europea",Ungheria,Hungary,,Z134,348,HU,HUN,348,,
+245,Stato,1,Europa,12,"Europa centro orientale","Federazione russa","Russian Federation",,Z154,643,RU,RUS,643,,
+246,Stato,1,Europa,13,"Altri paesi europei","Stato della Città del Vaticano","Vatican City State",,Z106,336,VA,VAT,336,,
+247,Stato,1,Europa,11,"Unione europea",Estonia,Estonia,,Z144,233,EE,EST,233,,
+248,Stato,1,Europa,11,"Unione europea",Lettonia,Latvia,,Z145,428,LV,LVA,428,,
+249,Stato,1,Europa,11,"Unione europea",Lituania,Lithuania,,Z146,440,LT,LTU,440,,
+250,Stato,1,Europa,11,"Unione europea",Croazia,Croatia,,Z149,191,HR,HRV,191,,
+251,Stato,1,Europa,11,"Unione europea",Slovenia,Slovenia,,Z150,705,SI,SVN,705,,
+252,Stato,1,Europa,12,"Europa centro orientale",Bosnia-Erzegovina,"Bosnia and Herzegovina",,Z153,070,BA,BIH,70,,
+253,Stato,1,Europa,12,"Europa centro orientale","Macedonia del Nord","North Macedonia","Macedonia del Nord (Ex Repubblica Jugoslava di Macedonia)",Z148,807,MK,MKD,807,,
+254,Stato,1,Europa,12,"Europa centro orientale",Moldova,Moldova,Moldavia,Z140,498,MD,MDA,498,,
+255,Stato,1,Europa,11,"Unione europea",Slovacchia,Slovakia,,Z155,703,SK,SVK,703,,
+256,Stato,1,Europa,12,"Europa centro orientale",Bielorussia,Belarus,,Z139,112,BY,BLR,112,,
+257,Stato,1,Europa,11,"Unione europea","Repubblica ceca","Czech Republic",,Z156,203,CZ,CZE,203,,
+270,Stato,1,Europa,12,"Europa centro orientale",Montenegro,Montenegro,,Z159,499,ME,MNE,499,,
+271,Stato,1,Europa,12,"Europa centro orientale",Serbia,Serbia,,Z158,688,RS,SRB,688,,
+272,Stato,1,Europa,12,"Europa centro orientale",Kosovo,Kosovo,,Z160,,,KOS,,,
+301,Stato,3,Asia,32,"Asia centro meridionale",Afghanistan,Afghanistan,,Z200,004,AF,AFG,4,,
+302,Stato,3,Asia,31,"Asia occidentale","Arabia Saudita","Saudi Arabia",,Z203,682,SA,SAU,682,,
+304,Stato,3,Asia,31,"Asia occidentale",Bahrein,Bahrain,,Z204,048,BH,BHR,48,,
+305,Stato,3,Asia,32,"Asia centro meridionale",Bangladesh,Bangladesh,,Z249,050,BD,BGD,50,,
+306,Stato,3,Asia,32,"Asia centro meridionale",Bhutan,Bhutan,,Z205,064,BT,BTN,64,,
+307,Stato,3,Asia,33,"Asia orientale",Myanmar/Birmania,Myanmar/Burma,"Myanmar (ex Birmania)",Z206,104,MM,MMR,104,,
+309,Stato,3,Asia,33,"Asia orientale","Brunei Darussalam","Brunei Darussalam",Brunei,Z207,096,BN,BRN,96,,
+310,Stato,3,Asia,33,"Asia orientale",Cambogia,Cambodia,"Cambogia (Kampuchea, democratica)",Z208,116,KH,KHM,116,,
+311,Stato,3,Asia,32,"Asia centro meridionale","Sri Lanka","Sri Lanka","Sri Lanka (ex Ceylon) ",Z209,144,LK,LKA,144,,
+314,Stato,3,Asia,33,"Asia orientale",Cina,China,"Repubblica Popolare Cinese",Z210,156,CN,CHN,156,,
+315,Stato,1,Europa,11,"Unione europea",Cipro,Cyprus,,Z211,196,CY,CYP,196,,
+319,Stato,3,Asia,33,"Asia orientale","Corea del Nord","North Korea","Repubblica Popolare Democratica di Corea",Z214,408,KP,PRK,408,,
+320,Stato,3,Asia,33,"Asia orientale","Corea del Sud","South Korea","Repubblica di Corea",Z213,410,KR,KOR,410,,
+322,Stato,3,Asia,31,"Asia occidentale","Emirati Arabi Uniti","United Arab Emirates","Costa dei Pirati (Stati della Tregua)",Z215,784,AE,ARE,784,,
+323,Stato,3,Asia,33,"Asia orientale",Filippine,Philippines,,Z216,608,PH,PHL,608,,
+324,Territorio/Altro,3,Asia,31,"Asia occidentale",Palestina,Palestine,"Territori dell'Autonomia Palestinese",Z161,275,PS,PSE,275,,
+326,Stato,3,Asia,33,"Asia orientale",Giappone,Japan,,Z219,392,JP,JPN,392,,
+327,Stato,3,Asia,31,"Asia occidentale",Giordania,Jordan,,Z220,400,JO,JOR,400,,
+330,Stato,3,Asia,32,"Asia centro meridionale",India,India,,Z222,356,IN,IND,356,,
+331,Stato,3,Asia,33,"Asia orientale",Indonesia,Indonesia,,Z223,360,ID,IDN,360,,
+332,Stato,3,Asia,31,"Asia occidentale",Iran,Iran,"Iran (Persia)",Z224,364,IR,IRN,364,,
+333,Stato,3,Asia,31,"Asia occidentale",Iraq,Iraq,,Z225,368,IQ,IRQ,368,,
+334,Stato,3,Asia,31,"Asia occidentale",Israele,Israel,,Z226,376,IL,ISR,376,,
+335,Stato,3,Asia,31,"Asia occidentale",Kuwait,Kuwait,,Z227,414,KW,KWT,414,,
+336,Stato,3,Asia,33,"Asia orientale",Laos,Laos,,Z228,418,LA,LAO,418,,
+337,Stato,3,Asia,31,"Asia occidentale",Libano,Lebanon,,Z229,422,LB,LBN,422,,
+338,Stato,3,Asia,33,"Asia orientale","Timor Leste","Timor Leste","Timor orientale; Timor portoghese; Timor Est",Z242,626,TL,TLS,626,,
+339,Stato,3,Asia,32,"Asia centro meridionale",Maldive,Maldives,,Z232,462,MV,MDV,462,,
+340,Stato,3,Asia,33,"Asia orientale",Malaysia,Malaysia,"Malaysia (ex Malesia, Federazione)",Z247,458,MY,MYS,458,,
+341,Stato,3,Asia,33,"Asia orientale",Mongolia,Mongolia,,Z233,496,MN,MNG,496,,
+342,Stato,3,Asia,32,"Asia centro meridionale",Nepal,Nepal,,Z234,524,NP,NPL,524,,
+343,Stato,3,Asia,31,"Asia occidentale",Oman,Oman,,Z235,512,OM,OMN,512,,
+344,Stato,3,Asia,32,"Asia centro meridionale",Pakistan,Pakistan,,Z236,586,PK,PAK,586,,
+345,Stato,3,Asia,31,"Asia occidentale",Qatar,Qatar,,Z237,634,QA,QAT,634,,
+346,Stato,3,Asia,33,"Asia orientale",Singapore,Singapore,,Z248,702,SG,SGP,702,,
+348,Stato,3,Asia,31,"Asia occidentale",Siria,Syria,,Z240,760,SY,SYR,760,,
+349,Stato,3,Asia,33,"Asia orientale",Thailandia,Thailand,,Z241,764,TH,THA,764,,
+351,Stato,1,Europa,12,"Europa centro orientale",Turchia,Turkey,,Z243,792,TR,TUR,792,,
+353,Stato,3,Asia,33,"Asia orientale",Vietnam,Vietnam,,Z251,704,VN,VNM,704,,
+354,Stato,3,Asia,31,"Asia occidentale",Yemen,Yemen,,Z246,887,YE,YEM,887,,
+356,Stato,3,Asia,32,"Asia centro meridionale",Kazakhstan,Kazakhstan,,Z255,398,KZ,KAZ,398,,
+357,Stato,3,Asia,32,"Asia centro meridionale",Uzbekistan,Uzbekistan,,Z259,860,UZ,UZB,860,,
+358,Stato,3,Asia,31,"Asia occidentale",Armenia,Armenia,,Z252,051,AM,ARM,51,,
+359,Stato,3,Asia,31,"Asia occidentale",Azerbaigian,Azerbaijan,,Z253,031,AZ,AZE,31,,
+360,Stato,3,Asia,31,"Asia occidentale",Georgia,Georgia,,Z254,268,GE,GEO,268,,
+361,Stato,3,Asia,32,"Asia centro meridionale",Kirghizistan,Kyrgyzstan,,Z256,417,KG,KGZ,417,,
+362,Stato,3,Asia,32,"Asia centro meridionale",Tagikistan,Tajikistan,,Z257,762,TJ,TJK,762,,
+363,Stato,3,Asia,33,"Asia orientale",Taiwan,Taiwan,"Taiwan (Formosa)",Z217,158,TW,TWN,,,
+364,Stato,3,Asia,32,"Asia centro meridionale",Turkmenistan,Turkmenistan,,Z258,795,TM,TKM,795,,
+401,Stato,2,Africa,21,"Africa settentrionale",Algeria,Algeria,,Z301,012,DZ,DZA,12,,
+402,Stato,2,Africa,24,"Africa centro meridionale",Angola,Angola,,Z302,024,AO,AGO,24,,
+404,Stato,2,Africa,22,"Africa occidentale","Costa d'Avorio","Côte d'Ivoire",,Z313,384,CI,CIV,384,,
+406,Stato,2,Africa,22,"Africa occidentale",Benin,Benin,"Benin (ex Dahomey)",Z314,204,BJ,BEN,204,,
+408,Stato,2,Africa,24,"Africa centro meridionale",Botswana,Botswana,"Botswana (Beciuania; Bechuanaland)",Z358,072,BW,BWA,72,,
+409,Stato,2,Africa,22,"Africa occidentale","Burkina Faso","Burkina Faso","Burkina Faso (ex Alto Volta)",Z354,854,BF,BFA,854,,
+410,Stato,2,Africa,23,"Africa orientale",Burundi,Burundi,,Z305,108,BI,BDI,108,,
+411,Stato,2,Africa,24,"Africa centro meridionale",Camerun,Cameroon,,Z306,120,CM,CMR,120,,
+413,Stato,2,Africa,22,"Africa occidentale","Capo Verde","Cape Verde","Cabo Verde",Z307,132,CV,CPV,132,,
+414,Stato,2,Africa,24,"Africa centro meridionale","Repubblica Centrafricana","Central African Republic",,Z308,140,CF,CAF,140,,
+415,Stato,2,Africa,24,"Africa centro meridionale",Ciad,Chad,,Z309,148,TD,TCD,148,,
+417,Stato,2,Africa,23,"Africa orientale",Comore,Comoros,,Z310,174,KM,COM,174,,
+418,Stato,2,Africa,24,"Africa centro meridionale",Congo,Congo,"Repubblica popolare del Congo; Congo-Brazzaville",Z311,178,CG,COG,178,,
+419,Stato,2,Africa,21,"Africa settentrionale",Egitto,Egypt,,Z336,818,EG,EGY,818,,
+420,Stato,2,Africa,23,"Africa orientale",Etiopia,Ethiopia,,Z315,231,ET,ETH,231,,
+421,Stato,2,Africa,24,"Africa centro meridionale",Gabon,Gabon,,Z316,266,GA,GAB,266,,
+422,Stato,2,Africa,22,"Africa occidentale",Gambia,Gambia,,Z317,270,GM,GMB,270,,
+423,Stato,2,Africa,22,"Africa occidentale",Ghana,Ghana,,Z318,288,GH,GHA,288,,
+424,Stato,2,Africa,23,"Africa orientale",Gibuti,Djibouti,"Gibuti (Territorio francese degli Afar e Issa; Somalia francese)",Z361,262,DJ,DJI,262,,
+425,Stato,2,Africa,22,"Africa occidentale",Guinea,Guinea,"Guinea Conakry",Z319,324,GN,GIN,324,,
+426,Stato,2,Africa,22,"Africa occidentale",Guinea-Bissau,Guinea-Bissau,"Guinea Bissau (Guinea Portoghese)",Z320,624,GW,GNB,624,,
+427,Stato,2,Africa,24,"Africa centro meridionale","Guinea equatoriale","Equatorial Guinea","Guinea equatoriale (Guinea Spagnola)",Z321,226,GQ,GNQ,226,,
+428,Stato,2,Africa,23,"Africa orientale",Kenya,Kenya,,Z322,404,KE,KEN,404,,
+429,Stato,2,Africa,24,"Africa centro meridionale",Lesotho,Lesotho,"Lesotho (Basutoland)",Z359,426,LS,LSO,426,,
+430,Stato,2,Africa,22,"Africa occidentale",Liberia,Liberia,,Z325,430,LR,LBR,430,,
+431,Stato,2,Africa,21,"Africa settentrionale",Libia,Libya,,Z326,434,LY,LBY,434,,
+432,Stato,2,Africa,23,"Africa orientale",Madagascar,Madagascar,,Z327,450,MG,MDG,450,,
+434,Stato,2,Africa,23,"Africa orientale",Malawi,Malawi,,Z328,454,MW,MWI,454,,
+435,Stato,2,Africa,22,"Africa occidentale",Mali,Mali,,Z329,466,ML,MLI,466,,
+436,Stato,2,Africa,21,"Africa settentrionale",Marocco,Morocco,,Z330,504,MA,MAR,504,,
+437,Stato,2,Africa,22,"Africa occidentale",Mauritania,Mauritania,,Z331,478,MR,MRT,478,,
+438,Stato,2,Africa,23,"Africa orientale",Maurizio,Mauritius,,Z332,480,MU,MUS,480,,
+440,Stato,2,Africa,23,"Africa orientale",Mozambico,Mozambique,,Z333,508,MZ,MOZ,508,,
+441,Stato,2,Africa,24,"Africa centro meridionale",Namibia,Namibia,"Namibia (Africa del Sud Ovest)",Z300,516,NA,NAM,516,,
+442,Stato,2,Africa,22,"Africa occidentale",Niger,Niger,,Z334,562,NE,NER,562,,
+443,Stato,2,Africa,22,"Africa occidentale",Nigeria,Nigeria,,Z335,566,NG,NGA,566,,
+446,Stato,2,Africa,23,"Africa orientale",Ruanda,Rwanda,,Z338,646,RW,RWA,646,,
+448,Stato,2,Africa,24,"Africa centro meridionale","Sao Tomé e Principe","Sao Tome and Principe",,Z341,678,ST,STP,678,,
+449,Stato,2,Africa,23,"Africa orientale",Seychelles,Seychelles,,Z342,690,SC,SYC,690,,
+450,Stato,2,Africa,22,"Africa occidentale",Senegal,Senegal,,Z343,686,SN,SEN,686,,
+451,Stato,2,Africa,22,"Africa occidentale","Sierra Leone","Sierra Leone",,Z344,694,SL,SLE,694,,
+453,Stato,2,Africa,23,"Africa orientale",Somalia,Somalia,,Z345,706,SO,SOM,706,,
+454,Stato,2,Africa,24,"Africa centro meridionale",Sudafrica,"South Africa",,Z347,710,ZA,ZAF,710,,
+455,Stato,2,Africa,21,"Africa settentrionale",Sudan,Sudan,,Z348,729,SD,SDN,729,,
+456,Stato,2,Africa,24,"Africa centro meridionale",Eswatini,Eswatini,"Eswatini (ex Swaziland)",Z349,748,SZ,SWZ,748,,
+457,Stato,2,Africa,23,"Africa orientale",Tanzania,"Tanzania, United Republic of","Repubblica Unita di Tanzania",Z357,834,TZ,TZA,834,,
+458,Stato,2,Africa,22,"Africa occidentale",Togo,Togo,,Z351,768,TG,TGO,768,,
+460,Stato,2,Africa,21,"Africa settentrionale",Tunisia,Tunisia,,Z352,788,TN,TUN,788,,
+461,Stato,2,Africa,23,"Africa orientale",Uganda,Uganda,,Z353,800,UG,UGA,800,,
+463,Stato,2,Africa,24,"Africa centro meridionale","Repubblica Democratica del Congo","Democratic Republic of the Congo","Repubblica Democratica del Congo (ex Zaire); Congo Leopoldville",Z312,180,CD,COD,180,,
+464,Stato,2,Africa,23,"Africa orientale",Zambia,Zambia,"Rhodesia Settentrionale",Z355,894,ZM,ZMB,894,,
+465,Stato,2,Africa,23,"Africa orientale",Zimbabwe,Zimbabwe,"Zimbabwe (ex Rhodesia); Rhodesia Meridionale",Z337,716,ZW,ZWE,716,,
+466,Stato,2,Africa,23,"Africa orientale",Eritrea,Eritrea,,Z368,232,ER,ERI,232,,
+467,Stato,2,Africa,21,"Africa settentrionale","Sud Sudan","South Sudan",,Z907,728,SS,SSD,728,,
+503,Stato,4,America,42,"America centro meridionale","Antigua e Barbuda","Antigua and Barbuda",,Z532,028,AG,ATG,28,,
+505,Stato,4,America,42,"America centro meridionale",Bahamas,Bahamas,,Z502,044,BS,BHS,44,,
+506,Stato,4,America,42,"America centro meridionale",Barbados,Barbados,,Z522,052,BB,BRB,52,,
+507,Stato,4,America,42,"America centro meridionale",Belize,Belize,"Belize (Honduras Britannico)",Z512,084,BZ,BLZ,84,,
+509,Stato,4,America,41,"America settentrionale",Canada,Canada,,Z401,124,CA,CAN,124,,
+513,Stato,4,America,42,"America centro meridionale","Costa Rica","Costa Rica",,Z503,188,CR,CRI,188,,
+514,Stato,4,America,42,"America centro meridionale",Cuba,Cuba,,Z504,192,CU,CUB,192,,
+515,Stato,4,America,42,"America centro meridionale",Dominica,Dominica,,Z526,212,DM,DMA,212,,
+516,Stato,4,America,42,"America centro meridionale","Repubblica Dominicana","Dominican Republic",,Z505,214,DO,DOM,214,,
+517,Stato,4,America,42,"America centro meridionale","El Salvador","El Salvador",,Z506,222,SV,SLV,222,,
+518,Stato,4,America,42,"America centro meridionale",Giamaica,Jamaica,,Z507,388,JM,JAM,388,,
+519,Stato,4,America,42,"America centro meridionale",Grenada,Grenada,,Z524,308,GD,GRD,308,,
+523,Stato,4,America,42,"America centro meridionale",Guatemala,Guatemala,,Z509,320,GT,GTM,320,,
+524,Stato,4,America,42,"America centro meridionale",Haiti,Haiti,,Z510,332,HT,HTI,332,,
+525,Stato,4,America,42,"America centro meridionale",Honduras,Honduras,,Z511,340,HN,HND,340,,
+527,Stato,4,America,42,"America centro meridionale",Messico,Mexico,,Z514,484,MX,MEX,484,,
+529,Stato,4,America,42,"America centro meridionale",Nicaragua,Nicaragua,,Z515,558,NI,NIC,558,,
+530,Stato,4,America,42,"America centro meridionale",Panama,Panama,,Z516,591,PA,PAN,591,,
+532,Stato,4,America,42,"America centro meridionale","Santa Lucia","Saint Lucia",,Z527,662,LC,LCA,662,,
+533,Stato,4,America,42,"America centro meridionale","Saint Vincent e Grenadine","Saint Vincent and the Grenadines",,Z528,670,VC,VCT,670,,
+534,Stato,4,America,42,"America centro meridionale","Saint Kitts e Nevis","Saint Kitts and Nevis","Saint Kitts and Nevis (Saint Christopher e Nevis)",Z533,659,KN,KNA,659,,
+536,Stato,4,America,41,"America settentrionale","Stati Uniti d'America","United States of America",,Z404,840,US,USA,840,,
+602,Stato,4,America,42,"America centro meridionale",Argentina,Argentina,,Z600,032,AR,ARG,32,,
+604,Stato,4,America,42,"America centro meridionale",Bolivia,"Bolivia, Plurinational State of",,Z601,068,BO,BOL,68,,
+605,Stato,4,America,42,"America centro meridionale",Brasile,Brazil,,Z602,076,BR,BRA,76,,
+606,Stato,4,America,42,"America centro meridionale",Cile,Chile,,Z603,152,CL,CHL,152,,
+608,Stato,4,America,42,"America centro meridionale",Colombia,Colombia,,Z604,170,CO,COL,170,,
+609,Stato,4,America,42,"America centro meridionale",Ecuador,Ecuador,,Z605,218,EC,ECU,218,,
+612,Stato,4,America,42,"America centro meridionale",Guyana,Guyana,"Guyana (Guyana britannica)",Z606,328,GY,GUY,328,,
+614,Stato,4,America,42,"America centro meridionale",Paraguay,Paraguay,,Z610,600,PY,PRY,600,,
+615,Stato,4,America,42,"America centro meridionale",Perù,Peru,,Z611,604,PE,PER,604,,
+616,Stato,4,America,42,"America centro meridionale",Suriname,Suriname,"Suriname (Guayana olandese)",Z608,740,SR,SUR,740,,
+617,Stato,4,America,42,"America centro meridionale","Trinidad e Tobago","Trinidad and Tobago",,Z612,780,TT,TTO,780,,
+618,Stato,4,America,42,"America centro meridionale",Uruguay,Uruguay,,Z613,858,UY,URY,858,,
+619,Stato,4,America,42,"America centro meridionale",Venezuela,Venezuela,,Z614,862,VE,VEN,862,,
+701,Stato,5,Oceania,51,"Australia e Nuova Zelanda",Australia,Australia,,Z700,036,AU,AUS,36,,
+703,Stato,5,Oceania,52,"Altri paesi dell'Oceania e regioni polari",Figi,Fiji,,Z704,242,FJ,FJI,242,,
+708,Stato,5,Oceania,52,"Altri paesi dell'Oceania e regioni polari",Kiribati,Kiribati,,Z731,296,KI,KIR,296,,
+712,Stato,5,Oceania,52,"Altri paesi dell'Oceania e regioni polari","Isole Marshall","Marshall Islands",,Z711,584,MH,MHL,584,,
+713,Stato,5,Oceania,52,"Altri paesi dell'Oceania e regioni polari","Stati Federati di Micronesia","Federated States of Micronesia",,Z735,583,FM,FSM,583,,
+715,Stato,5,Oceania,52,"Altri paesi dell'Oceania e regioni polari",Nauru,Nauru,,Z713,520,NR,NRU,520,,
+719,Stato,5,Oceania,51,"Australia e Nuova Zelanda","Nuova Zelanda","New Zealand",,Z719,554,NZ,NZL,554,,
+720,Stato,5,Oceania,52,"Altri paesi dell'Oceania e regioni polari",Palau,Palau,,Z734,585,PW,PLW,585,,
+721,Stato,5,Oceania,52,"Altri paesi dell'Oceania e regioni polari","Papua Nuova Guinea","Papua New Guinea",,Z730,598,PG,PNG,598,,
+725,Stato,5,Oceania,52,"Altri paesi dell'Oceania e regioni polari","Isole Salomone","Solomon Islands",,Z724,090,SB,SLB,90,,
+727,Stato,5,Oceania,52,"Altri paesi dell'Oceania e regioni polari",Samoa,Samoa,,Z726,882,WS,WSM,882,,
+730,Stato,5,Oceania,52,"Altri paesi dell'Oceania e regioni polari",Tonga,Tonga,,Z728,776,TO,TON,776,,
+731,Stato,5,Oceania,52,"Altri paesi dell'Oceania e regioni polari",Tuvalu,Tuvalu,,Z732,798,TV,TUV,798,,
+732,Stato,5,Oceania,52,"Altri paesi dell'Oceania e regioni polari",Vanuatu,Vanuatu,,Z733,548,VU,VUT,548,,
+856,Territorio,2,Africa,21,"Africa settentrionale",Ceuta,Ceuta,,,,XC,,,239,ESP
+882,Territorio,2,Africa,21,"Africa settentrionale",Melilla,Melilla,,,,XL,,,239,ESP
+901,Territorio,5,Oceania,52,"Altri paesi dell'Oceania e regioni polari","Isole Minori Esterne degli Stati Uniti d'America","United States Minor Outlying Islands","Isole Minori Esterne degli Stati Uniti d'America (Isola di Baker;Isola di Howland;Isola di Jarvis;Atollo di Johnston;Kingman Reef;Isole Midway;Isole di Navassa;Atollo di Palmyra;Isola di Wake)",,581,UM,UMI,581,536,USA
+902,Territorio,5,Oceania,52,"Altri paesi dell'Oceania e regioni polari","Nuova Caledonia","New Caledonia",,Z716,540,NC,NCL,540,215,FRA
+904,Territorio,4,America,42,"America centro meridionale","Saint-Martin (FR)","Saint Martin",,,663,MF,MAF,663,215,FRA
+905,Territorio/Altro,2,Africa,21,"Africa settentrionale","Sahara occidentale","Western Sahara","Sahara occidentale (Sahara spagnolo)",Z339,732,EH,ESH,732,,
+906,Territorio,4,America,42,"America centro meridionale",Saint-Barthélemy,"Saint Barthélemy","Saint Barthelemy",,652,BL,BLM,652,215,FRA
+908,Territorio,4,America,41,"America settentrionale",Bermuda,Bermuda,,Z400,060,BM,BMU,60,219,GBR
+909,Territorio,5,Oceania,51,"Australia e Nuova Zelanda","Isole Cook (NZ)","Cook Islands",,Z703,184,CK,COK,184,719,NZL
+910,Territorio,1,Europa,13,"Altri paesi europei",Gibilterra,Gibraltar,"Dominio di Gibilterra",Z113,292,GI,GIB,292,219,GBR
+911,Territorio,4,America,42,"America centro meridionale","Isole Cayman","Cayman Islands",,Z530,136,KY,CYM,136,219,GBR
+914,Territorio,4,America,42,"America centro meridionale",Guadalupa,Guadeloupe,,Z508,312,GP,GLP,312,215,FRA
+915,Territorio,4,America,42,"America centro meridionale",Martinica,Martinique,,Z513,474,MQ,MTQ,474,215,FRA
+917,Territorio,4,America,42,"America centro meridionale",Anguilla,Anguilla,,Z529,660,AI,AIA,660,219,GBR
+919,Territorio,4,America,42,"America centro meridionale","Porto Rico","Puerto Rico",,Z518,630,PR,PRI,630,536,USA
+920,Territorio,5,Oceania,52,"Altri paesi dell'Oceania e regioni polari","Polinesia francese","French Polynesia",,Z723,258,PF,PYF,258,215,FRA
+924,Territorio,1,Europa,13,"Altri paesi europei","Isole Fær Øer","Faroe Islands","Isole Faer Oer",Z108,234,FO,FRO,234,212,DNK
+925,Territorio,1,Europa,13,"Altri paesi europei",Jersey,Jersey,"Isole del Canale",,832,JE,JEY,832,219,GBR
+926,Territorio,4,America,42,"America centro meridionale",Aruba,Aruba,"Aruba (ex Antille Olandesi)",,533,AW,ABW,533,232,NLD
+928,Territorio,4,America,42,"America centro meridionale","Sint Maarten (NL)","Sint Maarten","Sint Maarten (ex Antille olandesi)",,534,SX,SXM,534,232,NLD
+929,Territorio,2,Africa,23,"Africa orientale",Riunione,Réunion,,Z324,638,RE,REU,638,215,FRA
+934,Territorio,4,America,41,"America settentrionale",Groenlandia,Greenland,,Z402,304,GL,GRL,304,212,DNK
+935,Territorio,4,America,42,"America centro meridionale","Bonaire, Saint Eustatius e Saba","Bonaire, Sint Eustatius and Saba","Bonaire, Saint Eustatius e Saba (ex Antille olandesi); Isole BES",,535,BQ,BES,535,232,NLD
+937,Territorio,5,Oceania,52,"Altri paesi dell'Oceania e regioni polari",Guam,Guam,,Z706,316,GU,GUM,316,536,USA
+939,Territorio,1,Europa,13,"Altri paesi europei",Sark,Sark,"Isole del Canale",,,,,,219,GBR
+940,Territorio,1,Europa,13,"Altri paesi europei",Guernsey,Guernsey,"Isole del Canale",,831,GG,GGY,831,219,GBR
+944,Territorio,4,America,42,"America centro meridionale","Guyana Francese","French Guiana",,Z607,254,GF,GUF,254,215,FRA
+945,Territorio,5,Oceania,51,"Australia e Nuova Zelanda","Heard e McDonald","Heard Island and McDonald Islands",,,334,HM,HMD,334,701,AUS
+947,Territorio,3,Asia,33,"Asia orientale","Hong Kong","Hong Kong",,Z221,344,HK,HKG,344,314,CHN
+948,Territorio,5,Oceania,51,"Australia e Nuova Zelanda","Isola di Natale","Christmas Island",,Z702,162,CX,CXR,162,701,AUS
+952,Territorio,1,Europa,13,"Altri paesi europei","Isole Aland","Åland Islands
+",,,248,AX,ALA,248,214,FIN
+956,Territorio,3,Asia,33,"Asia orientale",Macao,Macao,,Z231,446,MO,MAC,446,314,CHN
+958,Territorio,4,America,42,"America centro meridionale","Isole Falkland (Malvine)","Falkland Islands (Malvinas)",,Z609,238,FK,FLK,238,219,GBR
+959,Territorio,1,Europa,13,"Altri paesi europei","Isola di Man","Isle of Man",,Z122,833,IM,IMN,833,219,GBR
+960,Territorio,5,Oceania,52,"Altri paesi dell'Oceania e regioni polari","Isole delle Marianne settentrionali","Northern Mariana Islands","Marianne (Isole)",Z710,580,MP,MNP,580,536,USA
+962,Territorio,2,Africa,23,"Africa orientale",Mayotte,Mayotte,,Z360,175,YT,MYT,175,215,FRA
+964,Territorio,4,America,42,"America centro meridionale",Montserrat,Montserrat,,Z531,500,MS,MSR,500,219,GBR
+965,Territorio,5,Oceania,51,"Australia e Nuova Zelanda",Niue,Niue,,Z714,570,NU,NIU,570,719,NZL
+966,Territorio,4,America,42,"America centro meridionale",Curaçao,Curaçao,"Curaçao (ex Antille olandesi); Curacao",,531,CW,CUW,531,232,NLD
+967,Territorio,5,Oceania,51,"Australia e Nuova Zelanda","Isola Norfolk","Norfolk Island",,Z715,574,NF,NFK,574,701,AUS
+972,Territorio,5,Oceania,52,"Altri paesi dell'Oceania e regioni polari","Isole Pitcairn",Pitcairn,,Z722,612,PN,PCN,612,219,GBR
+974,Territorio/Altro,5,Oceania,52,"Altri paesi dell'Oceania e regioni polari",Antartide,Antarctica,,,010,AQ,ATA,10,,
+975,Territorio,5,Oceania,51,"Australia e Nuova Zelanda","Isole Cocos","Cocos (Keeling) Islands","Isole Keeling",Z212,166,CC,CCK,166,701,AUS
+976,Territorio,2,Africa,23,"Africa orientale","Territorio Britannico dell'Oceano Indiano","British Indian Ocean Territory",,,086,IO,IOT,86,219,GBR
+979,Territorio,5,Oceania,52,"Altri paesi dell'Oceania e regioni polari","Georgia del Sud e Sandwich Australi","South Georgia and the South Sandwich Islands",,,239,GS,SGS,239,219,GBR
+980,Territorio,4,America,41,"America settentrionale","Saint Pierre e Miquelon","Saint Pierre and Miquelon",,Z403,666,PM,SPM,666,215,FRA
+982,Territorio,5,Oceania,52,"Altri paesi dell'Oceania e regioni polari","Samoa Americane","American Samoa",,Z725,016,AS,ASM,16,536,USA
+983,Territorio,2,Africa,24,"Africa centro meridionale",Sant'Elena,"Saint Helena","Saint Helena, Ascension and Tristan da Cunha",Z340,654,SH,SHN,654,219,GBR
+984,Territorio,5,Oceania,52,"Altri paesi dell'Oceania e regioni polari","Bouvet, isola","Bouvet Island",,,074,BV,BVT,74,231,NOR
+987,Territorio,1,Europa,13,"Altri paesi europei","Svalbard e Jan Mayen","Svalbard and Jan Mayen",,,744,SJ,SJM,744,231,NOR
+988,Territorio,5,Oceania,52,"Altri paesi dell'Oceania e regioni polari","Terre australi e antartiche francesi","French Southern Territories","Territori australi ed antartici francesi",,260,TF,ATF,260,215,FRA
+990,Territorio,5,Oceania,51,"Australia e Nuova Zelanda",Tokelau,Tokelau,"Tokelau (Isole dell'Unione)",Z727,772,TK,TKL,772,719,NZL
+992,Territorio,4,America,42,"America centro meridionale","Isole Turks e Caicos","Turks and Caicos Islands",,Z519,796,TC,TCA,796,219,GBR
+994,Territorio,4,America,42,"America centro meridionale","Isole Vergini britanniche","British Virgin Islands",,Z525,092,VG,VGB,92,219,GBR
+995,Territorio,4,America,42,"America centro meridionale","Isole Vergini americane","Virgin Islands of the United States",,Z520,850,VI,VIR,850,536,USA
+997,Territorio,5,Oceania,52,"Altri paesi dell'Oceania e regioni polari","Wallis e Futuna","Wallis and Futuna","Isole Wallis e Futuna",Z729,876,WF,WLF,876,215,FRA
