@@ -1,6 +1,6 @@
-# Database Comuni Italiani (v2026.10.001)
+# Database Comuni Italiani (v2026.10.004)
 
-**Rilascio:** 09 Ottobre 2026
+**Rilascio:** 13 Ottobre 2026
 **Manutentore:** [Evolvify](https://evolvify.app)
 **Contatto:** info@databasecomuniitaliani.it
 
@@ -93,7 +93,8 @@ Contiene le informazioni amministrative e identificative di ciascun comune.
 - **prefisso** — Prefisso telefonico del comune.
 - **fax** — Numero di fax.
 - **wikipedia** — URL della voce Wikipedia del comune.
-- **sito_web** — URL del sito istituzionale del comune.
+- **sito_web** — URL del sito istituzionale del comune, come il comune lo dichiara a IndicePA; da Wikidata
+  dove IndicePA non lo riporta.
 - **belfiore** — Codice Belfiore del comune.
 - **santo_patrono** — Santo patrono del comune, estratto dall'infobox Wikipedia.
 - **festa_patronale** — Data della festa patronale, estratta dall'infobox Wikipedia.
@@ -105,12 +106,28 @@ Contiene le informazioni amministrative e identificative di ciascun comune.
 - **istat_2006_2009** — Codice ISTAT valido nel periodo 2006–2009.
 - **istat_2010_2016** — Codice ISTAT valido nel periodo 2010–2016.
 - **istat_2017_2025** — Codice ISTAT valido nel periodo 2017–2025.
+- **codice_fiscale** — Codice fiscale del comune, fonte IndicePA.
+- **codice_ipa** — Codice del comune nell'Indice dei domicili digitali della PA (IndicePA).
 
 #### `data_comuni_cap`
 Associa i comuni ai rispettivi codici di avviamento postale.
 **Campi:**
 - **comune_istat** — Comune di riferimento.
-- **cap** — Codice di avviamento postale.
+- **cap** — Codice di avviamento postale. Un comune ha più righe quando è una città zonata, quando una
+  sua frazione ha un CAP proprio o quando è nato da una fusione e ha conservato i CAP dei comuni d'origine
+  (questi ultimi da Wikidata, tenuti solo se la località è fra quelle ISTAT del comune e il CAP è della
+  sua provincia). A ogni rilascio si applicano le variazioni che Poste Italiane pubblica tre volte l'anno
+  su poste.it/cap: il CAP nuovo entra subito, quello sostituito resta accanto al nuovo per i dodici mesi in cui
+  Poste lo accetta ancora e poi passa in `data_comuni_cap_vecchi`.
+
+#### `data_comuni_cap_vecchi`
+I CAP che un comune non usa più dopo una variazione pubblicata da Poste Italiane (dal 2022). Per i dodici mesi in
+cui Poste accetta ancora il CAP vecchio, il comune li ha entrambi in `data_comuni_cap`; poi il vecchio passa qui.
+Chi trova in un indirizzo un CAP che `data_comuni_cap` non ha più lo cerca in questa tabella: il comune è lo stesso.
+**Campi:**
+- **comune_istat** — Comune di riferimento.
+- **cap** — Il CAP non più valido.
+- **pubblicazione** — Pubblicazione di Poste che ha fatto la variazione: anno e numero (2026-2 è la seconda del 2026).
 
 #### `data_comuni_confinanti`
 Elenca i comuni che condividono un confine, fonte Wikidata. Ogni coppia compare in entrambe le direzioni (A → B e
@@ -119,6 +136,17 @@ Nel pacchetto dimostrativo compaiono solo le coppie interne alla provincia.
 **Campi:**
 - **comune_istat** — Comune di riferimento.
 - **confinante_istat** — Comune confinante.
+
+#### `data_comuni_fatturazione`
+Gli uffici di ciascun comune che ricevono fatture elettroniche, fonte IndicePA. Un comune ha una riga per ufficio:
+la fattura va indirizzata al codice univoco dell'ufficio che ha ordinato la spesa.
+**Campi:**
+- **comune_istat** — Comune di riferimento.
+- **codice_univoco** — Codice univoco dell'ufficio (6 caratteri) da indicare nella fattura elettronica.
+- **ufficio** — Nome dell'ufficio, come il comune lo dichiara a IndicePA.
+- **codice_fiscale** — Codice fiscale da indicare nella fattura all'ufficio; può essere diverso da quello del
+  comune.
+- **data_avvio** — Data da cui l'ufficio riceve fatture elettroniche.
 
 #### `data_comuni_popolazione`
 Dati demografici di base relativi ai comuni.
@@ -138,19 +166,20 @@ Informazioni ambientali e territoriali dei comuni.
 - **zona_sismica** — Zona sismica (classificazione della Protezione Civile). Un comune nato da una fusione dopo l'ultimo aggiornamento della classificazione prende la zona dei comuni d'origine, se era la stessa per tutti; altrimenti resta vuoto.
 - **zona_altimetrica** — Zona altimetrica.
 - **gradi_giorno** — Valore dei gradi-giorno. Vuoto per i comuni nati da una fusione dopo l'ultimo aggiornamento della tabella: li stabilisce il sindaco (art. 2, comma 3 del DPR 412/93).
-- **comune_litoraneo** — Indica se il comune è litoraneo.
-- **comune_isolano** — Indica se il comune è su un’isola.
-- **zone_costiere** — Indica se il comune è in zona costiera.
-- **zone_montane** — Indica se il comune è in zona montana.
-- **zone_vincoli_naturali** — Indica se ricade in aree con vincoli naturali.
-- **zone_vincoli_specifici** — Indica se ricade in aree con vincoli specifici.
+- **comune_litoraneo** — Indica se il territorio comunale si affaccia sul mare.
+- **comune_isolano** — Indica se il comune sta su un’isola.
+- **zone_costiere** — Indica se il comune ricade nella zona costiera (classificazione ISTAT).
+- **zone_montane** — Indica se il comune ricade in zona montana, secondo la classificazione ISTAT usata per la PAC.
+- **zone_vincoli_naturali** — Indica se ricade in una zona con vincoli naturali significativi (stessa classificazione).
+- **zone_vincoli_specifici** — Indica se ricade in una zona con vincoli specifici (stessa classificazione).
 
 #### `data_comuni_geo`
 Dati geografici e fisici dei comuni.
 **Campi:**
 - **comune_istat** — Comune di riferimento.
-- **latitudine** — Latitudine geografica.
-- **longitudine** — Longitudine geografica.
+- **latitudine** — Latitudine del centro abitato del capoluogo comunale (WGS84, gradi decimali), fonte ISTAT
+  Basi territoriali 2021; per i comuni nati dopo il 2021 e per pochi centri verificati a mano, Wikidata.
+- **longitudine** — Longitudine dello stesso punto (WGS84, gradi decimali).
 - **altitudine_slm** — Altitudine sul livello del mare.
 - **superficie_kmq** — Superficie territoriale in km².
 

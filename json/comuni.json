@@ -12,7 +12,7 @@
         "prefisso": "0586",
         "fax": "+39 0586 670363",
         "wikipedia": "https://it.wikipedia.org/wiki/Bibbona",
-        "sito_web": "https://www.comune.bibbona.li.it/",
+        "sito_web": "https://www.comune.bibbona.li.it",
         "belfiore": "A852",
         "santo_patrono": "san Bartolomeo",
         "festa_patronale": "13 gennaio",
@@ -23,12 +23,23 @@
         "istat_2010_2016": "049001",
         "istat_2017_2025": "049001",
         "nome_abitanti": "bibbonese, bibbonesi",
+        "codice_fiscale": "00286130497",
+        "codice_ipa": "c_a852",
         "cap": [
             "57020"
         ],
+        "cap_vecchi": [],
         "confinanti": [
             49007,
             49006
+        ],
+        "fatturazione": [
+            {
+                "codice_univoco": "UF9A8D",
+                "ufficio": "Uff_eFatturaPA",
+                "codice_fiscale": "00286130497",
+                "data_avvio": "2015-03-31"
+            }
         ],
         "frazioni": [
             {
@@ -105,8 +116,8 @@
         },
         "geo": {
             "comune_istat": 49001,
-            "latitudine": 43.269402,
-            "longitudine": 10.598584,
+            "latitudine": 43.265553,
+            "longitudine": 10.593968,
             "altitudine_slm": 80,
             "superficie_kmq": 65.61
         },
@@ -137,7 +148,7 @@
         "prefisso": "0565",
         "fax": "+39 0565 839259",
         "wikipedia": "https://it.wikipedia.org/wiki/Campiglia_Marittima",
-        "sito_web": "http://www.comune.campigliamarittima.li.it/",
+        "sito_web": "https://www.comune.campigliamarittima.li.it",
         "belfiore": "B509",
         "santo_patrono": "san Fiorenzo di Populonia",
         "festa_patronale": "15 maggio",
@@ -148,13 +159,24 @@
         "istat_2010_2016": "049002",
         "istat_2017_2025": "049002",
         "nome_abitanti": "campigliese, campigliesi",
+        "codice_fiscale": "81000450494",
+        "codice_ipa": "c_b509",
         "cap": [
             "57021"
         ],
+        "cap_vecchi": [],
         "confinanti": [
             49018,
             49020,
             49012
+        ],
+        "fatturazione": [
+            {
+                "codice_univoco": "UFCKYB",
+                "ufficio": "Uff_eFatturaPA",
+                "codice_fiscale": "81000450494",
+                "data_avvio": "2015-03-31"
+            }
         ],
         "frazioni": [
             {
@@ -330,8 +352,8 @@
         },
         "geo": {
             "comune_istat": 49002,
-            "latitudine": 43.031015,
-            "longitudine": 10.603406,
+            "latitudine": 43.059931,
+            "longitudine": 10.615788,
             "altitudine_slm": 231,
             "superficie_kmq": 83.28
         },
@@ -362,7 +384,7 @@
         "prefisso": "0565",
         "fax": "+39 0565 976044",
         "wikipedia": "https://it.wikipedia.org/wiki/Campo_nell%27Elba",
-        "sito_web": "http://www.comune.campotures.bz.it/system/web/default.aspx?sprache=3",
+        "sito_web": "https://www.comune.camponellelba.li.it",
         "belfiore": "B553",
         "santo_patrono": "san Gaetano Thiene",
         "festa_patronale": "7 agosto",
@@ -373,13 +395,42 @@
         "istat_2010_2016": "049003",
         "istat_2017_2025": "049003",
         "nome_abitanti": "campese, campesi",
+        "codice_fiscale": "82001510492",
+        "codice_ipa": "c_b553",
         "cap": [
             "57034"
         ],
+        "cap_vecchi": [],
         "confinanti": [
             49004,
             49010,
             49014
+        ],
+        "fatturazione": [
+            {
+                "codice_univoco": "D335QO",
+                "ufficio": "AREA AMMINISTRATIVA",
+                "codice_fiscale": "82001510492",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "E5J08K",
+                "ufficio": "AREA VIGILANZA",
+                "codice_fiscale": "82001510492",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "UFJ0NP",
+                "ufficio": "Uff_eFatturaPA",
+                "codice_fiscale": "82001510492",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "ZT9B9J",
+                "ufficio": "AREA TECNICA",
+                "codice_fiscale": "82001510492",
+                "data_avvio": "2015-03-31"
+            }
         ],
         "frazioni": [
             {
@@ -537,8 +588,8 @@
         },
         "geo": {
             "comune_istat": 49003,
-            "latitudine": 42.74462,
-            "longitudine": 10.233456,
+            "latitudine": 42.741472,
+            "longitudine": 10.229289,
             "altitudine_slm": 2,
             "superficie_kmq": 55.79
         },
@@ -569,7 +620,7 @@
         "prefisso": "0565",
         "fax": "+39 0565 968060",
         "wikipedia": "https://it.wikipedia.org/wiki/Capoliveri",
-        "sito_web": "http://www.comune.capoliveri.li.it",
+        "sito_web": "https://www.comune.capoliveri.li.it",
         "belfiore": "B669",
         "santo_patrono": "Madonna dell'Assunta",
         "festa_patronale": "15 agosto",
@@ -580,13 +631,24 @@
         "istat_2010_2016": "049004",
         "istat_2017_2025": "049004",
         "nome_abitanti": "capoliverese, capoliveresi",
+        "codice_fiscale": "82002200499",
+        "codice_ipa": "c_b669",
         "cap": [
             "57031"
         ],
+        "cap_vecchi": [],
         "confinanti": [
             49003,
             49013,
             49014
+        ],
+        "fatturazione": [
+            {
+                "codice_univoco": "UFH5WQ",
+                "ufficio": "Uff_eFatturaPA",
+                "codice_fiscale": "82002200499",
+                "data_avvio": "2015-03-31"
+            }
         ],
         "frazioni": [
             {
@@ -717,8 +779,8 @@
         },
         "geo": {
             "comune_istat": 49004,
-            "latitudine": 42.742549,
-            "longitudine": 10.382098,
+            "latitudine": 42.745816,
+            "longitudine": 10.376329,
             "altitudine_slm": 167,
             "superficie_kmq": 39.56
         },
@@ -749,7 +811,7 @@
         "prefisso": "0586",
         "fax": "+39 0586 905113",
         "wikipedia": "https://it.wikipedia.org/wiki/Capraia_Isola",
-        "sito_web": "https://www.comune.capraiaisola.li.it/",
+        "sito_web": "https://www.comune.capraiaisola.li.it",
         "belfiore": "B685",
         "santo_patrono": "san Nicola",
         "festa_patronale": "6 dicembre",
@@ -760,10 +822,21 @@
         "istat_2010_2016": "049005",
         "istat_2017_2025": "049005",
         "nome_abitanti": "capraiesi",
+        "codice_fiscale": "80011940493",
+        "codice_ipa": "c_b685",
         "cap": [
             "57032"
         ],
+        "cap_vecchi": [],
         "confinanti": [],
+        "fatturazione": [
+            {
+                "codice_univoco": "UF2SB9",
+                "ufficio": "Uff_eFatturaPA",
+                "codice_fiscale": "80011940493",
+                "data_avvio": "2015-03-31"
+            }
+        ],
         "frazioni": [
             {
                 "istat": 4900510001,
@@ -803,8 +876,8 @@
         },
         "geo": {
             "comune_istat": 49005,
-            "latitudine": 43.049867,
-            "longitudine": 9.842461,
+            "latitudine": 43.048486,
+            "longitudine": 9.842637,
             "altitudine_slm": 52,
             "superficie_kmq": 19.36
         },
@@ -835,7 +908,7 @@
         "prefisso": "0565",
         "fax": "+39 0565 763845",
         "wikipedia": "https://it.wikipedia.org/wiki/Castagneto_Carducci",
-        "sito_web": "http://www.castagneto.comune.livorno.it/",
+        "sito_web": "https://www.comune.castagneto-carducci.li.it",
         "belfiore": "C044",
         "santo_patrono": "san Lorenzo",
         "festa_patronale": "10 agosto",
@@ -846,14 +919,62 @@
         "istat_2010_2016": "049006",
         "istat_2017_2025": "049006",
         "nome_abitanti": "castagnetano, castagnetani",
+        "codice_fiscale": "00121280499",
+        "codice_ipa": "c_c044",
         "cap": [
+            "57020",
             "57022"
         ],
+        "cap_vecchi": [],
         "confinanti": [
             49020,
             49019,
             49018,
             49001
+        ],
+        "fatturazione": [
+            {
+                "codice_univoco": "F487KF",
+                "ufficio": "Area 4",
+                "codice_fiscale": "00121280499",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "HE3C91",
+                "ufficio": "Area1",
+                "codice_fiscale": "00121280499",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "IKUH3I",
+                "ufficio": "Area 3",
+                "codice_fiscale": "00121280499",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "OWB5ZE",
+                "ufficio": "Ufficio Segretario Comunale",
+                "codice_fiscale": "00121280499",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "QPOQ12",
+                "ufficio": "Area 2",
+                "codice_fiscale": "00121280499",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "TJZO8V",
+                "ufficio": "AREA 5",
+                "codice_fiscale": "00121280499",
+                "data_avvio": "2023-11-29"
+            },
+            {
+                "codice_univoco": "UF1C3X",
+                "ufficio": "Uff_eFatturaPA",
+                "codice_fiscale": "00121280499",
+                "data_avvio": "2015-03-31"
+            }
         ],
         "frazioni": [
             {
@@ -1002,8 +1123,8 @@
         },
         "geo": {
             "comune_istat": 49006,
-            "latitudine": 43.160623,
-            "longitudine": 10.610131,
+            "latitudine": 43.160277,
+            "longitudine": 10.610578,
             "altitudine_slm": 194,
             "superficie_kmq": 142.32
         },
@@ -1034,7 +1155,7 @@
         "prefisso": "0586",
         "fax": "+39 0586611208",
         "wikipedia": "https://it.wikipedia.org/wiki/Cecina_(comune)",
-        "sito_web": "http://www.comune.cecina.li.it",
+        "sito_web": "https://www.comune.cecina.li.it",
         "belfiore": "C415",
         "santo_patrono": "san Giuseppe",
         "festa_patronale": "19 marzo",
@@ -1045,12 +1166,209 @@
         "istat_2010_2016": "049007",
         "istat_2017_2025": "049007",
         "nome_abitanti": "cecinese, cecinesi",
+        "codice_fiscale": "00199700493",
+        "codice_ipa": "c_c415",
         "cap": [
             "57023"
         ],
+        "cap_vecchi": [],
         "confinanti": [
             49001,
             49017
+        ],
+        "fatturazione": [
+            {
+                "codice_univoco": "1WPBRT",
+                "ufficio": "Ufficio Comunicazione",
+                "codice_fiscale": "00199700493",
+                "data_avvio": "2023-10-10"
+            },
+            {
+                "codice_univoco": "2E3TDA",
+                "ufficio": "Unita' Organizzativa Politiche sociali",
+                "codice_fiscale": "00199700493",
+                "data_avvio": "2022-06-24"
+            },
+            {
+                "codice_univoco": "2J777U",
+                "ufficio": "Ufficio Economato",
+                "codice_fiscale": "00199700493",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "2YC7JO",
+                "ufficio": "Unita' Organizzativa Sistemi automatizzati, Sicurezza informatica",
+                "codice_fiscale": "00199700493",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "3YKDSE",
+                "ufficio": "Ufficio Prevenzione e Protezione",
+                "codice_fiscale": "00199700493",
+                "data_avvio": "2024-08-13"
+            },
+            {
+                "codice_univoco": "5I9GUP",
+                "ufficio": "Ufficio Messi",
+                "codice_fiscale": "00199700493",
+                "data_avvio": "2022-06-24"
+            },
+            {
+                "codice_univoco": "5YPUET",
+                "ufficio": "Ufficio Tributi",
+                "codice_fiscale": "00199700493",
+                "data_avvio": "2022-06-24"
+            },
+            {
+                "codice_univoco": "6N29CO",
+                "ufficio": "Ufficio Patrimonio gestione giuridico amministrativa",
+                "codice_fiscale": "00199700493",
+                "data_avvio": "2022-06-24"
+            },
+            {
+                "codice_univoco": "8BRT3Z",
+                "ufficio": "Ufficio Protezione Civile",
+                "codice_fiscale": "00199700493",
+                "data_avvio": "2023-10-11"
+            },
+            {
+                "codice_univoco": "9HXF9B",
+                "ufficio": "Ufficio Affari legali e assicurazioni",
+                "codice_fiscale": "00199700493",
+                "data_avvio": "2022-06-24"
+            },
+            {
+                "codice_univoco": "BCK7NO",
+                "ufficio": "Unita' Organizzativa Manutenzioni",
+                "codice_fiscale": "00199700493",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "DANCMJ",
+                "ufficio": "Ufficio Segreteria generale, Affari generali URP, Protocollo",
+                "codice_fiscale": "00199700493",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "DB12J4",
+                "ufficio": "Unità Organizzativa Bilancio, tributi, Partecipate SUAP, Commercio",
+                "codice_fiscale": "00199700493",
+                "data_avvio": "2022-06-24"
+            },
+            {
+                "codice_univoco": "HHEG5B",
+                "ufficio": "Ufficio Stipendi",
+                "codice_fiscale": "00199700493",
+                "data_avvio": "2022-06-24"
+            },
+            {
+                "codice_univoco": "JA971N",
+                "ufficio": "Unita' Organizzativa Istruzione",
+                "codice_fiscale": "00199700493",
+                "data_avvio": "2022-06-24"
+            },
+            {
+                "codice_univoco": "KRFEIT",
+                "ufficio": "Unità Organizzativa Progettazione LL.PP. Ambiente",
+                "codice_fiscale": "00199700493",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "L2C0DQ",
+                "ufficio": "Ufficio Ragioneria",
+                "codice_fiscale": "00199700493",
+                "data_avvio": "2022-06-24"
+            },
+            {
+                "codice_univoco": "M2GNC1",
+                "ufficio": "Commissario Straordinario per l'edilizia scolastica",
+                "codice_fiscale": "00199700493",
+                "data_avvio": "2022-10-21"
+            },
+            {
+                "codice_univoco": "NQQRX8",
+                "ufficio": "Ufficio Contratti",
+                "codice_fiscale": "00199700493",
+                "data_avvio": "2023-10-10"
+            },
+            {
+                "codice_univoco": "O72SPZ",
+                "ufficio": "Ufficio Demanio Marittimo",
+                "codice_fiscale": "00199700493",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "O9VSA6",
+                "ufficio": "Ufficio funzioni Ufficiale Rogante",
+                "codice_fiscale": "00199700493",
+                "data_avvio": "2022-06-24"
+            },
+            {
+                "codice_univoco": "OTQ415",
+                "ufficio": "Ufficio Gestione giuridica Risorse Umane",
+                "codice_fiscale": "00199700493",
+                "data_avvio": "2022-06-24"
+            },
+            {
+                "codice_univoco": "Q7J7W5",
+                "ufficio": "Ufficio Servizi interni",
+                "codice_fiscale": "00199700493",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "QZR9EQ",
+                "ufficio": "Unita' Organizzativa Ambiente - Tutela animali",
+                "codice_fiscale": "00199700493",
+                "data_avvio": "2023-10-06"
+            },
+            {
+                "codice_univoco": "RWCXMZ",
+                "ufficio": "Ufficio Trasporto Pubblico Locale (TPL)",
+                "codice_fiscale": "00199700493",
+                "data_avvio": "2023-10-06"
+            },
+            {
+                "codice_univoco": "S04L1Q",
+                "ufficio": "Ufficio Gare Affidamenti Provveditorato",
+                "codice_fiscale": "00199700493",
+                "data_avvio": "2022-06-24"
+            },
+            {
+                "codice_univoco": "TFJTVZ",
+                "ufficio": "Unita' Organizzativa Urbanistica",
+                "codice_fiscale": "00199700493",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "V2DDIM",
+                "ufficio": "Ufficio Attività Commerciali e ricettive igiene e sanità",
+                "codice_fiscale": "00199700493",
+                "data_avvio": "2022-06-24"
+            },
+            {
+                "codice_univoco": "WIM1GG",
+                "ufficio": "Ufficio Servizi demografici, elettorale e cimitero",
+                "codice_fiscale": "00199700493",
+                "data_avvio": "2022-06-24"
+            },
+            {
+                "codice_univoco": "XOBTSG",
+                "ufficio": "Unità Organizzativa Finanziamenti UE, Sport, Turismo, Eventi, Cultura",
+                "codice_fiscale": "00199700493",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "YM5W7T",
+                "ufficio": "Ufficio di staff",
+                "codice_fiscale": "00199700493",
+                "data_avvio": "2023-10-06"
+            },
+            {
+                "codice_univoco": "YNQPLG",
+                "ufficio": "Unita' Organizzativa Edilizia privata ed abusivismo",
+                "codice_fiscale": "00199700493",
+                "data_avvio": "2022-06-24"
+            }
         ],
         "frazioni": [
             {
@@ -1154,8 +1472,8 @@
         },
         "geo": {
             "comune_istat": 49007,
-            "latitudine": 43.312189,
-            "longitudine": 10.519378,
+            "latitudine": 43.296789,
+            "longitudine": 10.50096,
             "altitudine_slm": 15,
             "superficie_kmq": 42.64
         },
@@ -1186,7 +1504,7 @@
         "prefisso": "0586",
         "fax": "+39 0586 980254",
         "wikipedia": "https://it.wikipedia.org/wiki/Collesalvetti",
-        "sito_web": "http://www.comune.collesalvetti.li.it/",
+        "sito_web": "https://www.comune.collesalvetti.li.it",
         "belfiore": "C869",
         "santo_patrono": "san Quirico e santa Giulitta",
         "festa_patronale": "16 giugno",
@@ -1197,12 +1515,78 @@
         "istat_2010_2016": "049008",
         "istat_2017_2025": "049008",
         "nome_abitanti": "colligiano, colligiani",
+        "codice_fiscale": "00285400495",
+        "codice_ipa": "c_c869",
         "cap": [
-            "57014"
+            "57014",
+            "57017"
         ],
+        "cap_vecchi": [],
         "confinanti": [
             49009,
             49017
+        ],
+        "fatturazione": [
+            {
+                "codice_univoco": "4VY3DU",
+                "ufficio": "Area Economica-Finanziaria Sistemi Informativi Programmazione e Controllo",
+                "codice_fiscale": "00285400495",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "E8YYBC",
+                "ufficio": "Area Edilizia Privata Suap e Patrimonio Comunale",
+                "codice_fiscale": "00285400495",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "HSRT7H",
+                "ufficio": "Area Ambiente Protezione Civile",
+                "codice_fiscale": "00285400495",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "IVQBNY",
+                "ufficio": "Pianificazione Urbanistica",
+                "codice_fiscale": "00285400495",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "IVVQC2",
+                "ufficio": "Area Lavori Pubblici",
+                "codice_fiscale": "00285400495",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "K59L01",
+                "ufficio": "Area Servizi al Cittadino",
+                "codice_fiscale": "00285400495",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "OFAYZW",
+                "ufficio": "SETTORE STRATEGICO",
+                "codice_fiscale": "00285400495",
+                "data_avvio": "2026-04-21"
+            },
+            {
+                "codice_univoco": "U0OL5J",
+                "ufficio": "Area Polizia Municipale",
+                "codice_fiscale": "00285400495",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "X4TCBB",
+                "ufficio": "Datore di lavoro",
+                "codice_fiscale": "00285400495",
+                "data_avvio": "2022-04-06"
+            },
+            {
+                "codice_univoco": "YRKMHH",
+                "ufficio": "Area Servizi Generali",
+                "codice_fiscale": "00285400495",
+                "data_avvio": "2015-03-31"
+            }
         ],
         "frazioni": [
             {
@@ -1531,8 +1915,8 @@
         },
         "geo": {
             "comune_istat": 49008,
-            "latitudine": 43.589129,
-            "longitudine": 10.476095,
+            "latitudine": 43.587849,
+            "longitudine": 10.477504,
             "altitudine_slm": 40,
             "superficie_kmq": 107.99
         },
@@ -1563,7 +1947,7 @@
         "prefisso": "0586",
         "fax": "+39 0586 820444",
         "wikipedia": "https://it.wikipedia.org/wiki/Livorno",
-        "sito_web": "https://www.visit-livorno.it/",
+        "sito_web": "https://www.comune.livorno.it",
         "belfiore": "E625",
         "santo_patrono": "Giulia di Corsica",
         "festa_patronale": "22 maggio",
@@ -1574,19 +1958,180 @@
         "istat_2010_2016": "049009",
         "istat_2017_2025": "049009",
         "nome_abitanti": "livornese, livornesi; labronico, labronici",
+        "codice_fiscale": "00104330493",
+        "codice_ipa": "c_e625",
         "cap": [
-            "57126",
+            "57125",
             "57128",
             "57127",
-            "57125",
+            "57126",
             "57124",
             "57123",
             "57122",
             "57121"
         ],
+        "cap_vecchi": [],
         "confinanti": [
             49008,
             49017
+        ],
+        "fatturazione": [
+            {
+                "codice_univoco": "2GHYXZ",
+                "ufficio": "Settore Società partecipate, Sport e impianti sportivi",
+                "codice_fiscale": "00104330493",
+                "data_avvio": "2020-04-14"
+            },
+            {
+                "codice_univoco": "4WSI32",
+                "ufficio": "Settore Manutenzione e cura della città",
+                "codice_fiscale": "00104330493",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "5CHJP5",
+                "ufficio": "Settore Entrate e Revisione della spesa",
+                "codice_fiscale": "00104330493",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "5R32DK",
+                "ufficio": "Ufficio Utenze",
+                "codice_fiscale": "00104330493",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "87EBDI",
+                "ufficio": "Settore Istruzione, giovani e partecipazione",
+                "codice_fiscale": "00104330493",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "9BK70P",
+                "ufficio": "Ufficio Economato",
+                "codice_fiscale": "00104330493",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "9EH1BG",
+                "ufficio": "Settore Politiche Sociali ed Sociosanitarie",
+                "codice_fiscale": "00104330493",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "AGDBE1",
+                "ufficio": "Direttore Generale",
+                "codice_fiscale": "00104330493",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "CAN4LH",
+                "ufficio": "Settore Ambiente e Transizione ecologica",
+                "codice_fiscale": "00104330493",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "CIA7VR",
+                "ufficio": "Settore Urbanistica,  Programmi Complessi  e Rigenerazione urbana",
+                "codice_fiscale": "00104330493",
+                "data_avvio": "2020-04-14"
+            },
+            {
+                "codice_univoco": "CNBGK8",
+                "ufficio": "Settore Transizione tecnologica e smart city",
+                "codice_fiscale": "00104330493",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "CS1TP4",
+                "ufficio": "Settore Sistemi Informativi",
+                "codice_fiscale": "00104330493",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "DAF18B",
+                "ufficio": "Settore Anagrafe, demografici e servizi cimiteriali",
+                "codice_fiscale": "00104330493",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "DJDEMC",
+                "ufficio": "Settore Avvocatura",
+                "codice_fiscale": "00104330493",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "E2DCOJ",
+                "ufficio": "Lavori Pubblici e Opere PNRR",
+                "codice_fiscale": "00104330493",
+                "data_avvio": "2024-01-23"
+            },
+            {
+                "codice_univoco": "FA6030",
+                "ufficio": "Settore Polizia Municipale",
+                "codice_fiscale": "00104330493",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "GQRCEN",
+                "ufficio": "Segretario Generale",
+                "codice_fiscale": "00104330493",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "IJ1F9U",
+                "ufficio": "Settore Gare Contratti e Patrimonio",
+                "codice_fiscale": "00104330493",
+                "data_avvio": "2024-11-26"
+            },
+            {
+                "codice_univoco": "JB09IF",
+                "ufficio": "Settore Risorse umane, organizzazione e controllo",
+                "codice_fiscale": "00104330493",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "M5NBXK",
+                "ufficio": "Settore Sviluppo economico Commercio e Turismo",
+                "codice_fiscale": "00104330493",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "PRG48A",
+                "ufficio": "Settore Mobilità sostenibile e Infrastrutture",
+                "codice_fiscale": "00104330493",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "Q0KF7Z",
+                "ufficio": "Settore Edilizia Privata",
+                "codice_fiscale": "00104330493",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "QL1O51",
+                "ufficio": "Settore Attività culturali e musei",
+                "codice_fiscale": "00104330493",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "TWSD04",
+                "ufficio": "Protezione Civile",
+                "codice_fiscale": "00104330493",
+                "data_avvio": "2021-04-14"
+            },
+            {
+                "codice_univoco": "UFRQJ4",
+                "ufficio": "Uff_eFatturaPA",
+                "codice_fiscale": "00104330493",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "XL9OAK",
+                "ufficio": "Settore Affari Generali",
+                "codice_fiscale": "00104330493",
+                "data_avvio": "2024-07-26"
+            }
         ],
         "frazioni": [
             {
@@ -1780,8 +2325,8 @@
         },
         "geo": {
             "comune_istat": 49009,
-            "latitudine": 43.552232,
-            "longitudine": 10.308057,
+            "latitudine": 43.544371,
+            "longitudine": 10.325975,
             "altitudine_slm": 3,
             "superficie_kmq": 105.07
         },
@@ -1812,7 +2357,7 @@
         "prefisso": "0565",
         "fax": "+39 0565 901076",
         "wikipedia": "https://it.wikipedia.org/wiki/Marciana_(Italia)",
-        "sito_web": "http://www.comune.marciana.li.it",
+        "sito_web": "https://www.comune.marciana.li.it",
         "belfiore": "E930",
         "santo_patrono": "santa Caterina d'Alessandria",
         "festa_patronale": "25 novembre",
@@ -1823,13 +2368,24 @@
         "istat_2010_2016": "049010",
         "istat_2017_2025": "049010",
         "nome_abitanti": "marcianese, marcianesi",
+        "codice_fiscale": "82001490497",
+        "codice_ipa": "c_e930",
         "cap": [
             "57030"
         ],
+        "cap_vecchi": [],
         "confinanti": [
             49003,
             49011,
             49014
+        ],
+        "fatturazione": [
+            {
+                "codice_univoco": "UF9GRT",
+                "ufficio": "Uff_eFatturaPA",
+                "codice_fiscale": "82001490497",
+                "data_avvio": "2015-03-31"
+            }
         ],
         "frazioni": [
             {
@@ -1942,8 +2498,8 @@
         },
         "geo": {
             "comune_istat": 49010,
-            "latitudine": 42.789829,
-            "longitudine": 10.168007,
+            "latitudine": 42.789205,
+            "longitudine": 10.167754,
             "altitudine_slm": 375,
             "superficie_kmq": 45.45
         },
@@ -1974,7 +2530,7 @@
         "prefisso": "0565",
         "fax": "+39 0565 904321",
         "wikipedia": "https://it.wikipedia.org/wiki/Marciana_Marina",
-        "sito_web": "https://www.comune.marcianamarina.li.it/",
+        "sito_web": "https://www.comune.marcianamarina.li.it",
         "belfiore": "E931",
         "santo_patrono": "santa Chiara",
         "festa_patronale": "11 agosto",
@@ -1985,11 +2541,22 @@
         "istat_2010_2016": "049011",
         "istat_2017_2025": "049011",
         "nome_abitanti": "marinesi",
+        "codice_fiscale": "82002040499",
+        "codice_ipa": "c_e931",
         "cap": [
             "57033"
         ],
+        "cap_vecchi": [],
         "confinanti": [
             49010
+        ],
+        "fatturazione": [
+            {
+                "codice_univoco": "UFH531",
+                "ufficio": "Uff_eFatturaPA",
+                "codice_fiscale": "82002040499",
+                "data_avvio": "2015-03-31"
+            }
         ],
         "frazioni": [
             {
@@ -2039,8 +2606,8 @@
         },
         "geo": {
             "comune_istat": 49011,
-            "latitudine": 42.804299,
-            "longitudine": 10.199898,
+            "latitudine": 42.801884,
+            "longitudine": 10.194143,
             "altitudine_slm": 3,
             "superficie_kmq": 5.86
         },
@@ -2071,7 +2638,7 @@
         "prefisso": "0565",
         "fax": "+39 0565 63290",
         "wikipedia": "https://it.wikipedia.org/wiki/Piombino",
-        "sito_web": "https://www.comune.piombino.li.it/",
+        "sito_web": "https://www.comune.piombino.li.it",
         "belfiore": "G687",
         "santo_patrono": "santa Anastasia",
         "festa_patronale": "8 maggio",
@@ -2082,13 +2649,175 @@
         "istat_2010_2016": "049012",
         "istat_2017_2025": "049012",
         "nome_abitanti": "piombinese, piombinesi; piombinate, piombinati (aulico)",
+        "codice_fiscale": "00290280494",
+        "codice_ipa": "c_g687",
         "cap": [
+            "57020",
             "57025"
         ],
+        "cap_vecchi": [],
         "confinanti": [
             49020,
             49018,
             49002
+        ],
+        "fatturazione": [
+            {
+                "codice_univoco": "0MW1TO",
+                "ufficio": "Uff_eFatturaPA_PrestSoc",
+                "codice_fiscale": "00290280494",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "0QYBVZ",
+                "ufficio": "Uff_eFatturaPA_BeniCult",
+                "codice_fiscale": "00290280494",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "29P64T",
+                "ufficio": "Uff_eFatturaPA_ServEduc",
+                "codice_fiscale": "00290280494",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "2SBQHM",
+                "ufficio": "Uff_eFatturaPA_Urbanistica",
+                "codice_fiscale": "00290280494",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "35A7YL",
+                "ufficio": "Uff_eFatturaPA_AffLeg",
+                "codice_fiscale": "00290280494",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "3D1AV7",
+                "ufficio": "Uff_eFatturaPA_Demanio",
+                "codice_fiscale": "00290280494",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "3X88UD",
+                "ufficio": "Uff_eFatturaPA_ServAcq",
+                "codice_fiscale": "00290280494",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "6EN00A",
+                "ufficio": "Uff_eFatturaPA_Personale",
+                "codice_fiscale": "00290280494",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "6ZOLPC",
+                "ufficio": "Uff_eFatturaPA_ArchSto",
+                "codice_fiscale": "00290280494",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "7R7TJW",
+                "ufficio": "Uff_eFatturaPA_LLPP",
+                "codice_fiscale": "00290280494",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "93QSXK",
+                "ufficio": "Uff_eFatturaPA_PolSoc",
+                "codice_fiscale": "00290280494",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "9QQG5Z",
+                "ufficio": "Uff_eFatturPA_SpGioTur",
+                "codice_fiscale": "00290280494",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "AUNNQS",
+                "ufficio": "Uff_eFatturaPA_Cultura",
+                "codice_fiscale": "00290280494",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "HSW3MJ",
+                "ufficio": "Uff_eFatturaPA_SvilEcon",
+                "codice_fiscale": "00290280494",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "JOBRWA",
+                "ufficio": "Uff_eFatturPA_StCiv",
+                "codice_fiscale": "00290280494",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "KNYT0N",
+                "ufficio": "Uff_eFatturaPA_Ambiente",
+                "codice_fiscale": "00290280494",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "LRZEMG",
+                "ufficio": "Uff_eFatturaPA_Urp",
+                "codice_fiscale": "00290280494",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "MM0DVG",
+                "ufficio": "Uff_eFatturaPA_AffGen",
+                "codice_fiscale": "00290280494",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "O7J9WY",
+                "ufficio": "Uff_eFatturPA_Cimit",
+                "codice_fiscale": "00290280494",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "QQL2PX",
+                "ufficio": "Uff_eFatturaPA_ServScol",
+                "codice_fiscale": "00290280494",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "RIJNG0",
+                "ufficio": "Uff_eFatturaPA_PolMun",
+                "codice_fiscale": "00290280494",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "UF33ME",
+                "ufficio": "Uff_eFatturaPA",
+                "codice_fiscale": "00290280494",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "VUJP7X",
+                "ufficio": "Uff_eFatturaPA_Biblio",
+                "codice_fiscale": "00290280494",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "XSOXQ3",
+                "ufficio": "Uff_eFatturaPA_Cerimoniale",
+                "codice_fiscale": "00290280494",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "XYJG7I",
+                "ufficio": "Uff_eFatturaPA_Sistemi_Informativi",
+                "codice_fiscale": "00290280494",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "Z74HAT",
+                "ufficio": "Uff_eFatturPA_Dec",
+                "codice_fiscale": "00290280494",
+                "data_avvio": "2015-03-31"
+            }
         ],
         "frazioni": [
             {
@@ -2273,8 +3002,8 @@
         },
         "geo": {
             "comune_istat": 49012,
-            "latitudine": 42.921967,
-            "longitudine": 10.526852,
+            "latitudine": 42.929113,
+            "longitudine": 10.528975,
             "altitudine_slm": 21,
             "superficie_kmq": 130.74
         },
@@ -2305,7 +3034,7 @@
         "prefisso": "0565",
         "fax": "",
         "wikipedia": "https://it.wikipedia.org/wiki/Porto_Azzurro",
-        "sito_web": "http://www.comune.portoazzurro.li.it/",
+        "sito_web": "https://comune.portoazzurro.li.it",
         "belfiore": "E680",
         "santo_patrono": "san Giacomo",
         "festa_patronale": "25 luglio",
@@ -2316,13 +3045,54 @@
         "istat_2010_2016": "049013",
         "istat_2017_2025": "049013",
         "nome_abitanti": "portazzurrini, longonesi, vaporini",
+        "codice_fiscale": "82001830494",
+        "codice_ipa": "c_e680",
         "cap": [
             "57036"
         ],
+        "cap_vecchi": [],
         "confinanti": [
             49004,
             49014,
             49021
+        ],
+        "fatturazione": [
+            {
+                "codice_univoco": "QQEKD6",
+                "ufficio": "AREA AMMINISTRATIVA",
+                "codice_fiscale": "82001830494",
+                "data_avvio": "2025-11-14"
+            },
+            {
+                "codice_univoco": "S5001O",
+                "ufficio": "AREA FINANZIARIA",
+                "codice_fiscale": "82001830494",
+                "data_avvio": "2025-11-14"
+            },
+            {
+                "codice_univoco": "UFSF82",
+                "ufficio": "Uff_eFatturaPA",
+                "codice_fiscale": "82001830494",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "WKKD47",
+                "ufficio": "AREA POLIZIA LOCALE",
+                "codice_fiscale": "82001830494",
+                "data_avvio": "2025-11-14"
+            },
+            {
+                "codice_univoco": "YDH35B",
+                "ufficio": "AREA LAVORI PUBBLICI",
+                "codice_fiscale": "82001830494",
+                "data_avvio": "2025-11-14"
+            },
+            {
+                "codice_univoco": "ZVQMVJ",
+                "ufficio": "AREA EDILIZIA PRIVATA",
+                "codice_fiscale": "82001830494",
+                "data_avvio": "2025-11-14"
+            }
         ],
         "frazioni": [
             {
@@ -2363,8 +3133,8 @@
         },
         "geo": {
             "comune_istat": 49013,
-            "latitudine": 42.764569,
-            "longitudine": 10.398705,
+            "latitudine": 42.768296,
+            "longitudine": 10.398774,
             "altitudine_slm": 2,
             "superficie_kmq": 13.34
         },
@@ -2395,7 +3165,7 @@
         "prefisso": "0565",
         "fax": "+39 0565 916391",
         "wikipedia": "https://it.wikipedia.org/wiki/Portoferraio",
-        "sito_web": "https://www.comune.portoferraio.li.it/",
+        "sito_web": "https://www.comune.portoferraio.li.it",
         "belfiore": "G912",
         "santo_patrono": "san Cristino",
         "festa_patronale": "29 aprile",
@@ -2406,15 +3176,128 @@
         "istat_2010_2016": "049014",
         "istat_2017_2025": "049014",
         "nome_abitanti": "portoferraiesi",
+        "codice_fiscale": "82001370491",
+        "codice_ipa": "c_g912",
         "cap": [
             "57037"
         ],
+        "cap_vecchi": [],
         "confinanti": [
             49003,
             49004,
             49010,
             49013,
             49021
+        ],
+        "fatturazione": [
+            {
+                "codice_univoco": "4KKCKJ",
+                "ufficio": "Ufficio Contenzioso",
+                "codice_fiscale": "82001370491",
+                "data_avvio": "2020-09-21"
+            },
+            {
+                "codice_univoco": "6FQ3N2",
+                "ufficio": "Ufficio Cultura e Turismo",
+                "codice_fiscale": "82001370491",
+                "data_avvio": "2020-09-21"
+            },
+            {
+                "codice_univoco": "80W0HF",
+                "ufficio": "Ufficio Segreteria ed Organi Istituzionali",
+                "codice_fiscale": "82001370491",
+                "data_avvio": "2020-09-21"
+            },
+            {
+                "codice_univoco": "8C40U5",
+                "ufficio": "Ufficio Demanio e Patrimonio",
+                "codice_fiscale": "82001370491",
+                "data_avvio": "2020-09-21"
+            },
+            {
+                "codice_univoco": "DHZIMN",
+                "ufficio": "Ufficio Personale",
+                "codice_fiscale": "82001370491",
+                "data_avvio": "2020-09-21"
+            },
+            {
+                "codice_univoco": "DQWYSA",
+                "ufficio": "Ufficio Entrate Tributarie",
+                "codice_fiscale": "82001370491",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "F4YKAT",
+                "ufficio": "Ufficio Politiche Sociali e Sport",
+                "codice_fiscale": "82001370491",
+                "data_avvio": "2020-09-21"
+            },
+            {
+                "codice_univoco": "F6VRJJ",
+                "ufficio": "Ufficio Tecnico - Lavori Pubblici",
+                "codice_fiscale": "82001370491",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "HQCCDR",
+                "ufficio": "Ufficio per la transizione al Digitale",
+                "codice_fiscale": "82001370491",
+                "data_avvio": "2020-09-21"
+            },
+            {
+                "codice_univoco": "KAPFQG",
+                "ufficio": "Ufficio Economato e CED",
+                "codice_fiscale": "82001370491",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "M5CJDJ",
+                "ufficio": "Ufficio Servizi Demografici",
+                "codice_fiscale": "82001370491",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "PEUEOH",
+                "ufficio": "Ufficio Protocollo",
+                "codice_fiscale": "82001370491",
+                "data_avvio": "2020-09-21"
+            },
+            {
+                "codice_univoco": "PTIF5N",
+                "ufficio": "Ufficio Scuola - Istruzione - Nidi",
+                "codice_fiscale": "82001370491",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "R3DZ0B",
+                "ufficio": "Ufficio Commercio",
+                "codice_fiscale": "82001370491",
+                "data_avvio": "2020-09-21"
+            },
+            {
+                "codice_univoco": "UFEESZ",
+                "ufficio": "Uff_eFatturaPA",
+                "codice_fiscale": "82001370491",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "UIGWY5",
+                "ufficio": "Ufficio Ragioneria",
+                "codice_fiscale": "82001370491",
+                "data_avvio": "2015-03-31"
+            },
+            {
+                "codice_univoco": "WJJQUY",
+                "ufficio": "Corpo Polizia Municipale",
+                "codice_fiscale": "82001370491",
+                "data_avvio": "2020-09-21"
+            },
+            {
+                "codice_univoco": "YYKJEE",
+                "ufficio": "Ufficio Edilizia Privata",
+                "codice_fiscale": "82001370491",
+                "data_avvio": "2015-03-31"
+            }
         ],
         "frazioni": [
             {
@@ -2653,8 +3536,8 @@
         },
         "geo": {
             "comune_istat": 49014,
-            "latitudine": 42.815123,
-            "longitudine": 10.330924,
+            "latitudine": 42.81221,
+            "longitudine": 10.312591,
             "altitudine_slm": 4,
             "superficie_kmq": 48.28
         },
@@ -2685,7 +3568,7 @@
         "prefisso": "0586",
         "fax": "+39 0586 724276",
         "wikipedia": "https://it.wikipedia.org/wiki/Rosignano_Marittimo",
-        "sito_web": "https://visitrosignano.it/",
+        "sito_web": "https://www.comune.rosignano.livorno.it",
         "belfiore": "H570",
         "santo_patrono": "san Nicola da Tolentino",
         "festa_patronale": "10 settembre",
@@ -2696,13 +3579,24 @@
         "istat_2010_2016": "049017",
         "istat_2017_2025": "049017",
         "nome_abitanti": "rosignanese, rosignanesi; rosignanino, rosignanini (locale)",
+        "codice_fiscale": "00118800499",
+        "codice_ipa": "c_h570",
         "cap": [
             "57016"
         ],
+        "cap_vecchi": [],
         "confinanti": [
             49007,
             49008,
             49009
+        ],
+        "fatturazione": [
+            {
+                "codice_univoco": "UF639B",
+                "ufficio": "Uff_eFatturaPA",
+                "codice_fiscale": "00118800499",
+                "data_avvio": "2015-03-31"
+            }
         ],
         "frazioni": [
             {
@@ -2887,8 +3781,8 @@
         },
         "geo": {
             "comune_istat": 49017,
-            "latitudine": 43.350648,
-            "longitudine": 10.45661,
+            "latitudine": 43.406833,
+            "longitudine": 10.472192,
             "altitudine_slm": 147,
             "superficie_kmq": 120.83
         },
@@ -2930,14 +3824,25 @@
         "istat_2010_2016": "049018",
         "istat_2017_2025": "049018",
         "nome_abitanti": "sanvincenzino, sanvincenzini",
+        "codice_fiscale": "00235500493",
+        "codice_ipa": "c_l390",
         "cap": [
             "57027"
         ],
+        "cap_vecchi": [],
         "confinanti": [
             49002,
             49020,
             49012,
             49006
+        ],
+        "fatturazione": [
+            {
+                "codice_univoco": "UFLKLG",
+                "ufficio": "Uff_eFatturaPA",
+                "codice_fiscale": "00235500493",
+                "data_avvio": "2015-03-31"
+            }
         ],
         "frazioni": [
             {
@@ -3041,8 +3946,8 @@
         },
         "geo": {
             "comune_istat": 49018,
-            "latitudine": 43.100735,
-            "longitudine": 10.538029,
+            "latitudine": 43.09074,
+            "longitudine": 10.542292,
             "altitudine_slm": 5,
             "superficie_kmq": 33.28
         },
@@ -3084,12 +3989,23 @@
         "istat_2010_2016": "049019",
         "istat_2017_2025": "049019",
         "nome_abitanti": "sassetano, sassetani",
+        "codice_fiscale": "80015700497",
+        "codice_ipa": "c_i454",
         "cap": [
             "57020"
         ],
+        "cap_vecchi": [],
         "confinanti": [
             49006,
             49020
+        ],
+        "fatturazione": [
+            {
+                "codice_univoco": "UF8MDD",
+                "ufficio": "Uff_eFatturaPA",
+                "codice_fiscale": "80015700497",
+                "data_avvio": "2015-03-31"
+            }
         ],
         "frazioni": [
             {
@@ -3139,8 +4055,8 @@
         },
         "geo": {
             "comune_istat": 49019,
-            "latitudine": 43.128366,
-            "longitudine": 10.644286,
+            "latitudine": 43.126673,
+            "longitudine": 10.64153,
             "altitudine_slm": 330,
             "superficie_kmq": 26.75
         },
@@ -3171,7 +4087,7 @@
         "prefisso": "0565",
         "fax": "+39 0565 828201",
         "wikipedia": "https://it.wikipedia.org/wiki/Suvereto",
-        "sito_web": "https://www.comune.suvereto.li.it/",
+        "sito_web": "https://comune.suvereto.li.it",
         "belfiore": "L019",
         "santo_patrono": "santa Croce",
         "festa_patronale": "3 maggio",
@@ -3182,15 +4098,26 @@
         "istat_2010_2016": "049020",
         "istat_2017_2025": "049020",
         "nome_abitanti": "suveretani",
+        "codice_fiscale": "00218220499",
+        "codice_ipa": "c_l019",
         "cap": [
             "57028"
         ],
+        "cap_vecchi": [],
         "confinanti": [
             49002,
             49006,
             49012,
             49018,
             49019
+        ],
+        "fatturazione": [
+            {
+                "codice_univoco": "LHRJAE",
+                "ufficio": "Ufficio per la transizione al Digitale",
+                "codice_fiscale": "00218220499",
+                "data_avvio": "2021-01-21"
+            }
         ],
         "frazioni": [
             {
@@ -3267,8 +4194,8 @@
         },
         "geo": {
             "comune_istat": 49020,
-            "latitudine": 43.079066,
-            "longitudine": 10.679174,
+            "latitudine": 43.076644,
+            "longitudine": 10.676924,
             "altitudine_slm": 90,
             "superficie_kmq": 92.38
         },
@@ -3299,7 +4226,7 @@
         "prefisso": "0565",
         "fax": "",
         "wikipedia": "https://it.wikipedia.org/wiki/Rio_(Italia)",
-        "sito_web": "https://comune.rio.li.it",
+        "sito_web": "https://www.comune.rio.li.it",
         "belfiore": "M391",
         "santo_patrono": "Santa Barbara e San Giacomo il Maggiore",
         "festa_patronale": "4 dicembre, 25 luglio",
@@ -3310,12 +4237,23 @@
         "istat_2010_2016": "049021",
         "istat_2017_2025": "049021",
         "nome_abitanti": "riese, riesi",
+        "codice_fiscale": "91016750498",
+        "codice_ipa": "c_m391",
         "cap": [
             "57038"
         ],
+        "cap_vecchi": [],
         "confinanti": [
             49013,
             49014
+        ],
+        "fatturazione": [
+            {
+                "codice_univoco": "UFUTI3",
+                "ufficio": "Uff_eFatturaPA",
+                "codice_fiscale": "91016750498",
+                "data_avvio": "2015-03-31"
+            }
         ],
         "frazioni": [
             {
@@ -3455,8 +4393,8 @@
         },
         "geo": {
             "comune_istat": 49021,
-            "latitudine": 42.813499,
-            "longitudine": 10.399687,
+            "latitudine": 42.813365,
+            "longitudine": 10.425152,
             "altitudine_slm": 165,
             "superficie_kmq": 36.53
         },

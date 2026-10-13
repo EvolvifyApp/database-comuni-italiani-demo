@@ -1,6 +1,6 @@
 # Licenza d'Uso — Pacchetto Dati Evolvify
 
-**Versione 2026.10.001 — 09 Ottobre 2026**
+**Versione 2026.10.004 — 13 Ottobre 2026**
 
 Questo documento disciplina i termini e le condizioni di utilizzo del pacchetto dati
 distribuito da **Evolvify** ("Licenziante").
@@ -58,13 +58,18 @@ In conformità a tali licenze si riconosce quanto segue:
 
 - Dati statistici territoriali: **ISTAT** — Istituto Nazionale di Statistica (CC BY 4.0)
 - Contatti istituzionali: **Ministero dell'Interno** — Dipartimento per gli Affari Interni e Territoriali (CC BY 4.0)
+- Codice fiscale, codice IPA, sito istituzionale e uffici di fatturazione elettronica: **IndicePA** — Indice dei
+  domicili digitali della Pubblica Amministrazione e dei gestori di pubblici servizi, AgID (CC BY 4.0)
 - Classificazione sismica: **Dipartimento della Protezione Civile** — Presidenza del Consiglio dei Ministri (CC BY 4.0)
-- Dati geografici e CAP: **Garda Informatica** (MIT License)
+- Coordinate dei comuni: **ISTAT** — Basi territoriali 2021, centro abitato del capoluogo (CC BY 4.0)
+- CAP: **Garda Informatica** (MIT License)
 - Dati solari: **PVGIS © European Communities, 2001–2026** — Joint Research Centre, Commissione Europea (CC BY 4.0)
 - Zone climatiche: aggregazione da DPR 412/1993 Allegato A (atto normativo pubblico)
 - Link Wikipedia, santo patrono, festa patronale e nome degli abitanti: dati di fatto tratti dalle voci di
   **Wikipedia** in lingua italiana, riutilizzabili liberamente secondo i Termini d'uso Wikimedia (§7)
-- Comuni confinanti, prefissi telefonici e siti istituzionali: **Wikidata** (CC0 1.0)
+- Comuni confinanti, prefissi telefonici, siti istituzionali dove IndicePA non li riporta, CAP delle frazioni e
+  dei comuni nati da fusione,
+  coordinate dei comuni nati dopo il 2021 e dei centri verificati a mano: **Wikidata** (CC0 1.0)
 
 L'elaborazione, la normalizzazione e la strutturazione dei dati sono opera originale del Licenziante
 e sono protetti dalla presente licenza come indicato all'articolo 4.
