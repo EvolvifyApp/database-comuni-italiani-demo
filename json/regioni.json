@@ -7,12 +7,22 @@
         "wikipedia": "https://it.wikipedia.org/wiki/Toscana",
         "numero_province": 10,
         "numero_comuni": 273,
+        "nuts1": "ITI",
+        "nuts2": "ITI1",
+        "denominazione_ente": "Regione Toscana",
+        "codice_fiscale": "01386030488",
+        "codice_ipa": "r_toscan",
+        "pec": "regionetoscana@postacert.toscana.it",
+        "sito_web": "https://www.regione.toscana.it",
+        "indirizzo_sede": "Piazza Duomo 10",
+        "cap_sede": "50122",
+        "comune_sede_istat": 48017,
         "popolazione": {
             "regione_istat": 9,
-            "popolazione_maschile": 1781954,
-            "popolazione_femminile": 1875762,
-            "popolazione_totale": 3657716,
-            "densita_abitativa": 159.1
+            "popolazione_maschile": 1786632,
+            "popolazione_femminile": 1872590,
+            "popolazione_totale": 3659222,
+            "densita_abitativa": 159.17
         },
         "geo": {
             "regione_istat": 9,
@@ -27,7 +37,7 @@
             "zona_climatica_media": "D",
             "zona_climatica_max": "F",
             "gradi_giorno_min": 989,
-            "gradi_giorno_media": 2033,
+            "gradi_giorno_media": 2040,
             "gradi_giorno_max": 3512
         }
     }

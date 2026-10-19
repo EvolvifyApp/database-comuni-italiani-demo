@@ -1,2 +1,2 @@
-"Codice ISTAT","Zona ISTAT","Codice ISTAT (testo)",Nome,Wikipedia,"Numero province","Numero comuni"
-9,3,09,Toscana,https://it.wikipedia.org/wiki/Toscana,10,273
+"Codice ISTAT","Zona ISTAT","Codice ISTAT (testo)",Nome,Wikipedia,"Numero province","Numero comuni","Codice NUTS1","Codice NUTS2","Denominazione dell'ente","Codice fiscale","Codice IPA",PEC,"Sito web istituzionale","Indirizzo della sede","CAP della sede","Codice ISTAT del comune della sede"
+9,3,09,Toscana,https://it.wikipedia.org/wiki/Toscana,10,273,ITI,ITI1,"Regione Toscana",01386030488,r_toscan,regionetoscana@postacert.toscana.it,https://www.regione.toscana.it,"Piazza Duomo 10",50122,48017

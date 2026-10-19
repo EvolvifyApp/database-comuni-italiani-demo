@@ -9,18 +9,28 @@
         "regione_capoluogo": 0,
         "wikipedia": "https://it.wikipedia.org/wiki/Provincia_di_Livorno",
         "numero_comuni": 19,
+        "tipologia": "Provincia",
+        "nuts3": "ITI16",
+        "denominazione_ente": "Provincia di Livorno",
+        "codice_fiscale": "80011010495",
+        "codice_ipa": "p_li",
+        "pec": "provincia.livorno@postacert.toscana.it",
+        "sito_web": "https://www.provincia.livorno.it",
+        "indirizzo_sede": "Piazza Del Municipio,4",
+        "cap_sede": "57123",
+        "comune_sede_istat": 49009,
         "popolazione": {
             "provincia_istat": 49,
-            "popolazione_maschile": 158070,
-            "popolazione_femminile": 167679,
-            "popolazione_totale": 325749,
-            "densita_abitativa": 268.09
+            "popolazione_maschile": 158041,
+            "popolazione_femminile": 166852,
+            "popolazione_totale": 324893,
+            "densita_abitativa": 267.39
         },
         "geo": {
             "provincia_istat": 49,
             "superficie_kmq": 1215.06,
             "altitudine_min": 2,
-            "altitudine_media": 101,
+            "altitudine_media": 102,
             "altitudine_max": 375
         },
         "ambiente": {
@@ -29,7 +39,7 @@
             "zona_climatica_media": "C",
             "zona_climatica_max": "D",
             "gradi_giorno_min": 989,
-            "gradi_giorno_media": 1320,
+            "gradi_giorno_media": 1336,
             "gradi_giorno_max": 1897
         }
     }

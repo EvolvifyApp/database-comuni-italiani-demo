@@ -1,2 +1,2 @@
-"Codice ISTAT","Zona ISTAT","Codice ISTAT regione","Codice ISTAT (testo)",Nome,Sigla,"Capoluogo regione",Wikipedia,"Numero comuni"
-49,3,9,049,Livorno,LI,0,https://it.wikipedia.org/wiki/Provincia_di_Livorno,19
+"Codice ISTAT","Zona ISTAT","Codice ISTAT regione","Codice ISTAT (testo)",Nome,Sigla,"Capoluogo regione",Wikipedia,"Numero comuni",Tipologia,"Codice NUTS3","Denominazione dell'ente","Codice fiscale","Codice IPA",PEC,"Sito web istituzionale","Indirizzo della sede","CAP della sede","Codice ISTAT del comune della sede"
+49,3,9,049,Livorno,LI,0,https://it.wikipedia.org/wiki/Provincia_di_Livorno,19,Provincia,ITI16,"Provincia di Livorno",80011010495,p_li,provincia.livorno@postacert.toscana.it,https://www.provincia.livorno.it,"Piazza Del Municipio,4",57123,49009

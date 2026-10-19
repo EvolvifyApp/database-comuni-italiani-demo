@@ -1,0 +1,20 @@
+"Codice ISTAT comune","Altitudine DPR 412/93","Coefficiente C gas","Ambito tariffario gas","Zona di mercato elettrico","Conto Termico: comune fino a 15.000 abitanti","Zona di carico da neve (NTC 2018)","Carico neve al suolo (kN/m²)","Zona del vento (NTC 2018)","Velocità base del vento (m/s)"
+49001,80,1.015705,Centrale,"Centro Nord",1,III,0.60,3,27.00
+49002,231,1.007458,Centrale,"Centro Nord",1,III,0.63,3,27.00
+49003,2,1.022040,Centrale,"Centro Nord",1,III,0.60,9,31.00
+49004,167,1.006343,Centrale,"Centro Nord",1,III,0.60,9,31.00
+49005,52,1.021376,Centrale,"Centro Nord",1,III,0.60,9,31.00
+49006,194,1.002610,Centrale,"Centro Nord",1,III,0.60,3,27.00
+49007,15,1.027671,Centrale,"Centro Nord",0,III,0.60,3,27.00
+49008,40,1.022229,Centrale,"Centro Nord",0,III,0.60,3,27.00
+49009,3,1.024652,Centrale,"Centro Nord",0,III,0.60,3,27.00
+49010,375,0.983970,Centrale,"Centro Nord",1,III,0.82,9,31.00
+49011,3,1.020159,Centrale,"Centro Nord",1,III,0.60,9,31.00
+49012,21,1.024675,Centrale,"Centro Nord",0,III,0.60,3,27.00
+49013,2,1.021158,Centrale,"Centro Nord",1,III,0.60,9,31.00
+49014,4,1.020972,Centrale,"Centro Nord",1,III,0.60,9,31.00
+49017,147,1.012552,Centrale,"Centro Nord",0,III,0.60,3,27.00
+49018,5,1.021526,Centrale,"Centro Nord",1,III,0.60,3,27.00
+49019,330,0.996541,Centrale,"Centro Nord",1,III,0.75,3,27.00
+49020,90,1.014330,Centrale,"Centro Nord",1,III,0.60,3,27.00
+49021,,,Centrale,"Centro Nord",1,III,0.60,9,31.00

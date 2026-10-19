@@ -10,7 +10,10 @@
         "codice_comune_associato": "049021",
         "comune_associato": "Rio",
         "sigla_provincia_associato": "LI",
-        "codice_provincia_associato": "049"
+        "codice_provincia_associato": "049",
+        "belfiore_vecchio": "H305",
+        "belfiore_associato": "M391",
+        "comune_istat_attuale": 49021
     },
     {
         "codice_comune_vecchio": "049016",
@@ -23,6 +26,9 @@
         "codice_comune_associato": "049021",
         "comune_associato": "Rio",
         "sigla_provincia_associato": "LI",
-        "codice_provincia_associato": "049"
+        "codice_provincia_associato": "049",
+        "belfiore_vecchio": "H297",
+        "belfiore_associato": "M391",
+        "comune_istat_attuale": 49021
     }
 ]
