@@ -1,5 +1,41 @@
 # Changelog - Licenza: DEMO
 
+## v2026.10 — 26/10/2026
+
+Elenco delle tabelle e dei cambiamenti rispetto alla versione precedente.
+
+| Tabella | Totali | Nuovi | Aggiornati | Rimossi |
+|---|---:|---:|---:|---:|
+| data_comuni | 7894 | 0 | 15 | 0 |
+| data_comuni_popolazione | 7894 | 0 | 0 | 0 |
+| data_comuni_cap | 8819 | 0 | 0 | 0 |
+| data_comuni_cap_vecchi | 49 | 0 | 0 | 0 |
+| data_comuni_ambiente | 7894 | 0 | 0 | 0 |
+| data_comuni_geo | 7894 | 0 | 0 | 0 |
+| data_comuni_solare | 947280 | 0 | 0 | 0 |
+| data_comuni_soppressi | 2637 | 0 | 0 | 0 |
+| data_comuni_frazioni | 69003 | 0 | 0 | 0 |
+| data_comuni_confinanti | 46956 | 0 | 0 | 0 |
+| data_comuni_fatturazione | 27914 | 8 | 24 | 65 |
+| data_comuni_energia | 7894 | 0 | 0 | 0 |
+| data_comuni_raccordo | 9430 | 0 | 0 | 0 |
+| data_comuni_uffici | 51420 | 33 | 101 | 115 |
+| data_comuni_rischio | 7894 | 0 | 0 | 0 |
+| data_comuni_amministrazione | 7880 | 0 | 0 | 0 |
+| data_comuni_redditi | 7894 | 0 | 0 | 0 |
+| data_comuni_demografia | 7894 | 0 | 0 | 0 |
+| data_comuni_agevolazioni | 7894 | 0 | 0 | 0 |
+| data_province | 110 | 0 | 2 | 0 |
+| data_province_popolazione | 110 | 0 | 0 | 0 |
+| data_province_ambiente | 110 | 0 | 0 | 0 |
+| data_province_geo | 110 | 0 | 0 | 0 |
+| data_regioni | 20 | 0 | 0 | 0 |
+| data_regioni_popolazione | 20 | 0 | 0 | 0 |
+| data_regioni_ambiente | 20 | 0 | 0 | 0 |
+| data_regioni_geo | 20 | 0 | 0 | 0 |
+| data_zone | 5 | 0 | 0 | 0 |
+| data_nazioni | 253 | 0 | 0 | 0 |
+
 ## v2026.10 — 19/10/2026
 
 ## Dati nuovi
@@ -28,39 +64,37 @@
 - Prima del primo download dopo un acquisto ti chiediamo di confermare che vuoi ricevere subito il pacchetto, come prevede il Codice del Consumo.
 - Se ci scrivi dal modulo dei contatti, ricevi subito una conferma con la copia del tuo messaggio.
 
-Elenco delle tabelle e dei cambiamenti rispetto alla versione precedente.
-
 | Tabella | Totali | Nuovi | Aggiornati | Rimossi |
 |---|---:|---:|---:|---:|
-| data_comuni | 7894 | 0 | 7894 | 0 |
-| data_comuni_popolazione | 7894 | 0 | 7875 | 0 |
-| data_comuni_cap | 8819 | 0 | 0 | 0 |
-| data_comuni_cap_vecchi | 49 | 0 | 0 | 0 |
-| data_comuni_ambiente | 7894 | 0 | 7894 | 0 |
-| data_comuni_geo | 7894 | 0 | 137 | 0 |
-| data_comuni_solare | 947280 | 0 | 0 | 0 |
-| data_comuni_soppressi | 2637 | 0 | 2637 | 0 |
-| data_comuni_frazioni | 69003 | 0 | 69003 | 0 |
-| data_comuni_confinanti | 46956 | 0 | 0 | 0 |
-| data_comuni_fatturazione | 27971 | 1121 | 3 | 135 |
-| data_comuni_energia | 7894 | 7894 | 0 | 0 |
-| data_comuni_raccordo | 9430 | 9430 | 0 | 0 |
-| data_comuni_uffici | 51502 | 51502 | 0 | 0 |
-| data_comuni_rischio | 7894 | 7894 | 0 | 0 |
-| data_comuni_amministrazione | 7880 | 7880 | 0 | 0 |
-| data_comuni_redditi | 7894 | 7894 | 0 | 0 |
-| data_comuni_demografia | 7894 | 7894 | 0 | 0 |
-| data_comuni_agevolazioni | 7894 | 7894 | 0 | 0 |
-| data_province | 110 | 0 | 110 | 0 |
-| data_province_popolazione | 110 | 0 | 110 | 0 |
-| data_province_ambiente | 110 | 0 | 21 | 0 |
-| data_province_geo | 110 | 0 | 27 | 0 |
-| data_regioni | 20 | 0 | 20 | 0 |
-| data_regioni_popolazione | 20 | 0 | 20 | 0 |
-| data_regioni_ambiente | 20 | 0 | 9 | 0 |
-| data_regioni_geo | 20 | 0 | 8 | 0 |
 | data_zone | 5 | 0 | 0 | 0 |
+| data_comuni | 7894 | 0 | 7894 | 0 |
 | data_nazioni | 253 | 0 | 0 | 0 |
+| data_regioni | 20 | 0 | 20 | 0 |
+| data_province | 110 | 0 | 110 | 0 |
+| data_comuni_cap | 8819 | 0 | 0 | 0 |
+| data_comuni_geo | 7894 | 0 | 137 | 0 |
+| data_regioni_geo | 20 | 0 | 8 | 0 |
+| data_province_geo | 110 | 0 | 27 | 0 |
+| data_comuni_solare | 947280 | 0 | 0 | 0 |
+| data_comuni_uffici | 51502 | 51502 | 0 | 0 |
+| data_comuni_energia | 7894 | 7894 | 0 | 0 |
+| data_comuni_redditi | 7894 | 7894 | 0 | 0 |
+| data_comuni_rischio | 7894 | 7894 | 0 | 0 |
+| data_comuni_ambiente | 7894 | 0 | 7894 | 0 |
+| data_comuni_frazioni | 69003 | 0 | 69003 | 0 |
+| data_comuni_raccordo | 9430 | 9430 | 0 | 0 |
+| data_comuni_soppressi | 2637 | 0 | 2637 | 0 |
+| data_regioni_ambiente | 20 | 0 | 9 | 0 |
+| data_comuni_cap_vecchi | 49 | 0 | 0 | 0 |
+| data_comuni_confinanti | 46956 | 0 | 0 | 0 |
+| data_comuni_demografia | 7894 | 7894 | 0 | 0 |
+| data_province_ambiente | 110 | 0 | 21 | 0 |
+| data_comuni_popolazione | 7894 | 0 | 7875 | 0 |
+| data_comuni_agevolazioni | 7894 | 7894 | 0 | 0 |
+| data_comuni_fatturazione | 27971 | 1121 | 3 | 135 |
+| data_regioni_popolazione | 20 | 0 | 20 | 0 |
+| data_province_popolazione | 110 | 0 | 110 | 0 |
+| data_comuni_amministrazione | 7880 | 7880 | 0 | 0 |
 
 ## v2026.10 — 13/10/2026
 

@@ -1,6 +1,6 @@
-# Database Comuni Italiani (v2026.10.005)
+# Database Comuni Italiani (v2026.10.006)
 
-**Rilascio:** 19 Ottobre 2026
+**Rilascio:** 26 Ottobre 2026
 **Manutentore:** [Evolvify](https://evolvify.app)
 **Contatto:** https://databasecomuniitaliani.it/contatti
 
@@ -36,8 +36,8 @@ Ogni file Excel ha intestazioni chiare, encoding UTF-8 e un unico foglio per tab
 struttura definita nello schema del database completo.
 
 - **File JSON** (formato `.json`, cartella `json/`)
-- `comuni.json` → un documento per comune, con CAP e comuni confinanti (array), popolazione, dati geografici,
-  ambientali e per l'energia annidati, e i suoi codici storici dal 1991 (array).
+- `comuni.json` → un documento per comune, con CAP e comuni confinanti (array), popolazione, dati geografici, ambientali e per l'energia
+  annidati, e i suoi codici storici dal 1991 (array).
 - `province.json` → un documento per provincia, stessa struttura annidata di `comuni.json`.
 - `regioni.json` → un documento per regione, stessa struttura annidata.
 - `comuni_soppressi.json` → elenco dei comuni soppressi o accorpati.
@@ -48,14 +48,11 @@ A differenza dei file Excel, nei file JSON i valori numerici sono codificati com
 chiavi annidate mancanti per una specifica entità sono presenti con valore `null` invece di essere omesse.
 
 - **File CSV** (formato `.csv`, cartella `csv/`)
-- `comuni.csv`, `comuni_cap.csv`, `comuni_confinanti.csv`, `comuni_popolazione.csv`, `comuni_geo.csv`,
-  `comuni_ambiente.csv` → un file per ciascuna tabella dei comuni.
+- `comuni.csv`, `comuni_popolazione.csv`, `comuni_cap.csv`, `comuni_cap_vecchi.csv`, `comuni_ambiente.csv`, `comuni_geo.csv`, `comuni_frazioni.csv`, `comuni_confinanti.csv`, `comuni_fatturazione.csv`, `comuni_energia.csv`, `comuni_raccordo.csv`, `comuni_uffici.csv`, `comuni_rischio.csv`, `comuni_amministrazione.csv`, `comuni_redditi.csv`, `comuni_demografia.csv`, `comuni_agevolazioni.csv` → un file per ciascuna tabella dei comuni.
 - `comuni_soppressi.csv` → elenco dei comuni soppressi o accorpati.
 - `comuni_solare_{anno}.csv` → dati mensili di irraggiamento solare per anno.
-- `province.csv`, `province_popolazione.csv`, `province_geo.csv`, `province_ambiente.csv` → un file per ciascuna
-  tabella delle province.
-- `regioni.csv`, `regioni_popolazione.csv`, `regioni_geo.csv`, `regioni_ambiente.csv` → un file per ciascuna tabella
-  delle regioni.
+- `province.csv`, `province_popolazione.csv`, `province_ambiente.csv`, `province_geo.csv` → un file per ciascuna tabella delle province.
+- `regioni.csv`, `regioni_popolazione.csv`, `regioni_ambiente.csv`, `regioni_geo.csv` → un file per ciascuna tabella delle regioni.
 - `nazioni.csv` → elenco dei paesi e territori esteri in formato tabellare flat.
 
 A differenza dei file JSON, i file CSV non sono denormalizzati: ogni file corrisponde a una singola tabella e

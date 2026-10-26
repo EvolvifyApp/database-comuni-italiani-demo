@@ -1,448 +1,448 @@
 {
     "package": {
         "name": "demo",
-        "version": "2026.10.005",
-        "release_date": "2026-10-19T00:00:00+02:00",
+        "version": "2026.10.006",
+        "release_date": "",
         "total_files": 63,
-        "total_size": 2206928
+        "total_size": 2208534
     },
     "files": [
         {
             "path": "CHANGELOG.md",
-            "size": 29425,
-            "sha256": "267b888baceb89cb8fac1e16bf3c51a962de38edf070d80c69b5400904fa85ba",
-            "modified_at": "2026-10-19T11:53:34+02:00"
+            "size": 30774,
+            "sha256": "848c07e0f0494fd3c02bf73ed1ae5d2117c87a1663a3144545fddbcdde1f433a",
+            "modified_at": "2026-10-26T01:43:39+01:00"
         },
         {
             "path": "LICENSE.md",
             "size": 6623,
-            "sha256": "4726da00d26ac48add9ecb384dab7c872aaf36dff5210437aaebfd3abf085128",
-            "modified_at": "2026-10-19T11:53:34+02:00"
+            "sha256": "ac2d09b43742e610e1f3adaf240ddcd928701541a540083821768f3865ca534c",
+            "modified_at": "2026-10-26T01:43:39+01:00"
         },
         {
             "path": "README.md",
-            "size": 40534,
-            "sha256": "8c3412a9a7e755343f32c824bccfd0d45d908d8be1b462cca1f8e008f4629db1",
-            "modified_at": "2026-10-19T11:53:34+02:00"
+            "size": 40795,
+            "sha256": "f151c1228e2605309aa6ac7cf18645d5f47a75c1c32aac5d22a3df3fe34f2636",
+            "modified_at": "2026-10-26T01:43:39+01:00"
         },
         {
             "path": "csv/comuni.csv",
             "size": 9213,
             "sha256": "a18bca9a86223683835f66c4067e81af26b4f5b195fc530ad122381fdd4052b1",
-            "modified_at": "2026-10-19T11:53:35+02:00",
+            "modified_at": "2026-10-26T01:43:40+01:00",
             "records": 19
         },
         {
             "path": "csv/comuni_agevolazioni.csv",
             "size": 464,
             "sha256": "db63ca92e77a99fc15d2b7dc1a7653ed228018c65331d349cf176d2e8486809c",
-            "modified_at": "2026-10-19T11:53:35+02:00",
+            "modified_at": "2026-10-26T01:43:40+01:00",
             "records": 19
         },
         {
             "path": "csv/comuni_ambiente.csv",
             "size": 3408,
             "sha256": "bb806903a60164a397aa0129a24a221384347aaeb3594a5d0507310750fea235",
-            "modified_at": "2026-10-19T11:53:35+02:00",
+            "modified_at": "2026-10-26T01:43:40+01:00",
             "records": 19
         },
         {
             "path": "csv/comuni_amministrazione.csv",
             "size": 1147,
             "sha256": "6ae4ea5d956c4078ef00cbfc2df7669555a18543d38c99c95c3544ec16b73697",
-            "modified_at": "2026-10-19T11:53:35+02:00",
+            "modified_at": "2026-10-26T01:43:40+01:00",
             "records": 19
         },
         {
             "path": "csv/comuni_cap.csv",
             "size": 374,
             "sha256": "6430b11665fa5655643c82bec63ec7dde60ceb71edbbb18188c31b9671a10e6c",
-            "modified_at": "2026-10-19T11:53:35+02:00",
+            "modified_at": "2026-10-26T01:43:40+01:00",
             "records": 29
         },
         {
             "path": "csv/comuni_cap_vecchi.csv",
             "size": 51,
             "sha256": "ab8b2fab2d3bf787a1de3f89b2d1965f150679058137950dcbbdf257d87212d8",
-            "modified_at": "2026-10-19T11:53:35+02:00",
+            "modified_at": "2026-10-26T01:43:40+01:00",
             "records": 0
         },
         {
             "path": "csv/comuni_confinanti.csv",
             "size": 679,
             "sha256": "8c044d3513fc66f5b03756501d00701628dea8cda2d91b4594c47c83298485b6",
-            "modified_at": "2026-10-19T11:53:35+02:00",
+            "modified_at": "2026-10-26T01:43:40+01:00",
             "records": 52
         },
         {
             "path": "csv/comuni_demografia.csv",
             "size": 1685,
             "sha256": "d47739b3a80e914b694b128fba4e9531aa20562eb91220d5dd2db292b37c3267",
-            "modified_at": "2026-10-19T11:53:35+02:00",
+            "modified_at": "2026-10-26T01:43:40+01:00",
             "records": 19
         },
         {
             "path": "csv/comuni_energia.csv",
             "size": 1425,
             "sha256": "a53ecb6fb2478401cd859c23d3c1788b8034e956ac45673cdfaebb2cd820777b",
-            "modified_at": "2026-10-19T11:53:35+02:00",
+            "modified_at": "2026-10-26T01:43:40+01:00",
             "records": 19
         },
         {
             "path": "csv/comuni_fatturazione.csv",
             "size": 9290,
             "sha256": "e58a9925c233ee6b94523d4968e91676e9a1f579338b9ead2c0b91c22d630857",
-            "modified_at": "2026-10-19T11:53:35+02:00",
+            "modified_at": "2026-10-26T01:43:40+01:00",
             "records": 140
         },
         {
             "path": "csv/comuni_frazioni.csv",
             "size": 20269,
             "sha256": "e8c2b188fa40e14cd23ba3a5a18f155d9b06782f49790c5fbf6aae47d2e1a41f",
-            "modified_at": "2026-10-19T11:53:35+02:00",
+            "modified_at": "2026-10-26T01:43:40+01:00",
             "records": 253
         },
         {
             "path": "csv/comuni_geo.csv",
             "size": 754,
             "sha256": "67bc1dbe34c9065f598147bedc5728e0dea4ef5409821e801051d0b83cfee3ac",
-            "modified_at": "2026-10-19T11:53:35+02:00",
+            "modified_at": "2026-10-26T01:43:40+01:00",
             "records": 19
         },
         {
             "path": "csv/comuni_popolazione.csv",
             "size": 707,
             "sha256": "56374bd59fbf30f935a4764bdc4579f8ebead39ba6ffd00c78e3e190945ce89d",
-            "modified_at": "2026-10-19T11:53:35+02:00",
+            "modified_at": "2026-10-26T01:43:40+01:00",
             "records": 19
         },
         {
             "path": "csv/comuni_raccordo.csv",
             "size": 887,
             "sha256": "2fe03cba193ff2c558027ad75311008a5e351cbe88921de17812056cf1949cda",
-            "modified_at": "2026-10-19T11:53:35+02:00",
+            "modified_at": "2026-10-26T01:43:40+01:00",
             "records": 21
         },
         {
             "path": "csv/comuni_redditi.csv",
             "size": 5675,
             "sha256": "d7a244337c32eb6796b4c7d8d32d593a409424712e280ca02e083a47783b5b4c",
-            "modified_at": "2026-10-19T11:53:35+02:00",
+            "modified_at": "2026-10-26T01:43:40+01:00",
             "records": 19
         },
         {
             "path": "csv/comuni_rischio.csv",
             "size": 12126,
             "sha256": "c66c3a1d278b518a3c834a723ae81d771c34d7bd59ae9d32e05ace3325703531",
-            "modified_at": "2026-10-19T11:53:35+02:00",
+            "modified_at": "2026-10-26T01:43:40+01:00",
             "records": 19
         },
         {
             "path": "csv/comuni_solare_2014.csv",
             "size": 13145,
             "sha256": "29077e29b73ad51613fd7f6a6c60ec821c16c23fdb765b1f016e910f18ae5484",
-            "modified_at": "2026-10-19T11:53:35+02:00",
+            "modified_at": "2026-10-26T01:43:40+01:00",
             "records": 228
         },
         {
             "path": "csv/comuni_solare_2015.csv",
             "size": 13168,
             "sha256": "93ed58a56512f14c32a144b8d0492f3e6454fb5d9e0ddef6b97cc645598626ae",
-            "modified_at": "2026-10-19T11:53:35+02:00",
+            "modified_at": "2026-10-26T01:43:40+01:00",
             "records": 228
         },
         {
             "path": "csv/comuni_solare_2016.csv",
             "size": 13172,
             "sha256": "96638cbede08f998e698d6cd45583df165a50415d2a06a012f08ac2134f4c3c4",
-            "modified_at": "2026-10-19T11:53:35+02:00",
+            "modified_at": "2026-10-26T01:43:40+01:00",
             "records": 228
         },
         {
             "path": "csv/comuni_solare_2017.csv",
             "size": 13172,
             "sha256": "e98d22c2eb7cfadb58f6599bfaea909cc70549fe9181ac2bbd13562cf8033437",
-            "modified_at": "2026-10-19T11:53:35+02:00",
+            "modified_at": "2026-10-26T01:43:40+01:00",
             "records": 228
         },
         {
             "path": "csv/comuni_solare_2018.csv",
             "size": 13100,
             "sha256": "fa5a00b28e748f9fc8b3ab311e294b1e07859b5b7e1c10520e3250472aeb207e",
-            "modified_at": "2026-10-19T11:53:35+02:00",
+            "modified_at": "2026-10-26T01:43:40+01:00",
             "records": 228
         },
         {
             "path": "csv/comuni_solare_2019.csv",
             "size": 13222,
             "sha256": "53b8e2ab045b13c25a650e34702d0d68faf33b1d66dc891af52c829b5ec96d90",
-            "modified_at": "2026-10-19T11:53:35+02:00",
+            "modified_at": "2026-10-26T01:43:41+01:00",
             "records": 228
         },
         {
             "path": "csv/comuni_solare_2020.csv",
             "size": 13241,
             "sha256": "a49ad2a05ea097d3ed737a439ced2f053556cdb4255064b6bea60be6e5d2c69e",
-            "modified_at": "2026-10-19T11:53:35+02:00",
+            "modified_at": "2026-10-26T01:43:41+01:00",
             "records": 228
         },
         {
             "path": "csv/comuni_solare_2021.csv",
             "size": 13184,
             "sha256": "3c7d7117a26a989ffd0b85b2ed8cd56057a1a9d72645672fe51197d91ca3da58",
-            "modified_at": "2026-10-19T11:53:36+02:00",
+            "modified_at": "2026-10-26T01:43:41+01:00",
             "records": 228
         },
         {
             "path": "csv/comuni_solare_2022.csv",
             "size": 13235,
             "sha256": "1b4aa4f08bbbfae766de71e75b03278d44910e9034b9d13476ccc30454443be1",
-            "modified_at": "2026-10-19T11:53:36+02:00",
+            "modified_at": "2026-10-26T01:43:41+01:00",
             "records": 228
         },
         {
             "path": "csv/comuni_solare_2023.csv",
             "size": 13177,
             "sha256": "573105d4ad3cd792b7330e8267de8f2346aa1919e8aac7e6e79c05c6eaaa7ee1",
-            "modified_at": "2026-10-19T11:53:36+02:00",
+            "modified_at": "2026-10-26T01:43:41+01:00",
             "records": 228
         },
         {
             "path": "csv/comuni_soppressi.csv",
             "size": 549,
             "sha256": "2c41eed6da03a9760ff6b76793d5fddb69d9df913568b92d78b7bff0b9f43073",
-            "modified_at": "2026-10-19T11:53:36+02:00",
+            "modified_at": "2026-10-26T01:43:41+01:00",
             "records": 2
         },
         {
             "path": "csv/comuni_uffici.csv",
             "size": 32858,
             "sha256": "1ea6cf57694686d2d82d4fdc48f8e7edea5f751122478be464ff7a518c0dbf00",
-            "modified_at": "2026-10-19T11:53:35+02:00",
+            "modified_at": "2026-10-26T01:43:40+01:00",
             "records": 244
         },
         {
             "path": "csv/nazioni.csv",
             "size": 26338,
             "sha256": "f0402293ed01b9c8df8320db1c8830c65173f03e9ff1e062b71e6396658eff50",
-            "modified_at": "2026-10-19T11:53:36+02:00",
+            "modified_at": "2026-10-26T01:43:41+01:00",
             "records": 253
         },
         {
             "path": "csv/province.csv",
             "size": 561,
             "sha256": "25d739402e2314bb77bccfaac28cfcac5c4ed1913e048f29e8255742608678d4",
-            "modified_at": "2026-10-19T11:53:36+02:00",
+            "modified_at": "2026-10-26T01:43:41+01:00",
             "records": 1
         },
         {
             "path": "csv/province_ambiente.csv",
             "size": 185,
             "sha256": "a8b9e8913a776dc5e3800bdcdff2bde655a649a01c1e04c4d15fecd415498e7a",
-            "modified_at": "2026-10-19T11:53:36+02:00",
+            "modified_at": "2026-10-26T01:43:41+01:00",
             "records": 1
         },
         {
             "path": "csv/province_geo.csv",
             "size": 147,
             "sha256": "198d2a995193be110c9ceb1962cdd58ceb2207cdf34c4993a6fe464533e5fa20",
-            "modified_at": "2026-10-19T11:53:36+02:00",
+            "modified_at": "2026-10-26T01:43:41+01:00",
             "records": 1
         },
         {
             "path": "csv/province_popolazione.csv",
             "size": 145,
             "sha256": "e1eec6f5f1341c767752dfe0c992949d6c3dffe32923a6e8da4bf5832a2b5d6c",
-            "modified_at": "2026-10-19T11:53:36+02:00",
+            "modified_at": "2026-10-26T01:43:41+01:00",
             "records": 1
         },
         {
             "path": "csv/regioni.csv",
             "size": 497,
             "sha256": "f9b77d54485e4f00b30663200c2f8df02309edfe7224ed91ce1d2a19eda5ab73",
-            "modified_at": "2026-10-19T11:53:36+02:00",
+            "modified_at": "2026-10-26T01:43:41+01:00",
             "records": 1
         },
         {
             "path": "csv/regioni_ambiente.csv",
             "size": 182,
             "sha256": "267bc174857985b00f93131b27940c7dcb4ec81cbed208b63c1f8f63a9f79714",
-            "modified_at": "2026-10-19T11:53:36+02:00",
+            "modified_at": "2026-10-26T01:43:41+01:00",
             "records": 1
         },
         {
             "path": "csv/regioni_geo.csv",
             "size": 145,
             "sha256": "d99dcfc508ec02d53e2e0e515f65044bd40e88983c881b86a4f4a364b6442d3f",
-            "modified_at": "2026-10-19T11:53:36+02:00",
+            "modified_at": "2026-10-26T01:43:41+01:00",
             "records": 1
         },
         {
             "path": "csv/regioni_popolazione.csv",
             "size": 145,
             "sha256": "4dcfeb7dfec9d415895fd58744415c0bd5dba57ac5aec11fa06a32de83187557",
-            "modified_at": "2026-10-19T11:53:36+02:00",
+            "modified_at": "2026-10-26T01:43:41+01:00",
             "records": 1
         },
         {
             "path": "excel/comuni.xlsx",
-            "size": 74978,
-            "sha256": "efc020b778a049a8384014e67db7775f0931d8d10dc895132214b0018787bab6",
-            "modified_at": "2026-10-19T11:53:34+02:00"
+            "size": 74977,
+            "sha256": "b40cfccccf617129c5c005f2f44ab0156ddd9169522d78f87fbd4f674e734d77",
+            "modified_at": "2026-10-26T01:43:39+01:00"
         },
         {
             "path": "excel/comuni_soppressi.xlsx",
             "size": 3132,
-            "sha256": "74e364b0e369af64bb0a79bce6c01ca5989502eee6197cea5be2dd99657a4d94",
-            "modified_at": "2026-10-19T11:53:34+02:00"
+            "sha256": "02cc57917d8aa85b21129a778357f84c7b279e62dbd08e707a98b263548bafde",
+            "modified_at": "2026-10-26T01:43:39+01:00"
         },
         {
             "path": "excel/nazioni.xlsx",
-            "size": 22042,
-            "sha256": "a196eb640ecd75836e22768a95e8e2d75624cbe515d5b96d1349e7072889301f",
-            "modified_at": "2026-10-19T11:53:34+02:00"
+            "size": 22041,
+            "sha256": "0ddaf362b9f3fb99d845af20f40ba7399d8f7a3e86193d91116ecfc4239bb076",
+            "modified_at": "2026-10-26T01:43:39+01:00"
         },
         {
             "path": "excel/province.xlsx",
-            "size": 5154,
-            "sha256": "b991bce288270c1dbb927ea32ab362d04f734c55d45d472249fe94c4748f4ef6",
-            "modified_at": "2026-10-19T11:53:34+02:00"
+            "size": 5153,
+            "sha256": "b0145f2a5edff2bb170b32ce728840f4e49261ea2e6e594dcd8b4bdb6bc49a50",
+            "modified_at": "2026-10-26T01:43:39+01:00"
         },
         {
             "path": "excel/regioni.xlsx",
-            "size": 5069,
-            "sha256": "2db636d031b17ac4b60b383e852ab14e71d47fb74f80e121ec47896024824ed3",
-            "modified_at": "2026-10-19T11:53:34+02:00"
+            "size": 5068,
+            "sha256": "2c3be8fec2e0fa79b5546b882723f5e7fcaddfb245769d516a77e7f66df2f743",
+            "modified_at": "2026-10-26T01:43:39+01:00"
         },
         {
             "path": "geojson/comuni.geojson",
             "size": 76870,
             "sha256": "833f2471f294b2a00987eef254a7ce33a038af884e4848704ee2a8356942e55b",
-            "modified_at": "2026-10-19T11:53:36+02:00",
+            "modified_at": "2026-10-26T01:43:41+01:00",
             "records": 19
         },
         {
             "path": "geojson/province.geojson",
             "size": 44859,
             "sha256": "dedab63de509ed6c4484f2b3e0e4ebde615a7a24bacc6813c748df7c128ad3b5",
-            "modified_at": "2026-10-19T11:53:36+02:00",
+            "modified_at": "2026-10-26T01:43:41+01:00",
             "records": 1
         },
         {
             "path": "geojson/regioni.geojson",
             "size": 109930,
             "sha256": "a35a0ddf5672f35ecfb446ad6797bdc1a7205a4eaa6ba00f22373bf0aad14e2b",
-            "modified_at": "2026-10-19T11:53:36+02:00",
+            "modified_at": "2026-10-26T01:43:41+01:00",
             "records": 1
         },
         {
             "path": "json/comuni.json",
             "size": 446024,
             "sha256": "4c8ee77b369d8161204267f104cdb9df09e6bd8660bb3cb8b1ccd349bac23b16",
-            "modified_at": "2026-10-19T11:53:35+02:00",
+            "modified_at": "2026-10-26T01:43:40+01:00",
             "records": 19
         },
         {
             "path": "json/comuni_solare_2014.json",
             "size": 92775,
             "sha256": "5403d4f82bdcd090c605abfbbe2a1f39d09faf99abb4870b72141d378016e3e2",
-            "modified_at": "2026-10-19T11:53:35+02:00",
+            "modified_at": "2026-10-26T01:43:40+01:00",
             "records": 228
         },
         {
             "path": "json/comuni_solare_2015.json",
             "size": 92840,
             "sha256": "d5b392b81c9c1244d60dfb0332b83bc508eeebf1c40962fb4d317baf88d9cecd",
-            "modified_at": "2026-10-19T11:53:35+02:00",
+            "modified_at": "2026-10-26T01:43:40+01:00",
             "records": 228
         },
         {
             "path": "json/comuni_solare_2016.json",
             "size": 92843,
             "sha256": "0e334b023b8f49330e3096adbec0c0acf735fb1bdacc9cada9bcd9aa08f299a6",
-            "modified_at": "2026-10-19T11:53:35+02:00",
+            "modified_at": "2026-10-26T01:43:40+01:00",
             "records": 228
         },
         {
             "path": "json/comuni_solare_2017.json",
             "size": 92851,
             "sha256": "aa07e8cd85917440c536f36289ab6605138ee48dcabc4eb8fdf1750a23f4b3d3",
-            "modified_at": "2026-10-19T11:53:35+02:00",
+            "modified_at": "2026-10-26T01:43:40+01:00",
             "records": 228
         },
         {
             "path": "json/comuni_solare_2018.json",
             "size": 92804,
             "sha256": "c2b96150c1d3b0f59d7d005e4b8ba53164d2a439af682a4c81f24222d6a2c6f4",
-            "modified_at": "2026-10-19T11:53:35+02:00",
+            "modified_at": "2026-10-26T01:43:40+01:00",
             "records": 228
         },
         {
             "path": "json/comuni_solare_2019.json",
             "size": 92884,
             "sha256": "7588b3a86d8193d6468a69614b889c8d88c2faa854bf370d13329a011a007b38",
-            "modified_at": "2026-10-19T11:53:35+02:00",
+            "modified_at": "2026-10-26T01:43:40+01:00",
             "records": 228
         },
         {
             "path": "json/comuni_solare_2020.json",
             "size": 92940,
             "sha256": "61cb651d4bedab81deaa8ab4029c8f8484546889f4bbadec839850fc43339ccd",
-            "modified_at": "2026-10-19T11:53:35+02:00",
+            "modified_at": "2026-10-26T01:43:40+01:00",
             "records": 228
         },
         {
             "path": "json/comuni_solare_2021.json",
             "size": 92864,
             "sha256": "d6228a3fdaee3f1e6df77a88f64144b7ea19c35a2cda63c5023db9cd6a0b7ab7",
-            "modified_at": "2026-10-19T11:53:35+02:00",
+            "modified_at": "2026-10-26T01:43:40+01:00",
             "records": 228
         },
         {
             "path": "json/comuni_solare_2022.json",
             "size": 92906,
             "sha256": "741de58fdf7e43a41500441329bb65fe0c3450508098803d92a13134cb958cb5",
-            "modified_at": "2026-10-19T11:53:35+02:00",
+            "modified_at": "2026-10-26T01:43:40+01:00",
             "records": 228
         },
         {
             "path": "json/comuni_solare_2023.json",
             "size": 92865,
             "sha256": "2aea7a6ad03364586d64f56a48e654f7b9091e1f3b378f4e9b7a2df2827a611e",
-            "modified_at": "2026-10-19T11:53:35+02:00",
+            "modified_at": "2026-10-26T01:43:40+01:00",
             "records": 228
         },
         {
             "path": "json/comuni_soppressi.json",
             "size": 1157,
             "sha256": "359c2fc73099e5851bf3cf71a8f60ce0d7b7382833d313e8214f92170c5947d2",
-            "modified_at": "2026-10-19T11:53:35+02:00",
+            "modified_at": "2026-10-26T01:43:40+01:00",
             "records": 2
         },
         {
             "path": "json/nazioni.json",
             "size": 147996,
             "sha256": "e1ec4ad4daadaa859972be698ccaeff1c7f19b684edc72d5314d0f05d499181d",
-            "modified_at": "2026-10-19T11:53:35+02:00",
+            "modified_at": "2026-10-26T01:43:40+01:00",
             "records": 253
         },
         {
             "path": "json/province.json",
             "size": 1468,
             "sha256": "ad51f90e75c6ce8b3aeed2d5d3af26c9751b3c4f63ab59d69d23b812914001b1",
-            "modified_at": "2026-10-19T11:53:35+02:00",
+            "modified_at": "2026-10-26T01:43:40+01:00",
             "records": 1
         },
         {
             "path": "json/regioni.json",
             "size": 1373,
             "sha256": "8742767fffb79c599980ae3f1d73180b29bfdd4f29101c7b9fdb712d4fd0a486",
-            "modified_at": "2026-10-19T11:53:35+02:00",
+            "modified_at": "2026-10-26T01:43:40+01:00",
             "records": 1
         }
     ],
     "checksums": {
         "algorithm": "sha256",
-        "manifest_hash": "3eb7fcb45ace3ffcaba2c72c6a6590c8c33b550da9d742e3bf29aeb6da7841b4"
+        "manifest_hash": "c07fcf3d2dc4fa209d0772689a6ca605a5bd0365f5a87f957a8802f24b2df126"
     }
 }
