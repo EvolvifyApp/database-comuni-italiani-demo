@@ -1,6 +1,6 @@
-# Database Comuni Italiani (v2026.10.007)
+# Database Comuni Italiani (v2026.11.001)
 
-**Rilascio:** 28 Ottobre 2026
+**Rilascio:** 02 Novembre 2026
 **Manutentore:** [Evolvify](https://evolvify.app)
 **Contatto:** https://databasecomuniitaliani.it/contatti
 
