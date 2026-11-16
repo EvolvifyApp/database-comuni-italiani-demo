@@ -1,6 +1,6 @@
 # Licenza d'Uso — Pacchetto Dati Evolvify
 
-**Versione 2026.11.002 — 09 Novembre 2026**
+**Versione 2026.11.003 — 16 Novembre 2026**
 
 Questo documento disciplina i termini e le condizioni di utilizzo del pacchetto dati
 distribuito da **Evolvify** ("Licenziante").
