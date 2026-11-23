@@ -6,8 +6,8 @@ abstract: "Estratto gratuito del Database Comuni Italiani: i comuni di una provi
 authors:
   - name: "Evolvify"
     website: "https://databasecomuniitaliani.it"
-version: "2026.11.003"
-date-released: "2026-11-16"
+version: "2026.11.004"
+date-released: "2026-11-23"
 url: "https://databasecomuniitaliani.it/"
 repository-code: "https://github.com/EvolvifyApp/database-comuni-italiani-demo"
 license-url: "https://databasecomuniitaliani.it/terms"
